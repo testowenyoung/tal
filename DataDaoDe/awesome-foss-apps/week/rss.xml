@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DataDaoDe/awesome-foss-apps Weekly Updates RSS Feed]]></title><description><![CDATA[Get the latest updates for popular awesome list]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Jun 2021 10:20:09 GMT</lastBuildDate><item><title><![CDATA[DataDaoDe/awesome-foss-apps Mar 16th - Mar 22nd, 2020]]></title><description><![CDATA[<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/dnote/dnote">Dnote</a></h3>
+<li>golang, react, typescript</li>
+<li>GPLv3 License, AGPLv3 License</li>
+]]></description><link>https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2020-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2020-12</guid><pubDate>Mon, 16 Mar 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[DataDaoDe/awesome-foss-apps Dec 2nd - Dec 8th, 2019]]></title><description><![CDATA[<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/mickael-kerjean/filestash">Filestash</a></h3>
+<li>golang, react</li>
+<li>AGPLv3 License</li>
+]]></description><link>https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2019-49</link><guid isPermaLink="false">https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2019-49</guid><pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[DataDaoDe/awesome-foss-apps Jul 8th - Jul 14th, 2019]]></title><description><![CDATA[<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/CompuIves/codesandbox-client">Codesandbox</a></h3>
+<li>react, nginx, phoenix</li>
+]]></description><link>https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2019-28</link><guid isPermaLink="false">https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2019-28</guid><pubDate>Mon, 08 Jul 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[DataDaoDe/awesome-foss-apps Jun 4th - Jun 10th, 2018]]></title><description><![CDATA[<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/CompuIves/codesandbox-client">Codesandbox</a></h3>
+<li>GNU General Public License</li>
+]]></description><link>https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2018-23</link><guid isPermaLink="false">https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2018-23</guid><pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[DataDaoDe/awesome-foss-apps Mar 20th - Mar 26th, 2017]]></title><description><![CDATA[<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/PrecursorApp/precursor">Precursor App</a></h3>
+<li>clojurescript, om, react</li>
+<li>Eclipse Public License</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/gitlabhq/gitlabhq">Gitlab</a></h3>
+<li>ruby, rails, coffescript, redis, sidekiq,</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/taigaio">Taiga</a></h3>
+<li>GNU Affero License</li>
+]]></description><link>https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2017-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2017-12</guid><pubDate>Mon, 20 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[DataDaoDe/awesome-foss-apps Nov 23rd - Nov 29th, 2015]]></title><description><![CDATA[<h2>Desktop Apps</h2><h3><a href="https://github.com/wesnoth/wesnoth">Wesnoth</a></h3>
+<li>c, c++, lua</li>
+<li>GPLv2 License</li>
+]]></description><link>https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2015-48</link><guid isPermaLink="false">https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2015-48</guid><pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[DataDaoDe/awesome-foss-apps Jun 22nd - Jun 28th, 2015]]></title><description><![CDATA[<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/travis-ci">Travis CI</a></h3>
+<li>ruby, rails, sinatra, rabbitmq, ember</li>
+<li>MIT License</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/circleci/frontend">CircleCI</a></h3>
+<li>clojurescript, om, react</li>
+<li>Eclipse Public License</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/guardian/frontend">The Guardian</a></h3>
+<li>play2, scala, node</li>
+<li>Apache 2.0 License</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/TryGhost/Ghost">Ghost</a></h3>
+<li>node, express, ember</li>
+<li>MIT License</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/gitlabhq/gitlabhq">Gitlab</a></h3>
+<li>MIT License</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/discourse/discourse">Discourse</a></h3>
+<li>ruby, rails, ember</li>
+<li>GPLv2 License</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/reddit">Reddit</a></h3>
+<li>python, pylons, node, react, rabbitmq, postgresql</li>
+<li>Common Public Attribution License Version 1.0</li>
+<h2>Web Apps (frontend only)</h2><h3><a href="https://github.com/taigaio">Taiga</a></h3>
+<li>python3, django, coffeescript, angular</li>
+<h2>Desktop Apps</h2><h3><a href="http://www.blender.org/download/">Blender</a></h3>
+<li>c, c++, python</li>
+<li>GPLv2 License</li>
+<h2>Desktop Apps</h2><h3><a href="https://github.com/atom/atom">Atom</a></h3>
+<li>coffeescript, electron, node</li>
+<li>MIT License</li>
+<h2>Desktop Apps</h2><h3><a href="https://github.com/0ad/0ad">0ad</a></h3>
+<li>c++, python</li>
+<li>GPLv2 License</li>
+<h2>Desktop Apps</h2><h3><a href="https://github.com/hedgewars/hw">Hedgewars</a></h3>
+<li>c, c++, pascal, haskell</li>
+<li>GPLv2 License</li>
+]]></description><link>https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2015-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/DataDaoDe/awesome-foss-apps/week/#2015-26</guid><pubDate>Mon, 22 Jun 2015 00:00:00 GMT</pubDate></item></channel></rss>

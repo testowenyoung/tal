@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[gitfrage/guitarspecs Weekly Updates RSS Feed]]></title><description><![CDATA[Get the latest updates for popular awesome list]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Jun 2021 10:20:09 GMT</lastBuildDate><item><title><![CDATA[gitfrage/guitarspecs Dec 21st - Dec 27th, 2020]]></title><description><![CDATA[<h2>Electronics</h2><h3>Electronics Wiring Schemas</h3>
+<li><a href="http://www.seymourduncan.com/wiring-diagrams">Solder yourself - seymourduncan</a></li>
+<li><a href="https://www.mojotone.com/guitar-parts/Prewired-Kits#/">Prewired Classic - mojotone</a></li>
+<li><a href="http://www.dimarzio.com/support/wiring-diagrams">Solder yourself - dimarzio</a></li>
+<li><a href="https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams">Solder yourself - amplifiedparts</a></li>
+<li><a href="https://www.emgpickups.com/parts/wiring-kits.html">Solderless - EMG</a></li>
+<li><a href="https://toneshapers.com/wiring-products.html#cat=nextgen">Prewired Modern - toneshapers</a></li>
+<h2>Hardware Parts Checklist</h2>
+<li>String retainers. <a href="https://www.premierguitar.com/articles/24295-guitar-shop-101-happy-little-string-trees">see premierguitar.com article about design and construction</a></li>
+<h2>Electronics</h2>
+<li><a href="#sound-control-with-switches">Sound Control With Switches</a>  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.</li>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2020-52</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2020-52</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Feb 24th - Mar 1st, 2020]]></title><description><![CDATA[<h2>Electronics</h2><h3>Pickup Properties</h3>
+<li>Symmetrical vs asymmetrical connection type</li>
+<li>Output: low(vintage), medium, high (vintage used often for jazz and blues)</li>
+<h2>Electronics</h2><h3>Sound Control with Switches</h3>
+<li>Coil Split - "Single Coil Sound"</li>
+<li>Seriell/Parallel Schaltung - "double Single Coil Sound"</li>
+<li>Phase-Switch - "Out of Phase Sound"</li>
+<h2>Electronics</h2><h3>Potentiometer Knob Styles</h3>
+<li>bell</li>
+<li>speed</li>
+<li>domed</li>
+<h2>Guitar Bodies</h2><h3>Body Shapes</h3>
+<li>ST (Strat)</li>
+<li>T (Tele)</li>
+<li>Single Cut (LP)</li>
+<li>Double Cut (SG)</li>
+<li>Hollowbody</li>
+<li>Other Forms</li>
+<h2>Guitar Bodies</h2><h3>Bridge And Pickup Routing Overview</h3>
+<li>Flat Mount Hardtail (Strat/Tele/Schaller)</li>
+<li>Tremolo (Strat)</li>
+<li>Tune-O-Matic (Gison)</li>
+<li>Other (Jazzmaster®, Jaguar®, Bigsby®, Kahler®, Line 6, etc)</li>
+<h2>Guitar Bodies</h2><h3>Pickup Routing</h3>
+<li>Single Coils (Strat)</li>
+<li>Single Coils (Tele Neck)</li>
+<li>Single Coils (Tele Bridge)</li>
+<li>Humbucker</li>
+<li>Wide Humbucker *</li>
+<li>Mini Humbucker</li>
+<li>P90</li>
+<li>Lipstick Tube</li>
+<li>Jazzmaster</li>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2020-9</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2020-9</guid><pubDate>Mon, 24 Feb 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Mar 4th - Mar 10th, 2019]]></title><description><![CDATA[<h2>Guitar Bodies</h2><h3>Other Rare Bridge Variants</h3>
+<li>Wrap-Around (bridge-tailpiece combo - the strings are installed through the front side and wrapped around)</li>
+<h2>Hardware Parts Checklist</h2>
+<li>Pickguard or pickup mounting rings</li>
+<li>Control plate (only for for standard tele)</li>
+<li>String ferrules (String-thru Top or Bottom - if you use "string through body" instead of bridge)</li>
+<li>Strap holders</li>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2019-10</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2019-10</guid><pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Oct 2nd - Oct 8th, 2017]]></title><description><![CDATA[<h2>Electronics</h2>
+<li><a href="#pickup-properties">Pickup Properties</a>  - position and height of frequency peak vary from type to type.</li>
+<li><a href="#potentiometer-and-capacitor-values">Potentiometer and Capacitor Values</a> changing provides also simple way to change resonant frequency and peak.</li>
+<li>Cable capacitance - longer cable will lead to lower resonant frequency.</li>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2017-40</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2017-40</guid><pubDate>Mon, 02 Oct 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Apr 10th - Apr 16th, 2017]]></title><description><![CDATA[<h2>Guitar Necks</h2><h3>Fretboard's Radius</h3>
+<li>compound (10" - 16") - Warmoth® and others</li>
+<h2>Guitar Necks</h2><h3>Common Neck Head Shapes</h3>
+<li>3L/3R  - "Gobson Stype"</li>
+<li>4L/2R  - "Musicman Style"</li>
+<h2>Guitar Necks</h2><h3>Tuner Holes</h3>
+<li>approx. 8,7mm (11/32") - "Vintage Fender Style"</li>
+<li>approx. 10mm (25/64" = 9,9mm)  - "Sperzel Style",</li>
+<h2>Electronics</h2><h3>Pickup Properties</h3>
+<li>Position: Bridge, Neck, Midd­le</li>
+<h2>Strings</h2>
+<li>Tension</li>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2017-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2017-15</guid><pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Dec 19th - Dec 25th, 2016]]></title><description><![CDATA[<h2>Strings</h2>
+<li>Construction (Flat Wound/Round Wound)</li>
+<li>Material (Steel/Nickel) and</li>
+<h2>Scale Length</h2>
+<li>quick response, crisp attack</li>
+<li>transparent sound with well-defined basses and heights</li>
+<li>larger finger spread</li>
+<li>higher string tension at constant gauge</li>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2016-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2016-51</guid><pubDate>Mon, 19 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Apr 25th - May 1st, 2016]]></title><description><![CDATA[<h2>Guitar Necks</h2><h3>Neck Heel Width and Mounting</h3>
+<li>56 mm (2-3/16") - Width</li>
+<li>76 mm (3") - Length</li>
+<li>16 mm (5/8") - Pocket Depth</li>
+<h2>Guitar Necks</h2><h3>Fretboard's Radius</h3>
+<li>7-1/4"  - "Vintage" Fender®</li>
+<li>9-1/2" - "Modern" Fender®</li>
+<li>10" - Gibson®/PRS®</li>
+<li>12" - Ibanez®</li>
+<li>16" - Jackson®</li>
+<h2>Guitar Necks</h2><h3>Common Neck Head Shapes</h3>
+<li>6L  - Fender Style - left in line</li>
+<li>6R - for left-handed</li>
+<h2>Guitar Necks</h2><h3>Tuner Holes</h3>
+<li>approx. 10mm  (13/32" = 10,3mm) - "Planet Waves Style"</li>
+<li>approx. 10mm on top and 8,7mm bottom -  "Schaller/Grover/Gotoh Slyle"</li>
+<h2>Guitar Bodies</h2><h3>Other Rare Bridge Variants</h3>
+<li>Jazzmaster®</li>
+<li>Jaguar®</li>
+<li>Bigsby®</li>
+<li>Kahler®</li>
+<h2>Hardware Parts Checklist</h2>
+<li>Jacks &#x26; jackplates</li>
+<li>Neck plate (neck-to-body)</li>
+<li>Screws for all parts above</li>
+<h2>Electronics</h2>
+<li>Amp input impedance</li>
+<h2>Electronics</h2><h3>Pickup Properties</h3>
+<li>Dimension and product group - see chapter  <a href="#pickup-routing">Puckup Routing</a></li>
+<li>Wiring:  1, 2, 3  or 4-Con­ductor (4-Con­ductor allowing most flexible wiring)*</li>
+<li>Passive vs. Active (Active often used for distortion sound)</li>
+<li>D.C. Resistance: indication how much output a pickup will have</li>
+<li>E.Q. chat: A general idea as to the Bass, Mids and Treble.</li>
+<h2>Electronics</h2><h3>Volume and Tone Potentiometer Options</h3>
+<li>Resistance: 250K, 300K, 500K, 1M</li>
+<li>Taper: Audio, Reverse Audio, Linear, Balance</li>
+<li>Shaft Type: Knurled, Round &#x26; Plain</li>
+<li>Shaft Diameter: 6 mm (0.236 in), 6.35 mm (0.25 in)</li>
+<li>Shaft Length:  17mm, 19 mm (0.75 in), 27,5 mm (1.125 in)</li>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2016-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2016-17</guid><pubDate>Mon, 25 Apr 2016 00:00:00 GMT</pubDate></item></channel></rss>

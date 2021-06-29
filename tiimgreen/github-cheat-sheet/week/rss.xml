@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tiimgreen/github-cheat-sheet Weekly Updates RSS Feed]]></title><description><![CDATA[Get the latest updates for popular awesome list]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Jun 2021 10:20:08 GMT</lastBuildDate><item><title><![CDATA[tiimgreen/github-cheat-sheet Jan 27th - Feb 2nd, 2020]]></title><description><![CDATA[<h2>GitHub</h2><h3>Keyboard Shortcuts</h3>
+<li>Pressing <code>s</code> will focus the search field for the current repository. Pressing ↓ to select the “All GitHub” option changes the field to search all of GitHub.</li>
+]]></description><link>https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2020-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2020-5</guid><pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[tiimgreen/github-cheat-sheet Sep 5th - Sep 11th, 2016]]></title><description><![CDATA[<h2>GitHub</h2><h3>Keyboard Shortcuts</h3>
+<li>Pressing <code>y</code> <strong>when looking at a file</strong> (e.g., <code>https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md</code>) will change your URL to one which, in effect, freezes the page you are looking at. If this code changes, you will still be able to see what you saw at that current time.</li>
+<h2>Git</h2><h3>Git Grep</h3>
+<li><code>-e</code> The next parameter is the pattern (e.g., regex)</li>
+]]></description><link>https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2016-36</link><guid isPermaLink="false">https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2016-36</guid><pubDate>Mon, 05 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[tiimgreen/github-cheat-sheet Feb 1st - Feb 7th, 2016]]></title><description><![CDATA[<h2>Git</h2><h3>Empty Commits</h3>
+<li>The first commit of a repository: <code>git commit -m "Initial commit" --allow-empty</code>.</li>
+]]></description><link>https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2016-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2016-5</guid><pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[tiimgreen/github-cheat-sheet Jun 1st - Jun 7th, 2015]]></title><description><![CDATA[<h2>Git</h2><h3>Git Grep</h3>
+<li><code>--and</code>, <code>--or</code> and <code>--not</code> Combine multiple patterns.</li>
+]]></description><link>https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2015-23</link><guid isPermaLink="false">https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2015-23</guid><pubDate>Mon, 01 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[tiimgreen/github-cheat-sheet Jan 19th - Jan 25th, 2015]]></title><description><![CDATA[<h2>GitHub</h2><h3>Emojis</h3>
+<li><code>:shipit:</code></li>
+<li><code>:sparkles:</code></li>
+<li><code>:-1:</code></li>
+<li><code>:+1:</code></li>
+<li><code>:clap:</code></li>
+]]></description><link>https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2015-4</link><guid isPermaLink="false">https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2015-4</guid><pubDate>Mon, 19 Jan 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[tiimgreen/github-cheat-sheet Apr 28th - May 4th, 2014]]></title><description><![CDATA[<h2>GitHub</h2><h4>Task Lists in Markdown Documents</h4>
+<li class="task-list-item"><input type="checkbox" checked disabled> Venus</li>
+<li class="task-list-item"><input type="checkbox" disabled> Mercury</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Earth
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" checked disabled> Moon</li>
+</ul>
+</li>
+<li class="task-list-item"><input type="checkbox" checked disabled> Mars
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Deimos</li>
+<li class="task-list-item"><input type="checkbox" disabled> Phobos</li>
+</ul>
+</li>
+]]></description><link>https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2014-18</link><guid isPermaLink="false">https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2014-18</guid><pubDate>Mon, 28 Apr 2014 00:00:00 GMT</pubDate></item><item><title><![CDATA[tiimgreen/github-cheat-sheet Apr 14th - Apr 20th, 2014]]></title><description><![CDATA[<h2>Git</h2><h3>Stripspace</h3>
+<li>Strips trailing whitespace</li>
+<li>Collapses newlines</li>
+<li>Adds newline to end of file</li>
+<h2>Git</h2><h3>Empty Commits</h3>
+<li>Annotating the start of a new bulk of work or a new feature.</li>
+<li>Documenting when you make changes to the project that aren't code related.</li>
+<li>Communicating with people using your repository.</li>
+<h2>GitHub</h2><h3>Keyboard Shortcuts</h3>
+<li>Pressing <code>t</code> will bring up a file explorer.</li>
+<li>Pressing <code>w</code> will bring up the branch selector.</li>
+<li>Pressing <code>l</code> will edit labels on existing Issues.</li>
+]]></description><link>https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2014-16</link><guid isPermaLink="false">https://www.trackawesomelist.com/tiimgreen/github-cheat-sheet/week/#2014-16</guid><pubDate>Mon, 14 Apr 2014 00:00:00 GMT</pubDate></item></channel></rss>

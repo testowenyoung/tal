@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cyberglot/awesome-answers Daily Updates RSS Feed]]></title><description><![CDATA[Get the latest updates for popular awesome list]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Jun 2021 10:20:05 GMT</lastBuildDate><item><title><![CDATA[cyberglot/awesome-answers Aug 24th, 2016]]></title><description><![CDATA[<h2>Miscellaneous</h2>
+<li><a href="http://www.catb.org/~esr/faqs/hacker-howto.html">How to become a Hacker?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2016-08-24</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2016-08-24</guid><pubDate>Wed, 24 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 11th, 2016]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>C/C++</h3>
+<li><a href="http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function">What are the valid signatures for C's main() function? </a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2016-04-11</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2016-04-11</guid><pubDate>Mon, 11 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jan 20th, 2016]]></title><description><![CDATA[<h2>Miscellaneous</h2>
+<li><a href="http://stackoverflow.com/a/1220118">What is your most productive shortcut with Vim?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2016-01-20</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2016-01-20</guid><pubDate>Wed, 20 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Nov 18th, 2015]]></title><description><![CDATA[<h2>Functional Programming</h2>
+<li><a href="https://www.quora.com/What-are-some-myths-about-functional-programming-and-functional-programming-languages/answer/Tikhon-Jelvis">What are some myths about functional programming and functional programming languages?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-11-18</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-11-18</guid><pubDate>Wed, 18 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Aug 14th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Python</h3>
+<li><a href="http://qr.ae/RCkmhJ">Why are banks like JP Morgan and Bank of America Merrill Lynch using Python to replace historic legacy systems built in Java/C++?</a></li>
+<li><a href="http://qr.ae/RCkmKa">What are killer Python tips which could make our coder lives more productive, easier and happier?</a></li>
+<li><a href="http://qr.ae/RCkmoh">What are some of the best time-saving tips for Python?</a></li>
+<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://stackoverflow.com/a/29416340">What are the actual uses of ES6 WeakMap?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-08-14</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-08-14</guid><pubDate>Fri, 14 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Aug 6th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Haskell</h3>
+<li><a href="http://stackoverflow.com/a/13052612">Does Haskell have tail-recursive optimization?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-08-06</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-08-06</guid><pubDate>Thu, 06 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Aug 5th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Haskell</h3>
+<li><a href="http://stackoverflow.com/a/3429693">foldl is tail recursive, so how come foldr runs faster than foldl?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-08-05</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-08-05</guid><pubDate>Wed, 05 Aug 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jul 27th, 2015]]></title><description><![CDATA[<h2>Functional Programming</h2>
+<li><a href="http://stackoverflow.com/a/5878525/1766338">Specification for a Functional Reactive Programming language</a></li>
+<li><a href="http://qr.ae/RsOAjx">How can monads in computer science be viewed as special cases of monads in category theory?</a></li>
+<li><a href="http://qr.ae/RsOnL9">What are some myths about functional programming and functional programming languages?</a></li>
+<h2>Programming Languages</h2><h3>Haskell</h3>
+<li><a href="http://qr.ae/Rsgfkx">Why do some programmers have difficulty in learning Haskell?</a></li>
+<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://qr.ae/Rsg6I0">Are functions like map(), reduce() and filter() already optimized for traversing array?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-07-27</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-07-27</guid><pubDate>Mon, 27 Jul 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jul 26th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Clojure</h3>
+<li><a href="http://stackoverflow.com/a/21763329/1766338">Why are Clojure's <code>let</code> and <code>for</code> both monads?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-07-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-07-26</guid><pubDate>Sun, 26 Jul 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jul 8th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://stackoverflow.com/a/7202287/1766338">Why does ++[[]][+[]]+[+[]] return the string “10”?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-07-08</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-07-08</guid><pubDate>Wed, 08 Jul 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jun 24th, 2015]]></title><description><![CDATA[<h2>Programming Languages Theory</h2>
+<li><a href="http://qr.ae/7PKzmF">What is fascinating about dynamically-typed programming languages?</a></li>
+<h2>Math</h2>
+<li><a href="http://qr.ae/7PKwoT">If floating-point can't represent 0.1, how does parseFloat (".1") equal .1?</a></li>
+<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://qr.ae/7PKALb">Will WebAssembly make Javascript skills more or less valuable in the future?</a></li>
+<h2>Programming Languages</h2><h3>Clojure</h3>
+<li><a href="http://qr.ae/7PKRiN">Why would someone learn Clojure?</a></li>
+<h2>Miscellaneous</h2>
+<li><a href="http://qr.ae/7PyLkC">What are the current fads in computer science, IT and software engineering?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-24</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-24</guid><pubDate>Wed, 24 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jun 22nd, 2015]]></title><description><![CDATA[<h2>Algorithms</h2>
+<li><a href="http://stackoverflow.com/a/13067807">Sorting 1 million 8 digit numbers in 1MB of RAM</a></li>
+<li><a href="http://programmers.stackexchange.com/a/145633">Which hashing algorithm is best for uniqueness and speed?</a></li>
+<h2>Data Structures</h2>
+<li><a href="http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures">What are some lesser known but useful data structures?</a></li>
+<li><a href="http://stackoverflow.com/a/9626334">What are the underlying data structures used for Redis?</a></li>
+<h2>Functional Programming</h2>
+<li><a href="http://stackoverflow.com/a/23193">What is a good beginning text on functional programming?</a></li>
+<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://qr.ae/7AymJb">How does bellard.org/jslinux work?</a></li>
+<h2>Miscellaneous</h2>
+<li><a href="http://stackoverflow.com/a/11227902">Why is processing a sorted array faster than an unsorted array?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-22</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-22</guid><pubDate>Mon, 22 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jun 16th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>C/C++</h3>
+<li><a href="http://qr.ae/7vBEnF">Why do many C functions have an extra F?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-16</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-16</guid><pubDate>Tue, 16 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jun 12th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>C/C++</h3>
+<li><a href="http://stackoverflow.com/a/6445794/1104488">Can a local variable's memory be accessed outside its scope?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-12</guid><pubDate>Fri, 12 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Jun 3rd, 2015]]></title><description><![CDATA[<h2>Functional Programming</h2>
+<li><a href="http://stackoverflow.com/a/1030631/1766338">What is (functional) reactive programming?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-03</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-06-03</guid><pubDate>Wed, 03 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers May 25th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://stackoverflow.com/a/14853974/1766338">Comparing two arrays in Javascript</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-25</guid><pubDate>Mon, 25 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers May 24th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://stackoverflow.com/a/28046731">Perform debounce in React.js</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-24</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-24</guid><pubDate>Sun, 24 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers May 22nd, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Python</h3>
+<li><a href="http://stackoverflow.com/questions/101268/hidden-features-of-python">Python Hidden Features</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-22</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-22</guid><pubDate>Fri, 22 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers May 19th, 2015]]></title><description><![CDATA[<h2>Programming Languages Theory</h2>
+<li><a href="http://qr.ae/fgPsq">If you would create a new programming language, what would it look like?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-19</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-19</guid><pubDate>Tue, 19 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers May 4th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Ruby</h3>
+<li><a href="http://stackoverflow.com/a/4969822/1766338">Ruby craziness: Class vs Object?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-04</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-04</guid><pubDate>Mon, 04 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers May 3rd, 2015]]></title><description><![CDATA[<h2>Functional Programming</h2>
+<li><a href="http://qr.ae/0HB14">What do Lisp/Haskell programmers think about Prolog?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-03</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-03</guid><pubDate>Sun, 03 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers May 1st, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://stackoverflow.com/a/13191289">Avoid Memory Leak / Usage Javascript</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-01</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-05-01</guid><pubDate>Fri, 01 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 29th, 2015]]></title><description><![CDATA[<h2>Miscellaneous</h2>
+<li><a href="http://qr.ae/0ILWY">What do the top 1% of software engineers do that the other 99% do not?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-29</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-29</guid><pubDate>Wed, 29 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 28th, 2015]]></title><description><![CDATA[<h2>Algorithms</h2>
+<li><a href="http://qr.ae/07Px4">How can I be a guru in algorithms?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-28</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-28</guid><pubDate>Tue, 28 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 24th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Python</h3>
+<li><a href="http://stackoverflow.com/a/29489919">How can I tell if a string repeats itself in Python?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-24</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-24</guid><pubDate>Fri, 24 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 23rd, 2015]]></title><description><![CDATA[<h2>Algorithms</h2>
+<li>How do you identify edge cases on algorithms? <a href="http://qr.ae/Loah1">[1]</a> <a href="http://programmers.stackexchange.com/a/72779">[2]</a></li>
+<li><a href="http://qr.ae/LefWv">What all basic data structures and algorithms should one learn before starting competitive programming?</a></li>
+<h2>Learning to program</h2>
+<li><a href="http://qr.ae/LefKC">We all hear about how simple programming can be, but what are some truly complex concepts that even experienced programmers struggle with?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-23</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-23</guid><pubDate>Thu, 23 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 22nd, 2015]]></title><description><![CDATA[<h2>Miscellaneous</h2>
+<li><a href="http://qr.ae/LO834">What are the best examples of software bugs that became features (a.k.a. misbugs)?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-22</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-22</guid><pubDate>Wed, 22 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 21st, 2015]]></title><description><![CDATA[<h2>Functional Programming</h2>
+<li><a href="http://qr.ae/L5HJB">Why do some people not like OOP and prefer functional programming?</a></li>
+<h2>Miscellaneous</h2>
+<li><a href="http://qr.ae/L5FfY">How does a visually impaired computer programmer do programming?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-21</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-21</guid><pubDate>Tue, 21 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 19th, 2015]]></title><description><![CDATA[<h2>Algorithms</h2>
+<li><a href="http://stackoverflow.com/a/2296538/1766338">Algorithm: Is there a good way of solving a comparison?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-19</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-19</guid><pubDate>Sun, 19 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 16th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>C/C++</h3>
+<li><a href="http://stackoverflow.com/a/388282/1766338">The Definitive C++ Book Guide and List</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-16</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-16</guid><pubDate>Thu, 16 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 14th, 2015]]></title><description><![CDATA[<h2>Learning to program</h2>
+<li><a href="http://qr.ae/dQTYn">How does one become a great coder?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-14</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-14</guid><pubDate>Tue, 14 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 13th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Haskell</h3>
+<li><a href="http://qr.ae/d6rhm">What are some crazy things one can do with monads in Haskell?</a></li>
+<li><a href="http://qr.ae/d6vcE">I am building an investment engine for a startup, and my choice for developer wants to code it in Haskell. Is this the right choice? Do enough people know this so if he leaves I can continue without interruption?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-13</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-13</guid><pubDate>Mon, 13 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 11th, 2015]]></title><description><![CDATA[<h2>Compilers</h2>
+<li><a href="http://qr.ae/dVwDk">Compilers: What is a supercompiler?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-11</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-11</guid><pubDate>Sat, 11 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 10th, 2015]]></title><description><![CDATA[<h2>Functional Programming</h2>
+<li><a href="http://qr.ae/dZ97q">What is a sum type?</a></li>
+<li><a href="http://qr.ae/dZWCp">Why don't monads violate the purely functional nature of languages?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-10</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-10</guid><pubDate>Fri, 10 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Apr 8th, 2015]]></title><description><![CDATA[<h2>Miscellaneous</h2>
+<li><a href="http://stackoverflow.com/a/1732454">Can I parse XHTML with Regex?</a></li>
+<h2>Functional Programming</h2>
+<li><a href="http://stackoverflow.com/a/4905458/1766338">Is there a software-engineering methodology for functional programming?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-08</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-04-08</guid><pubDate>Wed, 08 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Mar 31st, 2015]]></title><description><![CDATA[<h2>Programming Languages Theory</h2>
+<li><a href="http://qr.ae/QjpjD">Which programming concept do people usually find harder: loops or recursion?</a></li>
+<h2>Version Control Systems</h2>
+<li><a href="http://stackoverflow.com/a/7244456">How to update GitHub forked repository?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-31</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-31</guid><pubDate>Tue, 31 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Mar 28th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>PHP</h3>
+<li><a href="http://qr.ae/QVSuX">Is PHP a badly designed programming language?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-28</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-28</guid><pubDate>Sat, 28 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Mar 27th, 2015]]></title><description><![CDATA[<h2>Data Structures</h2>
+<li><a href="http://stackoverflow.com/a/11227902">Why is processing a sorted array faster than an unsorted array?</a></li>
+<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="https://github.com/airbnb/javascript/issues/102">Why does JavaScript need a style guide?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-27</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-27</guid><pubDate>Fri, 27 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Mar 26th, 2015]]></title><description><![CDATA[<h2>Functional Programming</h2>
+<li><a href="http://stackoverflow.com/questions/2078978/functional-programming-vs-object-oriented-programming">When do you choose functional programming over object oriented? What are the typical problem definitions where functional programming is a better choice?</a></li>
+<li><a href="http://cs.stackexchange.com/a/3256/29071">Is Category Theory useful for learning functional programming?</a></li>
+<h2>Programming Languages Theory</h2>
+<li><a href="http://qr.ae/Q973e">What is the difference between the statement "Everything is an object" when said about JavaScript and when said about Ruby?</a></li>
+<li><a href="http://cstheory.stackexchange.com/a/10929/32199">Uses of algebraic structures in theoretical computer science</a></li>
+<li><a href="http://cs.stackexchange.com/a/458/29071">Why are there so many programming languages?</a></li>
+<li><a href="http://cstheory.stackexchange.com/a/17870/32199">Research and open challenges in Programming Language Theory</a></li>
+<h2>Learning to program</h2>
+<li><a href="http://stackoverflow.com/q/2794016">What should every programmer know about security?</a></li>
+<li><a href="http://qr.ae/k6Ekm">What are some basic concepts that every engineering student should know?</a></li>
+<li><a href="http://programmers.stackexchange.com/q/46716">What technical details should a programmer of a web application consider before making the site public?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-26</guid><pubDate>Thu, 26 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Mar 25th, 2015]]></title><description><![CDATA[<h2>Programming Languages</h2><h3>Haskell</h3>
+<li><a href="http://codereview.stackexchange.com/a/57850">Update Map in Haskell</a></li>
+<h2>Programming Languages Theory</h2>
+<li><a href="http://stackoverflow.com/a/9859966/565303">What is referential transparency?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-25</guid><pubDate>Wed, 25 Mar 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[cyberglot/awesome-answers Mar 23rd, 2015]]></title><description><![CDATA[<h2>Data Structures</h2>
+<li><a href="http://qr.ae/QHYgb">Are new data structures still being invented in computer science?</a></li>
+<h2>Functional Programming</h2>
+<li><a href="http://qr.ae/QHK6v">In what ways are the major modern functional languages different from each other?</a></li>
+<li><a href="http://cstheory.stackexchange.com/a/1550/32199">What's new in purely functional data structures since Okasaki?</a></li>
+<li><a href="http://qr.ae/QHAOS">Can an operating system be written in a functional language?</a></li>
+<li><a href="http://stackoverflow.com/a/13241158/1766338">Why not be dependently typed?</a></li>
+<li><a href="http://stackoverflow.com/a/194207/1766338">What is a monad?</a></li>
+<li><a href="http://math.stackexchange.com/a/30667">Learning Lambda Calculus</a></li>
+<h2>Learning to program</h2>
+<li><a href="http://qr.ae/E8UPT">How can I become a world-class coder in under three years?</a></li>
+<h2>Math</h2>
+<li><a href="http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain">Visually stunning math concepts which are easy to explain</a></li>
+<h2>Programming Languages</h2><h3>Clojure</h3>
+<li><a href="http://stackoverflow.com/a/2021343/1766338">Common programming mistakes for Clojure developers to avoid</a></li>
+<h2>Programming Languages</h2><h3>Haskell</h3>
+<li><a href="http://stackoverflow.com/a/1016986/1766338">Getting started with Haskell</a></li>
+<h2>Programming Languages</h2><h3>JavaScript</h3>
+<li><a href="http://stackoverflow.com/a/134149/1766338">How does “this” keyword work within a JavaScript object literal?</a></li>
+<li><a href="http://stackoverflow.com/a/1608546/1766338">Use of .apply() with 'new' operator. Is this possible?</a></li>
+<li><a href="http://stackoverflow.com/a/383503/1766338">Is JavaScript's “new” keyword considered harmful?</a></li>
+<li><a href="http://stackoverflow.com/a/6375254/1766338">Is JavaScript 's “new” Keyword Considered Harmful (Part 2)?</a></li>
+<li><a href="http://stackoverflow.com/a/8096017/1766338">JavaScript inheritance and the constructor property</a></li>
+<li><a href="http://stackoverflow.com/a/15461601/1766338">Inheritence of variable properties</a></li>
+<li><a href="http://stackoverflow.com/a/572996/1766338">How does JavaScript .prototype work?</a></li>
+<li><a href="http://stackoverflow.com/a/12931785/1766338">JavaScript closures vs. anonymous functions</a></li>
+<h2>Programming Languages Theory</h2>
+<li><a href="http://qr.ae/QHArY">What makes a good programming language?</a></li>
+]]></description><link>https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-23</link><guid isPermaLink="false">https://www.trackawesomelist.com/cyberglot/awesome-answers/#2015-03-23</guid><pubDate>Mon, 23 Mar 2015 00:00:00 GMT</pubDate></item></channel></rss>
