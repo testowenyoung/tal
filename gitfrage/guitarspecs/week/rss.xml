@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[gitfrage/guitarspecs Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 00:15:20 GMT</lastBuildDate><item><title><![CDATA[gitfrage/guitarspecs Dec 21st - Dec 27th, 2020]]></title><description><![CDATA[<h2>Electronics</h2><h3>Electronics Wiring Schemas</h3>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[gitfrage/guitarspecs Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 12:54:10 GMT</lastBuildDate><item><title><![CDATA[gitfrage/guitarspecs Dec 21st - Dec 27th, 2020]]></title><description><![CDATA[<h2>Electronics</h2><h3>Electronics Wiring Schemas</h3>
 <li><a href="http://www.seymourduncan.com/wiring-diagrams">Solder yourself - seymourduncan</a></li>
 <li><a href="https://www.mojotone.com/guitar-parts/Prewired-Kits#/">Prewired Classic - mojotone</a></li>
 <li><a href="http://www.dimarzio.com/support/wiring-diagrams">Solder yourself - dimarzio</a></li>
@@ -9,7 +9,7 @@
 <li>String retainers. <a href="https://www.premierguitar.com/articles/24295-guitar-shop-101-happy-little-string-trees">see premierguitar.com article about design and construction</a></li>
 <h2>Electronics</h2>
 <li><a href="#sound-control-with-switches">Sound Control With Switches</a>  - Hambucker coils are switched in series by default, switching them in parallel or using only one of the coils will increase resonant frequency and the sound will have more treble.</li>
-]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2020-52</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2020-52</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Feb 24th - Mar 1st, 2020]]></title><description><![CDATA[<h2>Electronics</h2><h3>Pickup Properties</h3>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2020-52</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2020-52</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Feb 24th - Mar 1st, 2020]]></title><description><![CDATA[<h2>Electronics</h2><h3>Pickup Properties</h3>
 <li>Symmetrical vs asymmetrical connection type</li>
 <li>Output: low(vintage), medium, high (vintage used often for jazz and blues)</li>
 <h2>Electronics</h2><h3>Sound Control with Switches</h3>
@@ -42,18 +42,18 @@
 <li>P90</li>
 <li>Lipstick Tube</li>
 <li>Jazzmaster</li>
-]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2020-9</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2020-9</guid><pubDate>Mon, 24 Feb 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Mar 4th - Mar 10th, 2019]]></title><description><![CDATA[<h2>Guitar Bodies</h2><h3>Other Rare Bridge Variants</h3>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2020-9</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2020-9</guid><pubDate>Mon, 24 Feb 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Mar 4th - Mar 10th, 2019]]></title><description><![CDATA[<h2>Guitar Bodies</h2><h3>Other Rare Bridge Variants</h3>
 <li>Wrap-Around (bridge-tailpiece combo - the strings are installed through the front side and wrapped around)</li>
 <h2>Hardware Parts Checklist</h2>
 <li>Pickguard or pickup mounting rings</li>
 <li>Control plate (only for for standard tele)</li>
 <li>String ferrules (String-thru Top or Bottom - if you use "string through body" instead of bridge)</li>
 <li>Strap holders</li>
-]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2019-10</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2019-10</guid><pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Oct 2nd - Oct 8th, 2017]]></title><description><![CDATA[<h2>Electronics</h2>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2019-10</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2019-10</guid><pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Oct 2nd - Oct 8th, 2017]]></title><description><![CDATA[<h2>Electronics</h2>
 <li><a href="#pickup-properties">Pickup Properties</a>  - position and height of frequency peak vary from type to type.</li>
 <li><a href="#potentiometer-and-capacitor-values">Potentiometer and Capacitor Values</a> changing provides also simple way to change resonant frequency and peak.</li>
 <li>Cable capacitance - longer cable will lead to lower resonant frequency.</li>
-]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2017-40</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2017-40</guid><pubDate>Mon, 02 Oct 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Apr 10th - Apr 16th, 2017]]></title><description><![CDATA[<h2>Guitar Necks</h2><h3>Fretboard's Radius</h3>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2017-40</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2017-40</guid><pubDate>Mon, 02 Oct 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Apr 10th - Apr 16th, 2017]]></title><description><![CDATA[<h2>Guitar Necks</h2><h3>Fretboard's Radius</h3>
 <li>compound (10" - 16") - Warmoth® and others</li>
 <h2>Guitar Necks</h2><h3>Common Neck Head Shapes</h3>
 <li>3L/3R  - "Gobson Stype"</li>
@@ -65,7 +65,7 @@
 <li>Position: Bridge, Neck, Midd­le</li>
 <h2>Strings</h2>
 <li>Tension</li>
-]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2017-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2017-15</guid><pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Dec 19th - Dec 25th, 2016]]></title><description><![CDATA[<h2>Strings</h2>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2017-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2017-15</guid><pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Dec 19th - Dec 25th, 2016]]></title><description><![CDATA[<h2>Strings</h2>
 <li>Construction (Flat Wound/Round Wound)</li>
 <li>Material (Steel/Nickel) and</li>
 <h2>Scale Length</h2>
@@ -73,7 +73,7 @@
 <li>transparent sound with well-defined basses and heights</li>
 <li>larger finger spread</li>
 <li>higher string tension at constant gauge</li>
-]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2016-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2016-51</guid><pubDate>Mon, 19 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Apr 25th - May 1st, 2016]]></title><description><![CDATA[<h2>Guitar Necks</h2><h3>Neck Heel Width and Mounting</h3>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2016-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2016-51</guid><pubDate>Mon, 19 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[gitfrage/guitarspecs Apr 25th - May 1st, 2016]]></title><description><![CDATA[<h2>Guitar Necks</h2><h3>Neck Heel Width and Mounting</h3>
 <li>56 mm (2-3/16") - Width</li>
 <li>76 mm (3") - Length</li>
 <li>16 mm (5/8") - Pocket Depth</li>
@@ -112,4 +112,4 @@
 <li>Shaft Type: Knurled, Round &#x26; Plain</li>
 <li>Shaft Diameter: 6 mm (0.236 in), 6.35 mm (0.25 in)</li>
 <li>Shaft Length:  17mm, 19 mm (0.75 in), 27,5 mm (1.125 in)</li>
-]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2016-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week/#2016-17</guid><pubDate>Mon, 25 Apr 2016 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2016-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/gitfrage/guitarspecs/week#2016-17</guid><pubDate>Mon, 25 Apr 2016 00:00:00 GMT</pubDate></item></channel></rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chrissimpkins/codeface Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 00:15:19 GMT</lastBuildDate><item><title><![CDATA[chrissimpkins/codeface Apr 4th - Apr 10th, 2016]]></title><description><![CDATA[<h2>The Gallery</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chrissimpkins/codeface Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 12:54:09 GMT</lastBuildDate><item><title><![CDATA[chrissimpkins/codeface Apr 4th - Apr 10th, 2016]]></title><description><![CDATA[<h2>The Gallery</h2>
 <h3><a href="https://github.com/chrissimpkins/codeface/blob/master/fonts/generic">Generic Mono II</a></h3>
 <p>[ <a href="https://github.com/chrissimpkins/codeface/blob/master/fonts/generic/license.txt">License</a> ]</p>
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/generic-STP.png" width="725">
@@ -11,17 +11,17 @@
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-STPC.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-dark.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-light.png" width="725">
-]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-14</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-14</guid><pubDate>Mon, 04 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Mar 28th - Apr 3rd, 2016]]></title><description><![CDATA[<h2>New!</h2>
+]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-14</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-14</guid><pubDate>Mon, 04 Apr 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Mar 28th - Apr 3rd, 2016]]></title><description><![CDATA[<h2>New!</h2>
 <h2>New!</h2>
 <p>Each typeface directory in the repository now includes a vertical metrics table (<code>vertical_metrics.txt</code>).  Combine the data in these reference tables with the new <a href="https://github.com/source-foundry/font-line"><code>font-line</code> tool</a> to modify any font to the line spacing that suits your needs.  Tighten up or keep it loose.</p>
-]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-13</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-13</guid><pubDate>Mon, 28 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Feb 1st - Feb 7th, 2016]]></title><description><![CDATA[<h2>The Gallery</h2>
+]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-13</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-13</guid><pubDate>Mon, 28 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Feb 1st - Feb 7th, 2016]]></title><description><![CDATA[<h2>The Gallery</h2>
 <h3><a href="https://github.com/chrissimpkins/codeface/blob/master/fonts/agave">agave</a></h3>
 <p>[ <a href="https://github.com/chrissimpkins/codeface/blob/master/fonts/agave/license.txt">License</a> ]</p>
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-STP.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-STPC.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-dark.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-light.png" width="725">
-]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-5</guid><pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Jan 25th - Jan 31st, 2016]]></title><description><![CDATA[<h2>The Gallery</h2>
+]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-5</guid><pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Jan 25th - Jan 31st, 2016]]></title><description><![CDATA[<h2>The Gallery</h2>
 <h3><a href="https://github.com/chrissimpkins/codeface/blob/master/fonts/kawkab-mono">Kawkab Mono</a></h3>
 <p>[ <a href="https://github.com/chrissimpkins/codeface/blob/master/fonts/kawkab-mono/license.txt">License</a> ]</p>
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-STP.png" width="725">
@@ -312,7 +312,7 @@
 </code></pre>
 <pre><code>$ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz
 </code></pre>
-]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-4</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-4</guid><pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Jan 18th - Jan 24th, 2016]]></title><description><![CDATA[<h2>The Gallery</h2>
+]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-4</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-4</guid><pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Jan 18th - Jan 24th, 2016]]></title><description><![CDATA[<h2>The Gallery</h2>
 <h3><a href="https://github.com/chrissimpkins/codeface/blob/master/fonts/cmu-typewriter">CMU Typewriter Text</a></h3>
 <p>[ <a href="https://github.com/chrissimpkins/codeface/blob/master/fonts/cmu-typewriter/license.txt">License</a> ]</p>
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cmu-typewriter-STP.png" width="725">
@@ -415,9 +415,9 @@
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/camingo-code-STPC.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/camingo-code-dark.png" width="725">
 <img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/camingo-code-light.png" width="725">
-]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-3</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2016-3</guid><pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Jun 15th - Jun 21st, 2015]]></title><description><![CDATA[<h2>Fun Little Rant About Font Customization</h2>
+]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-3</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week#2016-3</guid><pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[chrissimpkins/codeface Jun 15th - Jun 21st, 2015]]></title><description><![CDATA[<h2>Fun Little Rant About Font Customization</h2>
 <h2>Fun Little Rant About Font Customization</h2>
 <blockquote>"Stop wasting your braintime on meaningless stuff like this and get back to coding. If you replace 'font' with some cosmetic product y'all sound like a bunch of valley girls."
 <p>-- <a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu"></a>Some Guy on Reddit</p></blockquote>
 <p><a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu">Link</a></p>
-]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2015-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week/#2015-25</guid><pubDate>Mon, 15 Jun 2015 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://www.trackawesomelist.com/chrissimpkins/codeface/week#2015-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/chrissimpkins/codeface/week#2015-25</guid><pubDate>Mon, 15 Jun 2015 00:00:00 GMT</pubDate></item></channel></rss>

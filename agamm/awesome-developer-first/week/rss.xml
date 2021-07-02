@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[agamm/awesome-developer-first Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 00:15:20 GMT</lastBuildDate><item><title><![CDATA[agamm/awesome-developer-first May 31st - Jun 6th, 2021]]></title><description><![CDATA[<h2>CI/CD</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[agamm/awesome-developer-first Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 12:54:10 GMT</lastBuildDate><item><title><![CDATA[agamm/awesome-developer-first May 31st - Jun 6th, 2021]]></title><description><![CDATA[<h2>CI/CD</h2>
 <li><a href="https://circleci.com/">CircleCI</a> - YML to configure your builds, parallel jobs, jobs marketplace.</li>
 <li><a href="https://gitlab.com/">Gitlab</a> - Open source CI and hosted solution with Github-like abilities.</li>
 <h2>Documentation</h2>
@@ -13,14 +13,14 @@
 <li><a href="https://www.smartystreets.com/">SmartyStreets</a> - US Reverse Geocoding and Address Verification APIs.</li>
 <h2>Payments</h2>
 <li><a href="https://paddle.com/">Paddle</a> - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2021-22</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2021-22</guid><pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Apr 26th - May 2nd, 2021]]></title><description><![CDATA[<h2>Mail</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2021-22</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2021-22</guid><pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Apr 26th - May 2nd, 2021]]></title><description><![CDATA[<h2>Mail</h2>
 <li><a href="https://anymailfinder.com">Anymail finder</a> - Verify and find email APIs.</li>
 <li><a href="https://hunter.io/">Hunter.io</a> - Email lead and validation APIs.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2021-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2021-17</guid><pubDate>Mon, 26 Apr 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Apr 12th - Apr 18th, 2021]]></title><description><![CDATA[<h2>Testing</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2021-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2021-17</guid><pubDate>Mon, 26 Apr 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Apr 12th - Apr 18th, 2021]]></title><description><![CDATA[<h2>Testing</h2>
 <li><a href="https://blackfire.io/">Blackfire.io</a> - Performance testing.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2021-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2021-15</guid><pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Dec 21st - Dec 27th, 2020]]></title><description><![CDATA[<h2>Scraping</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2021-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2021-15</guid><pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Dec 21st - Dec 27th, 2020]]></title><description><![CDATA[<h2>Scraping</h2>
 <li><a href="https://proxycrawl.com/">proxycrawl</a> - Scrape hard-to-scrape websites with proxies.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-52</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-52</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Dec 14th - Dec 20th, 2020]]></title><description><![CDATA[<h2>Deployment Hosting</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-52</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-52</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Dec 14th - Dec 20th, 2020]]></title><description><![CDATA[<h2>Deployment Hosting</h2>
 <li><a href="https://vercel.com/">Vercel</a> - Deploy JAMStack (mainly Next.js) via CLI.</li>
 <li><a href="https://www.digitalocean.com/products/app-platform/">Digital Ocean App Platform</a> - Deploy and don't care about infrastructure, works with all major frameworks.</li>
 <li><a href="https://render.com/">Render</a> - Deploy from git to a CDN with SSL.</li>
@@ -77,7 +77,7 @@
 <li><a href="https://cloud.google.com/vision">Google Vision AI</a> - Google's AI vision APIs.</li>
 <h2>Testing</h2>
 <li><a href="https://beeceptor.com/">Beeceptor</a> - REST API mocking.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-51</guid><pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Dec 7th - Dec 13th, 2020]]></title><description><![CDATA[<h2>Analytics</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-51</guid><pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Dec 7th - Dec 13th, 2020]]></title><description><![CDATA[<h2>Analytics</h2>
 <li><a href="https://mixpanel.com/">Mixpanel</a> - Product analytics and dashboards.</li>
 <li><a href="https://heap.io/">Heap</a> - Product analytics API for web and mobile, captures all events.</li>
 <h2>Authentication &#x26; Identity</h2>
@@ -103,7 +103,7 @@
 <li><a href="https://www.websolr.com/">Websolr</a> - Open-source and hosted search with Solr.</li>
 <h2>Testing</h2>
 <li><a href="https://percy.io/">Percy</a> - Continuous visual testing.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-50</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-50</guid><pubDate>Mon, 07 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Nov 30th - Dec 6th, 2020]]></title><description><![CDATA[<h2>Discussions</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-50</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-50</guid><pubDate>Mon, 07 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Nov 30th - Dec 6th, 2020]]></title><description><![CDATA[<h2>Discussions</h2>
 <li><a href="https://gitter.im">Gitter</a> - Chat and networking platform for developers.</li>
 <h2>CMS (headless)</h2>
 <li><a href="https://ghost.org/">Ghost</a> - Blog platform, can be used as headless CMS (ex. <a href="https://ghost.org/docs/api/v3/hexo/">with Hexo</a>).</li>
@@ -112,7 +112,7 @@
 <li><a href="https://www.testim.io/">Testim</a> - Frontend testing.</li>
 <h2>Code Quality</h2>
 <li><a href="https://www.sonarsource.com/">sonarsource</a> - Lint and code quality checks.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-49</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-49</guid><pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Sep 28th - Oct 4th, 2020]]></title><description><![CDATA[<h2>Localization</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-49</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-49</guid><pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Sep 28th - Oct 4th, 2020]]></title><description><![CDATA[<h2>Localization</h2>
 <li><a href="https://localazy.com/">Localazy</a> - App translation built for developers.</li>
 <h2>Discussions</h2>
 <li><a href="https://www.bazaarvoice.com/ratings-and-reviews/">Bazaarvoice</a> - Ratings, reviews as a service.</li>
@@ -130,7 +130,7 @@
 <li><a href="https://www.mapbox.com/">mapbox</a> - Maps and locations products for devs.</li>
 <h2>Mail</h2>
 <li><a href="https://www.lob.com/">Lob</a> - Email and address verification.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-40</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-40</guid><pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Sep 21st - Sep 27th, 2020]]></title><description><![CDATA[<h2>Analytics</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-40</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-40</guid><pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Sep 21st - Sep 27th, 2020]]></title><description><![CDATA[<h2>Analytics</h2>
 <li><a href="https://baremetrics.com/">Baremetrics</a> - Subscription analytics for Stripe.</li>
 <h2>CMS (headless)</h2>
 <li><a href="https://tipe.io/">Tipe</a> - Open source headless CMS.</li>
@@ -141,4 +141,4 @@
 <li><a href="https://sendgrid.com/">Sendgrid</a> - Email API.</li>
 <h2>Payments</h2>
 <li><a href="https://stripe.com/payments">Stripe Payments</a> - Accept payments and move money globally with APIs.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-39</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week/#2020-39</guid><pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-39</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2020-39</guid><pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate></item></channel></rss>

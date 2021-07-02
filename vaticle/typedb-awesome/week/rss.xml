@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vaticle/typedb-awesome Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 00:15:19 GMT</lastBuildDate><item><title><![CDATA[vaticle/typedb-awesome Mar 29th - Apr 4th, 2021]]></title><description><![CDATA[<h2>Example projects</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vaticle/typedb-awesome Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 12:54:09 GMT</lastBuildDate><item><title><![CDATA[vaticle/typedb-awesome Mar 29th - Apr 4th, 2021]]></title><description><![CDATA[<h2>Example projects</h2>
 <li><a href="https://github.com/graknlabs/examples"><code>Grakn Examples</code></a></li>
 <li><a href="https://github.com/classbasics/graknDemo"><code>classbasics/graknDemo</code></a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-13</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-13</guid><pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Mar 8th - Mar 14th, 2021]]></title><description><![CDATA[<h2>Blog posts</h2>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-13</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-13</guid><pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Mar 8th - Mar 14th, 2021]]></title><description><![CDATA[<h2>Blog posts</h2>
 <li><a href="https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a">A day described in Grakn</a></li>
 <li><a href="https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867">Introducing GraMi — a Data Migration Tool for Grakn</a></li>
 <li><a href="https://dzone.com/articles/comparing-graql-to-sql-part-12">Comparing Graql to SQL — Part 1/2</a></li>
@@ -15,7 +15,7 @@
 <li><a href="https://www.youtube.com/watch?v=s6xGQS84qKM">Comparing Semantic Web Technologies To Grakn | RDF, RDFS, OWL, SPARQL SHACL Grakn and Graql</a></li>
 <li><a href="https://www.youtube.com/watch?v=uxZovj2ekIQ">Comparing Property Graph Databases to Grakn</a></li>
 <li><a href="https://www.youtube.com/watch?v=nYDi1_UaFtU&#x26;list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I">How Can We Complete a Knowledge Graph?</a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-10</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-10</guid><pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Mar 1st - Mar 7th, 2021]]></title><description><![CDATA[<h2>Conferences</h2>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-10</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-10</guid><pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Mar 1st - Mar 7th, 2021]]></title><description><![CDATA[<h2>Conferences</h2>
 <li><a href="https://grakncosmos.com/"><code>Grakn Cosmos</code></a></li>
 <li><a href="https://community.grakn.ai/grakn-orbit-2021"><code>Grakn Orbit</code></a></li>
 <h2>Documentation</h2>
@@ -29,9 +29,9 @@
 <li><a href="https://www.youtube.com/channel/UCtZKw0RFof3x23KqGtW3yDA"><code>YouTube</code></a></li>
 <li><a href="https://blog.grakn.ai/"><code>Blog</code></a></li>
 <li><a href="https://www.linkedin.com/company/graknlabs/mycompany/"><code>LinkedIn</code></a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-9</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-9</guid><pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Feb 1st - Feb 7th, 2021]]></title><description><![CDATA[<h2>Open source projects using Grakn</h2>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-9</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-9</guid><pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Feb 1st - Feb 7th, 2021]]></title><description><![CDATA[<h2>Open source projects using Grakn</h2>
 <li><a href="https://github.com/BFergerson/grakn-mythos"><code>Grakn Mythos</code></a> - Grakn-powered application for creating and sharing knowledge graphs.</li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-5</guid><pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Jan 25th - Jan 31st, 2021]]></title><description><![CDATA[<h2>IDE and editors support</h2>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-5</guid><pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Jan 25th - Jan 31st, 2021]]></title><description><![CDATA[<h2>IDE and editors support</h2>
 <li><a href="https://github.com/creatorrr/emacs-graql-mode"><code>emacs-graql-mode</code></a> - Major mode that provides syntax highlighting and basic completion for Graql.</li>
 <li><a href="https://github.com/idealley/graql-language-vscode"><code>graql-language-vscode</code></a> - Graql language for Visual Studio Code.</li>
 <li><a href="https://github.com/BFergerson/JetBrains-Graql-Plugin"><code>JetBrains-Graql-Plugin</code></a> - JetBrains support for the Graql language.</li>
@@ -41,11 +41,11 @@
 <li><a href="https://github.com/RasaHQ/rasa"><code>Rasa</code></a> - Open-source machine learning framework to automate text-and voice-based conversations.</li>
 <h2>Client Drivers (unofficial)</h2>
 <li><a href="https://github.com/Humans-of-Julia/GraknClient.jl"><code>GraknClient.jl</code></a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-4</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2021-4</guid><pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Dec 14th - Dec 20th, 2020]]></title><description><![CDATA[<h2>Client Drivers (official)</h2>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-4</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2021-4</guid><pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Dec 14th - Dec 20th, 2020]]></title><description><![CDATA[<h2>Client Drivers (official)</h2>
 <li><a href="http://github.com/graknlabs/client-java"><code>client-java</code></a></li>
 <li><a href="http://github.com/graknlabs/client-nodejs"><code>client-nodejs</code></a></li>
 <li><a href="http://github.com/graknlabs/client-python"><code>client-python</code></a></li>
 <h2>Client Drivers (unofficial)</h2>
 <li><a href="https://github.com/taxfix/grakn_elixir"><code>client-elixir</code></a></li>
 <li><a href="https://github.com/WalternativE/Grakn.Net"><code>Grakn.Net</code></a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2020-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week/#2020-51</guid><pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2020-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/week#2020-51</guid><pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate></item></channel></rss>

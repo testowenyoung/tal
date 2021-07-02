@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Codepoints/awesome-codepoints Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 00:15:20 GMT</lastBuildDate><item><title><![CDATA[Codepoints/awesome-codepoints Dec 14th - Dec 20th, 2020]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Codepoints/awesome-codepoints Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 12:54:10 GMT</lastBuildDate><item><title><![CDATA[Codepoints/awesome-codepoints Dec 14th - Dec 20th, 2020]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
 <li>A close second place in this regard goes to the CJK unified ideographs
 <a href="https://codepoints.net/U+599B">妛</a>,
 <a href="https://codepoints.net/U+6327">挧</a>,
@@ -23,20 +23,20 @@ characters each.</li>
 <li><a href="https://codepoints.net/U+FF03">U+FF03</a> FULLWIDTH NUMBER SIGN - it is the
 "Japanese Hashtag" <code>＃</code>. Sites like Twitter accept it as equivalent to the
 regular <code>#</code> (<a href="https://codepoints.net/U+0023">U+0023</a>).</li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2020-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2020-51</guid><pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Jan 29th - Feb 4th, 2018]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2020-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2020-51</guid><pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Jan 29th - Feb 4th, 2018]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
 <li><a href="https://codepoints.net/U+1F4C0">U+1F4C0</a> DVD - only code point name without any vowel (<a href="https://twitter.com/ken_lunde/status/960188623390846976">source</a>)</li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2018-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2018-5</guid><pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Nov 13th - Nov 19th, 2017]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2018-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2018-5</guid><pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Nov 13th - Nov 19th, 2017]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
 <li><a href="https://codepoints.net/U+10FFFF">U+10FFFF</a> (<em>non-character</em>) - last code
 point. The whole rest of its plane apart from U+10FFFE, the code points
 in the 0x10000-0x10FFFD range, are private use characters, guaranteed to
 be never filled by a future Unicode standard.</li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2017-46</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2017-46</guid><pubDate>Mon, 13 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints May 15th - May 21st, 2017]]></title><description><![CDATA[<h2>For Funsies</h2>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2017-46</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2017-46</guid><pubDate>Mon, 13 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints May 15th - May 21st, 2017]]></title><description><![CDATA[<h2>For Funsies</h2>
 <li><a href="https://codepoints.net/U+2800">U+2800</a> BRAILLE PATTERN BLANK - A Braille pattern that has zero of its six or eight dots filled in. According to the standard: “* while this character is imaged as a fixed-width blank in many fonts, it does not act as a space” Essentially it is rendered as white-space, but since it is designated as <em>not</em> white-space it isn't matched by white-space-validating regular expressions. This can be used to bypass all kinds of validation that disallows or trims white-space.</li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2017-20</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2017-20</guid><pubDate>Mon, 15 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Nov 14th - Nov 20th, 2016]]></title><description><![CDATA[<h2>Code Points that Affect Others</h2>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2017-20</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2017-20</guid><pubDate>Mon, 15 May 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Nov 14th - Nov 20th, 2016]]></title><description><![CDATA[<h2>Code Points that Affect Others</h2>
 <li><a href="https://codepoints.net/U+FE0F">U+FE0F</a> VARIATION SELECTOR-16 - force
 colorful emoji. If this code point follows an emoji, an explicit colorful
 rendering of the emoji is requested (if the client supports it).</li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2016-46</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2016-46</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Nov 23rd - Nov 29th, 2015]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2016-46</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2016-46</guid><pubDate>Mon, 14 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Nov 23rd - Nov 29th, 2015]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
 <li><a href="https://codepoints.net/U+006F">U+006F</a> LATIN SMALL LETTER O - leads the list
 of characters with confusable shapes. Of all the possible mappings in the
 <a href="http://www.unicode.org/reports/tr39/#Data_Files">list of confusable
@@ -44,7 +44,7 @@ characters</a>, the small “o”
 leads with a whopping 73 entries of similar looking glyphs, followed by
 <a href="https://codepoints.net/U+006C">U+006C</a> LATIN SMALL LETTER L with 70
 entries.</li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2015-48</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2015-48</guid><pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Oct 26th - Nov 1st, 2015]]></title><description><![CDATA[<h2>Code Points that Affect Others</h2>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2015-48</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2015-48</guid><pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Oct 26th - Nov 1st, 2015]]></title><description><![CDATA[<h2>Code Points that Affect Others</h2>
 <li>
 <p>Skin color of emoji: There are five code points, that control the skin color
 of emoji, <a href="https://codepoints.net/U+1F3FB..U+1F3FF">U+1F3FB to U+1F3FF</a>.
@@ -94,7 +94,7 @@ specification</a>:</p>
 </tbody>
 </table>
 </li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2015-44</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2015-44</guid><pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Oct 19th - Oct 25th, 2015]]></title><description><![CDATA[<h2>Standalone Code Points</h2>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2015-44</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2015-44</guid><pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Oct 19th - Oct 25th, 2015]]></title><description><![CDATA[<h2>Standalone Code Points</h2>
 <li>
 <p>The code points of the Unicode blocks <a href="https://codepoints.net/box_drawing">Box
 Drawing</a> (U+2500 to U+257F) and <a href="https://codepoints.net/block_elements">Block
@@ -133,7 +133,7 @@ characters to be joined together (e.g., arabic characters or supported
 emoji). Apple uses this to compose some emoji like different families.</li>
 <li><a href="https://codepoints.net/U+2060">U+2060</a> WORD JOINER - the same as
 U+00A0, but completely invisible. Good for writing <code>@font-face</code> on Twitter.</li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2015-43</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2015-43</guid><pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Oct 12th - Oct 18th, 2015]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2015-43</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2015-43</guid><pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[Codepoints/awesome-codepoints Oct 12th - Oct 18th, 2015]]></title><description><![CDATA[<h2>Record Holders and Extremes</h2>
 <li><a href="https://codepoints.net/U+5146">U+5146</a> and
 <a href="https://codepoints.net/U+16B61">U+16B61</a> - code points that represent the
 highest “single-digit” number. In both cases that’s 1,000,000,000,000, a
@@ -254,4 +254,4 @@ use code point is rendered as Apple logo on many Apple devices.</li>
 <li><a href="https://codepoints.net/U+1F574">U+1F574</a> MAN IN BUSINESS SUIT LEVITATING -
 A rather curious character, that only made it into Unicode for its
 appearance in the Webdings font (for reasons of backwards compatibility).</li>
-]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2015-42</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week/#2015-42</guid><pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2015-42</link><guid isPermaLink="false">https://www.trackawesomelist.com/Codepoints/awesome-codepoints/week#2015-42</guid><pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate></item></channel></rss>

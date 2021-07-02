@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[karlhorky/learn-to-program Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 00:15:20 GMT</lastBuildDate><item><title><![CDATA[karlhorky/learn-to-program Jan 20th - Jan 26th, 2020]]></title><description><![CDATA[<h2>Beginner</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[karlhorky/learn-to-program Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 02 Jul 2021 12:54:09 GMT</lastBuildDate><item><title><![CDATA[karlhorky/learn-to-program Jan 20th - Jan 26th, 2020]]></title><description><![CDATA[<h2>Beginner</h2>
 <h4><a href="https://teamtreehouse.com/">Treehouse</a></h4>
 <p><strong>Paid</strong> platform for courses how to build websites &#x26; apps<br>
 <em>(Web Design, Front End Web Development, Rails, iOS, Android, PHP)</em></p>
@@ -12,7 +12,7 @@
 <h4><a href="https://www.pluralsight.com/tag/developer?pageSize=48&#x26;sort=popular">PluralSight</a></h4>
 <p><strong>Paid</strong> platform for web development courses<br>
 <em>(JavaScript, AngularJS, Java)</em></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2020-4</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2020-4</guid><pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Jan 6th - Jan 12th, 2020]]></title><description><![CDATA[<h2>Advanced</h2>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2020-4</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2020-4</guid><pubDate>Mon, 20 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Jan 6th - Jan 12th, 2020]]></title><description><![CDATA[<h2>Advanced</h2>
 <h4><a href="http://paqmind.com">Paqmind</a></h4>
 <p><strong>Free</strong> Quiz your knowledge of programming<br>
 <em>(JavaScript, Node.js, React, functional programming)</em></p>
@@ -23,7 +23,7 @@
 <h4><a href="https://learn.upleveled.io/">UpLeveled Bootcamp Prep Course</a></h4>
 <p><strong>Freemium</strong> platform for learning the basics of web development<br>
 <em>(HTML, CSS, JavaScript, Node.js, Git, GitHub)</em></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2020-2</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2020-2</guid><pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Nov 25th - Dec 1st, 2019]]></title><description><![CDATA[<h2>Intermediate</h2>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2020-2</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2020-2</guid><pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Nov 25th - Dec 1st, 2019]]></title><description><![CDATA[<h2>Intermediate</h2>
 <h4><a href="https://wesbos.com/courses/">Wes Bos</a></h4>
 <p><strong>Mixed</strong> guided video courses to build products using new technologies<br>
 <em>(JavaScript, CSS, React, Node.js, GraphQL, Redux)</em></p>
@@ -34,18 +34,18 @@
 <h4><a href="https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech">Coursera</a></h4>
 <p><strong>Free</strong> platform for courses from universities and organizations worldwide<br>
 <em>(varied computer science subjects including theory and programming, data science, algorithms, ...)</em></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2019-48</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2019-48</guid><pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Oct 28th - Nov 3rd, 2019]]></title><description><![CDATA[<h2>Beginner</h2>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2019-48</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2019-48</guid><pubDate>Mon, 25 Nov 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Oct 28th - Nov 3rd, 2019]]></title><description><![CDATA[<h2>Beginner</h2>
 <h4><a href="https://hi.hyperskill.org/">Hyperskill by JetBrains Academy</a></h4>
 <p><strong>Free</strong> teaches programming in Java by creating small applications built step by step<br>
 <em>(Java, OOP, Gradle, Maven, Spring Boot)</em></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2019-44</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2019-44</guid><pubDate>Mon, 28 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Aug 5th - Aug 11th, 2019]]></title><description><![CDATA[<h2>Beginner</h2>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2019-44</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2019-44</guid><pubDate>Mon, 28 Oct 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Aug 5th - Aug 11th, 2019]]></title><description><![CDATA[<h2>Beginner</h2>
 <h4><a href="https://software-carpentry.org/lessons/">Software Carpentry</a></h4>
 <p><strong>Free</strong> Foundational coding and data science skills for researchers.<br>
 <em>(Python, R, OpenRefine, Unix Shell, Git)</em></p>
 <h4><a href="https://programminghistorian.org/en/lessons/">Programming Historian</a></h4>
 <p><strong>Free</strong> Peer reviewed introductory courses for digital humanists.<br>
 <em>(Python, R, Unity, QGIS, HTML, Regular Expressions)</em></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2019-32</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2019-32</guid><pubDate>Mon, 05 Aug 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Oct 15th - Oct 21st, 2018]]></title><description><![CDATA[<h2>Intermediate</h2>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2019-32</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2019-32</guid><pubDate>Mon, 05 Aug 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Oct 15th - Oct 21st, 2018]]></title><description><![CDATA[<h2>Intermediate</h2>
 <h4><a href="https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code">1 Million Women To Tech Summer of Code</a></h4>
 <p><strong>Free</strong> programming course material for beginner, intermediate and advanced levels<br>
 <em>(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR &#x26; VR)</em></p>
@@ -141,12 +141,12 @@
 <h4><a href="https://codesignal.com/">CodeSignal</a></h4>
 <p><strong>Free</strong> programming challenges<br>
 <em>(Java, C++, Python, JavaScript, Ruby, C#, PHP and Perl)</em></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2018-42</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2018-42</guid><pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Mar 20th - Mar 26th, 2017]]></title><description><![CDATA[<h2>Beginner</h2>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2018-42</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2018-42</guid><pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Mar 20th - Mar 26th, 2017]]></title><description><![CDATA[<h2>Beginner</h2>
 <h4><a href="https://en.hexlet.io">Hexlet.io</a></h4>
 <p><strong>Mixed</strong> Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.<br>
 <em>(JavaScript, Regular Expressions, Bash, computer science, Ansible)</em></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2017-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2017-12</guid><pubDate>Mon, 20 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Feb 2nd - Feb 8th, 2015]]></title><description><![CDATA[
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2017-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2017-12</guid><pubDate>Mon, 20 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Feb 2nd - Feb 8th, 2015]]></title><description><![CDATA[
 <h4>Foundation in Web Development</h4>
 <p>The Internet is filled with an ever-expanding number of courses, books and guides for programmers of all skill levels to improve their skills. Unfortunately, these resources are either hard to find or of low quality.</p>
 <p>This list aims to be a curated set of high quality educational resources. The availability of free content on the platform is highlighted along with the primary topics covered.</p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2015-6</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week/#2015-6</guid><pubDate>Mon, 02 Feb 2015 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2015-6</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/week#2015-6</guid><pubDate>Mon, 02 Feb 2015 00:00:00 GMT</pubDate></item></channel></rss>
