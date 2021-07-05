@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Jul 2021 23:40:15 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Jul 2nd, 2021]]></title><description><![CDATA[<h2>CMS</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Jul 2021 11:37:11 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Jul 4th, 2021]]></title><description><![CDATA[<h2>Email</h2>
+<li><a href="https://mailtie.com/">Mailtie.com</a> - Free Email Forwarding for Your Domain. No registration required. Free Forever.</li>
+<h2>Forms</h2>
+<li><a href="https://formsubmit.co/">Formsubmit.co</a> — Easy form endpoints for your HTML forms. Free Forever. No registration required.</li>
+]]></description><link>https://www.trackawesomelist.com/ripienaar/free-for-dev/#2021-07-04</link><guid isPermaLink="false">https://www.trackawesomelist.com/ripienaar/free-for-dev/#2021-07-04</guid><pubDate>Sun, 04 Jul 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[ripienaar/free-for-dev Jul 2nd, 2021]]></title><description><![CDATA[<h2>IDE and Code Editing</h2>
+<li><a href="https://replit.com/">Replit</a> — A cloud coding environment for various program languages.</li>
+<h2>APIs, Data and ML</h2>
+<li><a href="https://api.ksoft.si/">KSoft.Si</a> — Free lyrics api chiefly aimed for discord bots.Also provides an extensive library of images and user data</li>
+<h2>CMS</h2>
 <li><a href="https://squidex.io/">Squidex</a> - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).</li>
 <h2>Visitor Session Recording</h2>
 <li><a href="https://clarity.microsoft.com/">Microsoft Clarity</a> - Session recording completely free with "no traffic limits", no project limits, and no sampling</li>
@@ -1293,7 +1301,6 @@
 <li><a href="https://vscodium.com/">VSCodium</a> - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode</li>
 <li><a href="https://apiary.io/">apiary.io</a> — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation).</li>
 <li><a href="https://jsbin.com">jsbin.com</a> — JS Bin is another playground and code sharing site of front end web (HTML, CSS and JavaScript. Also supports Markdown, Jade and Sass).</li>
-<li><a href="https://repl.it/">repl.it</a> — A cloud coding environment for various program languages.</li>
 <li><a href="https://stackblitz.com/">stackblitz.com</a> — Online VS Code IDE for Angular &#x26; React.</li>
 <h2>Design and UI</h2>
 <li><a href="https://allthefreestock.com">AllTheFreeStock</a> - a curated list of free stock images, audio and videos.</li>

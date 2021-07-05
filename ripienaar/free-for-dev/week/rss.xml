@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Jul 2021 23:40:19 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Jun 28th - Jul 4th, 2021]]></title><description><![CDATA[<h2>CMS</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Jul 2021 11:37:14 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Jun 28th - Jul 4th, 2021]]></title><description><![CDATA[<h2>Email</h2>
+<li><a href="https://mailtie.com/">Mailtie.com</a> - Free Email Forwarding for Your Domain. No registration required. Free Forever.</li>
+<h2>Forms</h2>
+<li><a href="https://formsubmit.co/">Formsubmit.co</a> — Easy form endpoints for your HTML forms. Free Forever. No registration required.</li>
+<li><a href="https://herotofu.com/">HeroTofu.com</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 50 submissions per month.</li>
+<h2>IDE and Code Editing</h2>
+<li><a href="https://replit.com/">Replit</a> — A cloud coding environment for various program languages.</li>
+<h2>APIs, Data and ML</h2>
+<li><a href="https://api.ksoft.si/">KSoft.Si</a> — Free lyrics api chiefly aimed for discord bots.Also provides an extensive library of images and user data</li>
+<h2>CMS</h2>
 <li><a href="https://squidex.io/">Squidex</a> - Offers free tier for small projects. API / GraphQL first. Open source, and based on event sourcing (versing every changes automatically).</li>
 <h2>Visitor Session Recording</h2>
 <li><a href="https://clarity.microsoft.com/">Microsoft Clarity</a> - Session recording completely free with "no traffic limits", no project limits, and no sampling</li>
 <h2>PaaS</h2>
 <li><a href="https://railway.app">Railway</a> - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 3 Projects, 2 Plugins / Project, 2 Environments / Project, 3 Live Deploys / Environment available for free.</li>
-<h2>Forms</h2>
-<li><a href="https://herotofu.com/">HeroTofu.com</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 50 submissions per month.</li>
 ]]></description><link>https://www.trackawesomelist.com/ripienaar/free-for-dev/week#2021-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/ripienaar/free-for-dev/week#2021-26</guid><pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[ripienaar/free-for-dev Jun 21st - Jun 27th, 2021]]></title><description><![CDATA[<h2>APIs, Data and ML</h2>
 <li><a href="https://deepnote.com">Deepnote</a> - A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware and teams with up to 3 editors.</li>
 <li><a href="https://reqres.in">reqres.in</a> - A Free hosted REST-API ready to respond to your AJAX requests.</li>
@@ -1240,7 +1247,6 @@
 <li><a href="https://vscodium.com/">VSCodium</a> - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode</li>
 <li><a href="https://apiary.io/">apiary.io</a> — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation).</li>
 <li><a href="https://jsbin.com">jsbin.com</a> — JS Bin is another playground and code sharing site of front end web (HTML, CSS and JavaScript. Also supports Markdown, Jade and Sass).</li>
-<li><a href="https://repl.it/">repl.it</a> — A cloud coding environment for various program languages.</li>
 <li><a href="https://stackblitz.com/">stackblitz.com</a> — Online VS Code IDE for Angular &#x26; React.</li>
 <h2>Design and UI</h2>
 <li><a href="https://allthefreestock.com">AllTheFreeStock</a> - a curated list of free stock images, audio and videos.</li>
