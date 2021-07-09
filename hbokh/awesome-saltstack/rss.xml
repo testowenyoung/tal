@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[hbokh/awesome-saltstack Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Jul 2021 23:33:02 GMT</lastBuildDate><item><title><![CDATA[hbokh/awesome-saltstack Mar 4th, 2021]]></title><description><![CDATA[<h2>Tutorials</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[hbokh/awesome-saltstack Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 09 Jul 2021 11:50:42 GMT</lastBuildDate><item><title><![CDATA[hbokh/awesome-saltstack Jul 8th, 2021]]></title><description><![CDATA[<h2>Community</h2>
+<li><a href="https://web.libera.chat/?channels=#salt">Salt IRC chat</a> - IRC about Salt on Libera Chat.</li>
+<li><a href="https://www.reddit.com/r/saltstack/">SaltStack on Reddit</a> - SaltStack subreddit.</li>
+]]></description><link>https://www.trackawesomelist.com/hbokh/awesome-saltstack/#2021-07-08</link><guid isPermaLink="false">https://www.trackawesomelist.com/hbokh/awesome-saltstack/#2021-07-08</guid><pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[hbokh/awesome-saltstack Mar 4th, 2021]]></title><description><![CDATA[<h2>Tutorials</h2>
 <li><a href="https://www.linode.com/docs/guides/applications/configuration-management/salt/">Salt Guides and Tutorials, by Linode</a> - A good collection of Salt guides and tutorials created and managed by Linode.</li>
 <h2>Community</h2>
 <li><a href="https://www.facebook.com/SaltProjectOSS/">Facebook</a> - Official Salt Project Facebook account.</li>
@@ -149,7 +152,6 @@
 <h2>Discussions</h2>
 <li><a href="https://www.reddit.com/r/sysadmin/comments/2fmkvq/vagrat_saltstack_ansible_docker_chef_puppet/">Reddit: Vagrat, SaltStack, Ansible, Docker, Chef, Puppet, Packer.. Something</a> - Discussion on Reddit, started Sept. 2014 in <code>/r/sysadmin</code>.</li>
 <h2>Community</h2>
-<li><a href="http://webchat.freenode.net/?channels=salt&#x26;uio=Mj10cnVlJjk9dHJ1ZSYxMD10cnVl83">Salt IRC chat</a> - IRC about Salt on Freenode.</li>
 <li><a href="https://groups.google.com/forum/#!forum/salt-users">Mailing list</a> - Salt-users mailinglist on Google Groups.</li>
 <li><a href="https://www.meetup.com/pro/saltstack/">SaltStack Meetups</a> - Worldwide Meetup groups.</li>
 <h2>Formulas</h2>

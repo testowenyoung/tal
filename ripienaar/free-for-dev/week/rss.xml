@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Jul 2021 23:33:04 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Jul 5th - Jul 11th, 2021]]></title><description><![CDATA[<h2>Translation Management</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 09 Jul 2021 11:50:46 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Jul 5th - Jul 11th, 2021]]></title><description><![CDATA[<h2>Email</h2>
+<li><a href="https://mailazy.com/">mailazy.com</a> — Mailazy is the only simple transactional email service you’ll need. 15,000 emails/month free forever (500 emails/day sending limit).</li>
+<h2>Translation Management</h2>
 <li><a href="https://localeum.com">Localeum</a> - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects</li>
 <h2>Web Hosting</h2>
 <li><a href="https://flashdrive.io">FlashDrive.io</a> - PaaS service similar to Heroku with a developer-centric approach and all inclusive features. Free tier for static assets, staging and developer apps.</li>
@@ -424,8 +426,6 @@
 <li><a href="https://bump.email/">Bump</a> - Free 10 Bump email addresses, 1 custom domain</li>
 ]]></description><link>https://www.trackawesomelist.com/ripienaar/free-for-dev/week#2021-6</link><guid isPermaLink="false">https://www.trackawesomelist.com/ripienaar/free-for-dev/week#2021-6</guid><pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[ripienaar/free-for-dev Feb 1st - Feb 7th, 2021]]></title><description><![CDATA[<h2>Analytics, Events and Statistics</h2>
 <li><a href="https://indicative.com/">indicative.com</a> — Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 50M events/month.</li>
-<h2>Email</h2>
-<li><a href="https://mailazy.com/">mailazy.com</a> — 250 emails/day free</li>
 ]]></description><link>https://www.trackawesomelist.com/ripienaar/free-for-dev/week#2021-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/ripienaar/free-for-dev/week#2021-5</guid><pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[ripienaar/free-for-dev Jan 25th - Jan 31st, 2021]]></title><description><![CDATA[<h2>Forms</h2>
 <li><a href="https://form.taxi/">Form.taxi</a> — Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.</li>
 <h2>Screenshot APIs</h2>
