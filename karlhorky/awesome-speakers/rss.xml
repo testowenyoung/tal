@@ -1,35 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[karlhorky/awesome-speakers Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 09 Jul 2021 11:50:42 GMT</lastBuildDate><item><title><![CDATA[karlhorky/awesome-speakers Apr 12th, 2021]]></title><description><![CDATA[<h2>Finland 🇫🇮</h2>
-<h3>Helsinki</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eemeli_aro" height="70px" width="70px" align="left" alt="">
-<p><strong>Eemeli Aro</strong><br>
-Topics: Open Source, React, YAML<br>
-<a href="https://twitter.com/eemeli_aro">https://twitter.com/eemeli_aro</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pakastin" height="70px" width="70px" align="left" alt="">
-<p><strong>Juha Lindstedt</strong><br>
-Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js<br>
-<a href="https://twitter.com/pakastin">https://twitter.com/pakastin</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/plrdev" height="70px" width="70px" align="left" alt="">
-<p><strong>Juha Linnanen</strong><br>
-Topics: React Native, TypeScript, GraphQL<br>
-<a href="https://twitter.com/plrdev">https://twitter.com/plrdev</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hamatti" height="70px" width="70px" align="left" alt="">
-<p><strong>Juha-Matti Santala</strong><br>
-Topics: Community building, Documentation, JavaScript, Programming<br>
-<a href="https://twitter.com/Hamatti">https://twitter.com/Hamatti</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="">
-<p><strong>Maaret Pyhäjärvi</strong><br>
-Topics: Testing<br>
-<a href="https://twitter.com/maaretp">https://twitter.com/maaretp</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/varya_en" height="70px" width="70px" align="left" alt="">
-<p><strong>Varya Stepanova</strong><br>
-Topics: CSS in JS, Style Guides, Visual Regression Testing<br>
-<a href="https://twitter.com/varya_en">https://twitter.com/varya_en</a></p>
-<h3>Rautalampi</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bebraw" height="70px" width="70px" align="left" alt="">
-<p><strong>Juho Vepsäläinen</strong><br>
-Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing<br>
-<a href="https://twitter.com/bebraw">https://twitter.com/bebraw</a></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/awesome-speakers/#2021-04-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/awesome-speakers/#2021-04-12</guid><pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/awesome-speakers Apr 6th, 2021]]></title><description><![CDATA[<h2>Nigeria 🇳🇬</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[karlhorky/awesome-speakers Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Jul 2021 00:18:38 GMT</lastBuildDate><item><title><![CDATA[karlhorky/awesome-speakers Jul 9th, 2021]]></title><description><![CDATA[<h2>Nigeria 🇳🇬</h2>
 <h3>Lagos</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mazibayo" height="70px" width="70px" align="left" alt="">
 <p><strong>Adebayo Opesanya</strong><br>
@@ -55,370 +24,6 @@ Topics: JavaScript, React, Vue, Angular, PWAs, PHP, Laravel<br>
 <p><strong>Shodipo Ayomide</strong><br>
 Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance<br>
 <a href="https://twitter.com/developerayo">https://twitter.com/developerayo</a></p>
-<h2>Sweden</h2>
-<h3>Stockholm</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="">
-<p><strong>Muhammad Ahsan Ayaz</strong><br>
-Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps<br>
-<a href="https://twitter.com/muhd_ahsanayaz">https://twitter.com/muhd_ahsanayaz</a></p>
-<h2>Ukraine 🇺🇦</h2>
-<h3>Kyiv</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shvaikalesh" height="70px" width="70px" align="left" alt="">
-<p><strong>Aleksey Shvayka</strong><br>
-Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk<br>
-<a href="https://twitter.com/shvaikalesh">https://twitter.com/shvaikalesh_</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/listochkin" height="70px" width="70px" align="left" alt="">
-<p><strong>Andrey Listochkin</strong><br>
-Topics: Rust, JavaScript, Skills, Architecture<br>
-<a href="https://twitter.com/listochkin">https://twitter.com/listochkin</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eagleeye_s" height="70px" width="70px" align="left" alt="">
-<p><strong>Andrii Shumada</strong><br>
-Topics: JavaScript, Node.js, Streams<br>
-<a href="https://twitter.com/eagleeye_s">https://twitter.com/eagleeye_s</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/SilentImp" height="70px" width="70px" align="left" alt="">
-<p><strong>Anton Nemtsev</strong><br>
-Topics: HTML, CSS, Web Standards<br>
-<a href="https://twitter.com/SilentImp">https://twitter.com/SilentImp</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yavorsky_" height="70px" width="70px" align="left" alt="">
-<p><strong>Artem Yavorsky</strong><br>
-Topics: Babel, ECMAScript, Compilers<br>
-<a href="https://twitter.com/yavorsky_">https://twitter.com/yavorsky_</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/roman01la" height="70px" width="70px" align="left" alt="">
-<p><strong>Roman Liutikov</strong><br>
-Topics: ClojureScript, React, Compilers<br>
-<a href="https://twitter.com/roman01la">https://twitter.com/roman01la</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tshemsedinov" height="70px" width="70px" align="left" alt="">
-<p><strong>Timur Shemsedinov</strong><br>
-Topics: Node.js, Programming, JavaScript, Highload<br>
-<a href="https://twitter.com/tshemsedinov">https://twitter.com/tshemsedinov</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mourner" height="70px" width="70px" align="left" alt="">
-<p><strong>Vladimir Agafonkin</strong><br>
-Topics: Maps, Algorithms<br>
-<a href="https://twitter.com/mourner">https://twitter.com/mourner</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/akella" height="70px" width="70px" align="left" alt="">
-<p><strong>Yuri Artyukh</strong><br>
-Topics: HTML, CSS, JavaScript, WebGL<br>
-<a href="https://twitter.com/akella">https://twitter.com/akella</a></p>
-<h3>Chernivtsi</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/denysdovhan" height="70px" width="70px" align="left" alt="">
-<p><strong>Denys Dovhan</strong><br>
-Topics: JavaScript, DevTools, Shell scripting<br>
-<a href="https://twitter.com/denysdovhan">https://twitter.com/denysdovhan</a></p>
-<h3>Kharkiv</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/xanf_ua" height="70px" width="70px" align="left" alt="">
-<p><strong>Illya Klymov</strong><br>
-Topics: Teaching, Coaching, JavaScript<br>
-<a href="https://twitter.com/xanf_ua">https://twitter.com/xanf_ua</a></p>
-<h3>Vinnytsia</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/denar90_" height="70px" width="70px" align="left" alt="">
-<p><strong>Artem Denysov</strong><br>
-Topics: Web Performance, Dev Tools<br>
-<a href="https://twitter.com/denar90_">https://twitter.com/denar90_</a></p>
-<h3>Odessa</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/geek_timofey" height="70px" width="70px" align="left" alt="">
-<p><strong>Timofey Lavrenyuk</strong><br>
-Topics: Progressive Web Apps, Modern Browser APIs<br>
-<a href="https://twitter.com/geek_timofey">https://twitter.com/geek_timofey</a></p>
-<h2>United States of America 🇺🇸</h2>
-<h3>Omaha</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/courtneyheitman" height="70px" width="70px" align="left" alt="">
-<p><strong>Courtney Heitman</strong><br>
-Topics: UX Development, Usability, Accessibility, Scrum, Agile<br>
-<a href="https://twitter.com/courtneyheitman">https://twitter.com/courtneyheitman</a></p>
-<h3>Boston</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ericwbailey" height="70px" width="70px" align="left" alt="">
-<p><strong>Eric Bailey</strong><br>
-Topics: Accessibility<br>
-<a href="https://twitter.com/ericwbailey">https://twitter.com/ericwbailey</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bahmutov" height="70px" width="70px" align="left" alt="">
-<p><strong>Gleb Bahmutov</strong><br>
-Topics: Computer Science, JavaScript, Reactive Programming<br>
-<a href="https://twitter.com/bahmutov">https://twitter.com/bahmutov</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/leaverou" height="70px" width="70px" align="left" alt="">
-<p><strong>Lea Verou</strong><br>
-Topics: CSS, HTML<br>
-<a href="https://twitter.com/leaverou">https://twitter.com/leaverou</a></p>
-<h3>Buffalo</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aardrian" height="70px" width="70px" align="left" alt="">
-<p><strong>Adrian Roselli</strong><br>
-Topics: Accessibility<br>
-<a href="https://twitter.com/aardrian">https://twitter.com/aardrian</a></p>
-<h3>Carlsbad</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mjackson" height="70px" width="70px" align="left" alt="">
-<p><strong>Michael Jackson</strong><br>
-Topics: React, JavaScript, React Router<br>
-<a href="https://twitter.com/mjackson">https://twitter.com/mjackson</a></p>
-<h3>Cedar Rapids</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/levibostian" height="70px" width="70px" align="left" alt="">
-<p><strong>Levi Bostian</strong><br>
-Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
-<a href="https://twitter.com/levibostian">https://twitter.com/levibostian</a></p>
-<h3>Cincinnati</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gigasquid" height="70px" width="70px" align="left" alt="">
-<p><strong>Carin Meier</strong><br>
-Topics: Clojure, Machine Learning, Programming<br>
-<a href="https://twitter.com/gigasquid">https://twitter.com/gigasquid</a></p>
-<h3>Chapel Hill</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shepazu" height="70px" width="70px" align="left">
-<p><strong>Doug Schepers</strong><br>
-Topics: Data visualization, Accessibility, SVG<br>
-<a href="https://twitter.com/shepazu">https://twitter.com/shepazu</a></p>
-<h3>Chicago</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/KarlLHughes" height="70px" width="70px" align="left">
-<p><strong>Karl Hughes</strong><br>
-Topics: Microservices, PHP, JavaScript, Docker<br>
-<a href="https://twitter.com/KarlLHughes">https://twitter.com/KarlLHughes</a></p>
-<h3>Denver</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mirisuzanne" height="70px" width="70px" align="left" alt="">
-<p><strong>Miriam Suzanne</strong><br>
-Topics: CSS, Sass, Architecture, Design Systems<br>
-<a href="https://twitter.com/mirisuzanne">https://twitter.com/mirisuzanne</a></p>
-<h3>Madison</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cariefisher" height="70px" width="70px" align="left" alt="">
-<p><strong>Carie Fisher</strong><br>
-Topics: Accessibility<br>
-<a href="https://twitter.com/cariefisher">https://twitter.com/cariefisher</a></p>
-<h3>Nashville</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Aimee_Knight" height="70px" width="70px" align="left" alt="">
-<p><strong>Aimee Knight</strong><br>
-Topics: JavaScript, CSS, Angular, Growing Junior Developers<br>
-<a href="https://twitter.com/Aimee_Knight">https://twitter.com/Aimee_Knight</a></p>
-<h3>New Jersey</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ken_wheeler" height="70px" width="70px" align="left" alt="">
-<p><strong>Ken Wheeler</strong><br>
-Topics: React, React Native, ReasonML<br>
-<a href="https://twitter.com/ken_wheeler">https://twitter.com/ken_wheeler</a></p>
-<h3>New Orleans</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/GantLaborde" height="70px" width="70px" align="left" alt="">
-<p><strong>Gant Laborde</strong><br>
-Topics: JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking<br>
-<a href="https://twitter.com/GantLaborde">https://twitter.com/GantLaborde</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thegreengreek" height="70px" width="70px" align="left" alt="">
-<p><strong>Sia Karamalegos</strong><br>
-Topics: React, JavaScript, React Native, Front-End Performance<br>
-<a href="https://twitter.com/thegreengreek">https://twitter.com/thegreengreek</a></p>
-<h3>New York City</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/andrey_sitnik" height="70px" width="70px" align="left" alt="">
-<p><strong>Andrey Sitnik</strong><br>
-Topics: PostCSS, CRDT<br>
-<a href="https://twitter.com/sitnikcode">https://twitter.com/sitnikcode</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/swannodette" height="70px" width="70px" align="left" alt="">
-<p><strong>David Nolen</strong><br>
-Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science<br>
-<a href="https://twitter.com/swannodette">https://twitter.com/swannodette</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/broccolini" height="70px" width="70px" align="left" alt="">
-<p><strong>Diana Mounter</strong><br>
-Topics: Design Systems, CSS, Product Design<br>
-<a href="https://twitter.com/broccolini">https://twitter.com/broccolini</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/left_pad" height="70px" width="70px" align="left" alt="">
-<p><strong>Henry Zhu</strong><br>
-Topics: Open Source, Babel<br>
-<a href="https://twitter.com/left_pad">https://twitter.com/left_pad</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jaredpalmer" height="70px" width="70px" align="left" alt="">
-<p><strong>Jared Palmer</strong><br>
-Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS<br>
-<a href="https://twitter.com/jaredpalmer">https://twitter.com/jaredpalmer</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jensimmons" height="70px" width="70px" align="left" alt="">
-<p><strong>Jen Simmons</strong><br>
-Topics: Design, CSS, HTML, Web<br>
-<a href="https://twitter.com/jensimmons">https://twitter.com/jensimmons</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joe_sepi" height="70px" width="70px" align="left" alt="">
-<p><strong>Joe Sepi</strong><br>
-Topics: Open Source, Community, Node.js, JavaScript<br>
-<a href="https://twitter.com/joe_sepi">https://twitter.com/joe_sepi</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kurtiskemple" height="70px" width="70px" align="left" alt="">
-<p><strong>Kurtis Kemple</strong><br>
-Topics: React, React Native, GraphQL, Universal Components<br>
-<a href="https://twitter.com/kurtiskemple">https://twitter.com/kurtiskemple</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lara_hogan" height="70px" width="70px" align="left" alt="">
-<p><strong>Lara Hogan</strong><br>
-Topics: Design, Performance, Engineering Management, Public Speaking<br>
-<a href="https://twitter.com/lara_hogan">https://twitter.com/lara_hogan</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kosamari" height="70px" width="70px" align="left" alt="">
-<p><strong>Mariko Kosaka</strong><br>
-Topics: HTML, CSS, JavaScript, Web<br>
-<a href="https://twitter.com/kosamari">https://twitter.com/kosamari</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/peggyrayzis" height="70px" width="70px" align="left" alt="">
-<p><strong>Peggy Rayzis</strong><br>
-Topics: React, React Native, GraphQL<br>
-<a href="https://twitter.com/peggyrayzis">https://twitter.com/peggyrayzis</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/swyx" height="70px" width="70px" align="left" alt="">
-<p><strong>Shawn Wang</strong><br>
-Topics: React, Serverless, JAMstack<br>
-<a href="https://twitter.com/swyx">https://twitter.com/swyx</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/una" height="70px" width="70px" align="left" alt="">
-<p><strong>Una Kravets</strong><br>
-Topics: CSS, Web<br>
-<a href="https://twitter.com/una">https://twitter.com/una</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bitandbang" height="70px" width="70px" align="left" alt="">
-<p><strong>Tierney Cyren</strong><br>
-Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community<br>
-<a href="https://twitter.com/bitandbang">https://twitter.com/bitandbang</a></p>
-<h3>Mountain View</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/addyosmani" height="70px" width="70px" align="left" alt="">
-<p><strong>Addy Osmani</strong><br>
-Topics: Chrome DevTools, Performance<br>
-<a href="https://twitter.com/addyosmani">https://twitter.com/addyosmani</a></p>
-<h3>Palo Alto</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/paul_irish" height="70px" width="70px" align="left" alt="">
-<p><strong>Paul Irish</strong><br>
-Topics: Developer Tools<br>
-<a href="https://twitter.com/paul_irish">https://twitter.com/paul_irish</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_chenglou" height="70px" width="70px" align="left" alt="">
-<p><strong>Cheng Lou</strong><br>
-Topics: ReasonML, React, Software Philosophy<br>
-<a href="https://twitter.com/_chenglou">https://twitter.com/_chenglou</a></p>
-<h3>Philadelphia</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lispardi" height="70px" width="70px" align="left" alt="">
-<p><strong>Lis Pardi</strong><br>
-Topics: Web<br>
-<a href="https://twitter.com/lispardi">https://twitter.com/lispardi</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rtfeldman" height="70px" width="70px" align="left" alt="">
-<p><strong>Richard Feldman</strong><br>
-Topics: Elm<br>
-<a href="https://twitter.com/rtfeldman">https://twitter.com/rtfeldman</a></p>
-<h3>Pittsburgh</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brad_frost" height="70px" width="70px" align="left" alt="">
-<p><strong>Brad Frost</strong><br>
-Topics: Web Design, Atomic Design, Web Development<br>
-<a href="https://twitter.com/brad_frost">https://twitter.com/brad_frost</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/linclark" height="70px" width="70px" align="left" alt="">
-<p><strong>Lin Clark</strong><br>
-Topics: React, WebAssembly, Browsers Internals<br>
-<a href="https://twitter.com/linclark">https://twitter.com/linclark</a></p>
-<h3>Portland</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joeseifi" height="70px" width="70px" align="left" alt="">
-<p><strong>Joe Seifi</strong><br>
-Topics: CSS-in-JS, JavaScript, React<br>
-<a href="https://twitter.com/joeseifi">https://twitter.com/joeseifi</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kyleshevlin" height="70px" width="70px" align="left" alt="">
-<p><strong>Kyle Shevlin</strong><br>
-Topics: React, Redux, JavaScript<br>
-<a href="https://twitter.com/kyleshevlin">https://twitter.com/kyleshevlin</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/micahgodbolt" height="70px" width="70px" align="left" alt="">
-<p><strong>Micah Godbolt</strong><br>
-Topics: Frontend Architecture, CSS, Design Systems<br>
-<a href="https://twitter.com/micahgodbolt">https://twitter.com/micahgodbolt</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shanselman" height="70px" width="70px" align="left" alt="">
-<p><strong>Scott Hanselman</strong><br>
-Topics: .NET, Azure<br>
-<a href="https://twitter.com/shanselman">https://twitter.com/shanselman</a></p>
-<img src="https://avatars1.githubusercontent.com/u/1166226?s=460&#x26;v=4" height="70px" width="70px" align="left" alt="">
-<p><strong>Violet Peña</strong><br>
-Topics: React, Socket.IO, Storybook, Accessibility<br>
-<a href="https://github.com/vgpena">github.com/vgpena</a></p>
-<h3>Redwood City</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jessebeach" height="70px" width="70px" align="left" alt="">
-<p><strong>Jesse Beach</strong><br>
-Topics: Accessibility, React<br>
-<a href="https://twitter.com/jessebeach">https://twitter.com/jessebeach</a></p>
-<h3>Salt Lake City</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kentcdodds" height="70px" width="70px" align="left" alt="">
-<p><strong>Kent C. Dodds</strong><br>
-Topics: OSS, React, Testing<br>
-<a href="https://twitter.com/kentcdodds">https://twitter.com/kentcdodds</a></p>
-<h3>San Francisco</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/adammenges" height="70px" width="70px" align="left" alt="">
-<p><strong>Adam Menges</strong><br>
-Topics: Artificial Intelligence, Design, Computer Science<br>
-<a href="https://twitter.com/adammenges">https://twitter.com/adammenges</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/slightlylate" height="70px" width="70px" align="left" alt="">
-<p><strong>Alex Russell</strong><br>
-Topics: Performance, Mobile Web, Progressive Web Apps, Web Standards<br>
-<a href="https://twitter.com/slightlylate">https://twitter.com/slightlylate</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AnjanaVakil" height="70px" width="70px" align="left" alt="">
-<p><strong>Anjana Vakil</strong><br>
-Topics: Programming Language Paradigms, Functional Programming (with JavaScript)<br>
-<a href="https://twitter.com/AnjanaVakil">https://twitter.com/AnjanaVakil</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bethdean" height="70px" width="70px" align="left" alt="">
-<p><strong>Beth Dean</strong><br>
-Topics: Design, Illustration<br>
-<a href="https://twitter.com/bethdean">https://twitter.com/bethdean</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bcherny" height="70px" width="70px" align="left" alt="">
-<p><strong>Boris Cherny</strong><br>
-Topics: TypeScript, React, Computer Science<br>
-<a href="https://twitter.com/bcherny">https://twitter.com/bcherny</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brynn" height="70px" width="70px" align="left" alt="">
-<p><strong>Brynn Evans</strong><br>
-Topics: Design, Management<br>
-<a href="https://twitter.com/brynn">https://twitter.com/brynn</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cordeliadillon" height="70px" width="70px" align="left" alt="">
-<p><strong>Cordelia Dillon</strong><br>
-Topics: Accessibility<br>
-<a href="https://twitter.com/cordeliadillon">https://twitter.com/cordeliadillon</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/standardista" height="70px" width="70px" align="left" alt="">
-<p><strong>Estelle Weyl</strong><br>
-Topics: CSS, Performance, Responsive Web Design<br>
-<a href="https://twitter.com/standardista">https://twitter.com/standardista</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/FrancesCoronel" height="70px" width="70px" align="left" alt="">
-<p><strong>Frances Coronel</strong><br>
-Topics: Progressive Web Apps, TypeScript, Web Design, Open Source<br>
-<a href="https://twitter.com/FrancesCoronel">https://twitter.com/FrancesCoronel</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AGambit95" height="70px" width="70px" align="left" alt="">
-<p><strong>Gregory Shehet</strong><br>
-Topics: Functional Reactive Programming, MobX, CSS in JS, React<br>
-<a href="https://twitter.com/AGambit95">https://twitter.com/AGambit95</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jhusain" height="70px" width="70px" align="left" alt="">
-<p><strong>Jafar Husain</strong><br>
-Topics: JavaScript, ES7, Observables, Reactive Programming, Falcor<br>
-<a href="https://twitter.com/jhusain">https://twitter.com/jhusain</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mybluewristband" height="70px" width="70px" align="left" alt="">
-<p><strong>Jennifer Wong</strong><br>
-Topics: Design Systems<br>
-<a href="https://twitter.com/mybluewristband">https://twitter.com/mybluewristband</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jongold" height="70px" width="70px" align="left" alt="">
-<p><strong>Jon Gold</strong><br>
-Topics: Design, Design Systems, React, Artificial Intelligence<br>
-<a href="https://twitter.com/jongold">https://twitter.com/jongold</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisaychuang" height="70px" width="70px" align="left" alt="">
-<p><strong>Lisa Huang</strong><br>
-Topics: AMP, Offline-First Mobile Apps, React<br>
-<a href="https://twitter.com/lisaychuang">https://twitter.com/lisaychuang</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mike_matas" height="70px" width="70px" align="left" alt="">
-<p><strong>Mike Matas</strong><br>
-Topics: Human Interface Design<br>
-<a href="https://twitter.com/mike_matas">https://twitter.com/mike_matas</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/MinaMarkham" height="70px" width="70px" align="left" alt="">
-<p><strong>Mina Markham</strong><br>
-Topics: CSS Architecture, Sass, Community, Design Systems<br>
-<a href="https://twitter.com/MinaMarkham">https://twitter.com/MinaMarkham</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/notwaldorf" height="70px" width="70px" align="left" alt="">
-<p><strong>Monica Dinculescu</strong><br>
-Topics: Web Components, Polymer, Emoji<br>
-<a href="https://twitter.com/notwaldorf">https://twitter.com/notwaldorf</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gdi2290" height="70px" width="70px" align="left" alt="">
-<p><strong>Patrick Stapleton</strong><br>
-Topics: OSS, Serverless, GraphQL, Vue.js, React, Angular, TypeScript<br>
-<a href="https://twitter.com/gdi2290">https://twitter.com/gdi2290</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/iam_preethi" height="70px" width="70px" align="left" alt="">
-<p><strong>Preethi Kasireddy</strong><br>
-Topics: Machine Learning, Natural Language Processing, React<br>
-<a href="https://twitter.com/iam_preethi">https://twitter.com/iam_preethi</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sarah_edo" height="70px" width="70px" align="left" alt="">
-<p><strong>Sarah Drasner</strong><br>
-Topics: CSS, SVG, Animations, Vue.js, React<br>
-<a href="https://twitter.com/sarah_edo">https://twitter.com/sarah_edo</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sgrove" height="70px" width="70px" align="left" alt="">
-<p><strong>Sean Grove</strong><br>
-Topics: GraphQL, ReasonML, OCaml<br>
-<a href="https://twitter.com/sgrove">https://twitter.com/sgrove</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stefsull" height="70px" width="70px" align="left" alt="">
-<p><strong>Stephanie Rewis</strong><br>
-Topics: Design Systems, CSS<br>
-<a href="https://twitter.com/stefsull">https://twitter.com/stefsull</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ladyleet" height="70px" width="70px" align="left" alt="">
-<p><strong>Tracy Lee</strong><br>
-Topics: Reactive Programming, Angular, Ember.js<br>
-<a href="https://twitter.com/ladyleet">https://twitter.com/ladyleet</a></p>
-<h3>Seattle</h3>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DevWithTheHair" height="70px" width="70px" align="left" alt="">
-<p><strong>Jaime Lopez</strong><br>
-Topics: iOS, Swift, Software Architecture, Development Processes<br>
-<a href="https://twitter.com/DevWithTheHair">https://twitter.com/DevWithTheHair</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ShellELittle" height="70px" width="70px" align="left" alt="">
-<p><strong>Shell Little</strong><br>
-Topics: Accessibility<br>
-<a href="https://twitter.com/ShellELittle">https://twitter.com/ShellELittle</a></p>
 <h2>South Africa 🇿🇦</h2>
 <h3>Johannesburg</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/riggaroo" height="70px" width="70px" align="left" alt="">
@@ -660,6 +265,37 @@ Topics: Virtual Reality, Web Image Processing<br>
 <p><strong>Tereza Sokol</strong><br>
 Topics: Elm, Visualizations<br>
 <a href="https://twitter.com/tereza_sokol">https://twitter.com/tereza_sokol</a></p>
+<h2>Finland 🇫🇮</h2>
+<h3>Helsinki</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eemeli_aro" height="70px" width="70px" align="left" alt="">
+<p><strong>Eemeli Aro</strong><br>
+Topics: Open Source, React, YAML<br>
+<a href="https://twitter.com/eemeli_aro">https://twitter.com/eemeli_aro</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pakastin" height="70px" width="70px" align="left" alt="">
+<p><strong>Juha Lindstedt</strong><br>
+Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js<br>
+<a href="https://twitter.com/pakastin">https://twitter.com/pakastin</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/plrdev" height="70px" width="70px" align="left" alt="">
+<p><strong>Juha Linnanen</strong><br>
+Topics: React Native, TypeScript, GraphQL<br>
+<a href="https://twitter.com/plrdev">https://twitter.com/plrdev</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hamatti" height="70px" width="70px" align="left" alt="">
+<p><strong>Juha-Matti Santala</strong><br>
+Topics: Community building, Documentation, JavaScript, Programming<br>
+<a href="https://twitter.com/Hamatti">https://twitter.com/Hamatti</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="">
+<p><strong>Maaret Pyhäjärvi</strong><br>
+Topics: Testing<br>
+<a href="https://twitter.com/maaretp">https://twitter.com/maaretp</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/varya_en" height="70px" width="70px" align="left" alt="">
+<p><strong>Varya Stepanova</strong><br>
+Topics: CSS in JS, Style Guides, Visual Regression Testing<br>
+<a href="https://twitter.com/varya_en">https://twitter.com/varya_en</a></p>
+<h3>Rautalampi</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bebraw" height="70px" width="70px" align="left" alt="">
+<p><strong>Juho Vepsäläinen</strong><br>
+Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing<br>
+<a href="https://twitter.com/bebraw">https://twitter.com/bebraw</a></p>
 <h2>France 🇫🇷</h2>
 <h3>Lille</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/EmmanuelDemey" height="70px" width="70px" align="left" alt="">
@@ -731,7 +367,7 @@ Topics: Styleguides, React, CSS, Preact, CSS-in-JS<br>
 <p><strong>Srushtika Neelakantam</strong><br>
 Topics: WebVR, A-Frame, Realtime Web, JavaScript Frameworks<br>
 <a href="https://twitter.com/Srushtika">https://twitter.com/Srushtika</a></p>
-<img src="https://avatars1.githubusercontent.com/u/9947422?s=400&#x26;u=2e168427f84d2e4e959ca603526bc270e8cf0204&#x26;v=4" height="70px" width="70px" align="left" alt="">
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tejaskumar_" height="70px" width="70px" align="left" alt="">
 <p><strong>Tejas Kumar</strong><br>
 Topics: JavaScript, React, WebAssembly, Community, Teams, Humanities<br>
 <a href="https://twitter.com/tejaskumar_">https://twitter.com/tejaskumar_</a></p>
@@ -749,6 +385,19 @@ Topics: Clojure, Web Apps, Security<br>
 <p><strong>Vitaly Friedman</strong><br>
 Topics: Web Design, Web Development, Responsive Web Design<br>
 <a href="https://twitter.com/smashingmag">https://twitter.com/smashingmag</a></p>
+<h3>Hamburg</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/marionebl" height="70px" width="70px" align="left" alt="">
+<p><strong>Mario Nebl</strong><br>
+Topics: JavaScript, Node, JS Architecture<br>
+<a href="https://twitter.com/marionebl">https://twitter.com/marionebl</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="">
+<p><strong>Martin Kleppe</strong><br>
+Topics: Weird JS<br>
+<a href="https://twitter.com/aemkei">https://twitter.com/aemkei</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PalmaSwell" height="70px" width="70px" align="left" alt="">
+<p><strong>Mauricio Palma</strong><br>
+Topics: CSS, JavaScript<br>
+<a href="https://twitter.com/PalmaSwell">https://twitter.com/PalmaSwell</a></p>
 <h3>Höchst im Odenwald</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/TimPietrusky" height="70px" width="70px" align="left" alt="">
 <p><strong>Tim Pietrusky</strong><br>
@@ -768,6 +417,12 @@ Topics: Node, V8<br>
 <p><strong>Mathias Bynens</strong><br>
 Topics: JavaScript (TC39), V8, Chrome<br>
 <a href="https://twitter.com/mathias">https://twitter.com/mathias</a></p>
+<h2>Greece 🇬🇷</h2>
+<h3>Athens</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/NickPalladinos" height="70px" width="70px" align="left" alt="">
+<p><strong>Nick Palladinos</strong><br>
+Topics: F#<br>
+<a href="https://twitter.com/NickPalladinos">https://twitter.com/NickPalladinos</a></p>
 <h2>Ireland 🇮🇪</h2>
 <h3>Cork</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DaveJ" height="70px" width="70px" align="left" alt="">
@@ -1034,7 +689,7 @@ Topics: React Native, JavaScript, Tooling<br>
 <p><strong>Michał Pierzchała</strong><br>
 Topics: React Native, Jest, Testing, CSS<br>
 <a href="https://twitter.com/thymikee">https://twitter.com/thymikee</a></p>
-<img src="https://avatars1.githubusercontent.com/u/7837457?s=400&#x26;v=4" height="70px" width="70px" align="left" alt="">
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michal_chudziak" height="70px" width="70px" align="left" alt="">
 <p><strong>Mike Chudziak</strong><br>
 Topics: React, React Native, iOS, Android<br>
 <a href="https://twitter.com/michal_chudziak">https://twitter.com/michal_chudziak</a></p>
@@ -1074,7 +729,7 @@ Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture<br>
 <p><strong>Nikita Prokopov</strong><br>
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar<br>
 <a href="https://twitter.com/nikitonsky">https://twitter.com/nikitonsky</a></p>
-<img src="https://avatars3.githubusercontent.com/u/4660275?s=460&#x26;v=4" height="70px" width="70px" align="left" alt="">
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/elixir_lang_mos" height="70px" width="70px" align="left" alt="">
 <p><strong>Nikita Sobolev</strong><br>
 Topics: Elixir, Python, JavaScript, Management, RSDP<br>
 <a href="https://twitter.com/elixir_lang_mos">https://twitter.com/elixir_lang_mos</a></p>
@@ -1086,6 +741,11 @@ Topics: Angular, JavaScript, RxJS, i18n, HTML, CSS<br>
 <p><strong>Sergey Rubanov</strong><br>
 Topics: Standards, Web Assembly<br>
 <a href="https://twitter.com/chicoxyzzy">https://twitter.com/chicoxyzzy</a></p>
+<h3>St. Petersburg</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pepelsbey_" height="70px" width="70px" align="left" alt="">
+<p><strong>Vadim Makeev</strong><br>
+Topics: HTML, CSS, Web Standards, Accessibility<br>
+<a href="https://twitter.com/pepelsbey_">https://twitter.com/pepelsbey_</a></p>
 <h2>Serbia 🇷🇸</h2>
 <h3>Belgrade</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/simalexan" height="70px" width="70px" align="left" alt="">
@@ -1117,12 +777,76 @@ Topics: WebAPI, Microservices, JavaScript<br>
 <p><strong>Erik Rasmussen</strong><br>
 Topics: React, Redux, Redux-Form, Forms<br>
 <a href="https://twitter.com/erikras">https://twitter.com/erikras</a></p>
+<h2>Sweden</h2>
+<h3>Stockholm</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="">
+<p><strong>Muhammad Ahsan Ayaz</strong><br>
+Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps<br>
+<a href="https://twitter.com/muhd_ahsanayaz">https://twitter.com/muhd_ahsanayaz</a></p>
 <h2>Switzerland 🇨🇭</h2>
 <h3>Zurich</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/g33konaut" height="70px" width="70px" align="left" alt="">
 <p><strong>Martin Splitt</strong><br>
 Topics: Virtual Reality, Web Performance<br>
 <a href="https://twitter.com/g33konaut">https://twitter.com/g33konaut</a></p>
+<h2>Ukraine 🇺🇦</h2>
+<h3>Chernivtsi</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/denysdovhan" height="70px" width="70px" align="left" alt="">
+<p><strong>Denys Dovhan</strong><br>
+Topics: JavaScript, DevTools, Shell scripting<br>
+<a href="https://twitter.com/denysdovhan">https://twitter.com/denysdovhan</a></p>
+<h3>Kharkiv</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/xanf_ua" height="70px" width="70px" align="left" alt="">
+<p><strong>Illya Klymov</strong><br>
+Topics: Teaching, Coaching, JavaScript<br>
+<a href="https://twitter.com/xanf_ua">https://twitter.com/xanf_ua</a></p>
+<h3>Kyiv</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shvaikalesh" height="70px" width="70px" align="left" alt="">
+<p><strong>Aleksey Shvayka</strong><br>
+Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk<br>
+<a href="https://twitter.com/shvaikalesh">https://twitter.com/shvaikalesh_</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/listochkin" height="70px" width="70px" align="left" alt="">
+<p><strong>Andrey Listochkin</strong><br>
+Topics: Rust, JavaScript, Skills, Architecture<br>
+<a href="https://twitter.com/listochkin">https://twitter.com/listochkin</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eagleeye_s" height="70px" width="70px" align="left" alt="">
+<p><strong>Andrii Shumada</strong><br>
+Topics: JavaScript, Node.js, Streams<br>
+<a href="https://twitter.com/eagleeye_s">https://twitter.com/eagleeye_s</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/SilentImp" height="70px" width="70px" align="left" alt="">
+<p><strong>Anton Nemtsev</strong><br>
+Topics: HTML, CSS, Web Standards<br>
+<a href="https://twitter.com/SilentImp">https://twitter.com/SilentImp</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yavorsky_" height="70px" width="70px" align="left" alt="">
+<p><strong>Artem Yavorsky</strong><br>
+Topics: Babel, ECMAScript, Compilers<br>
+<a href="https://twitter.com/yavorsky_">https://twitter.com/yavorsky_</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/roman01la" height="70px" width="70px" align="left" alt="">
+<p><strong>Roman Liutikov</strong><br>
+Topics: ClojureScript, React, Compilers<br>
+<a href="https://twitter.com/roman01la">https://twitter.com/roman01la</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tshemsedinov" height="70px" width="70px" align="left" alt="">
+<p><strong>Timur Shemsedinov</strong><br>
+Topics: Node.js, Programming, JavaScript, Highload<br>
+<a href="https://twitter.com/tshemsedinov">https://twitter.com/tshemsedinov</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mourner" height="70px" width="70px" align="left" alt="">
+<p><strong>Vladimir Agafonkin</strong><br>
+Topics: Maps, Algorithms<br>
+<a href="https://twitter.com/mourner">https://twitter.com/mourner</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/akella" height="70px" width="70px" align="left" alt="">
+<p><strong>Yuri Artyukh</strong><br>
+Topics: HTML, CSS, JavaScript, WebGL<br>
+<a href="https://twitter.com/akella">https://twitter.com/akella</a></p>
+<h3>Vinnytsia</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/denar90_" height="70px" width="70px" align="left" alt="">
+<p><strong>Artem Denysov</strong><br>
+Topics: Web Performance, Dev Tools<br>
+<a href="https://twitter.com/denar90_">https://twitter.com/denar90_</a></p>
+<h3>Odessa</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/geek_timofey" height="70px" width="70px" align="left" alt="">
+<p><strong>Timofey Lavrenyuk</strong><br>
+Topics: Progressive Web Apps, Modern Browser APIs<br>
+<a href="https://twitter.com/geek_timofey">https://twitter.com/geek_timofey</a></p>
 <h2>United Kingdom 🇬🇧</h2>
 <h3>Birmingham</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brucel" height="70px" width="70px" align="left" alt="">
@@ -1292,6 +1016,306 @@ Topics: Accessibility<br>
 <p><strong>Tiff Nogueira</strong><br>
 Topics: CSS Grids, React, Redux, Firebase, Flexbox<br>
 <a href="https://twitter.com/tiffhaxell">https://twitter.com/tiffhaxell</a></p>
+<h2>United States of America 🇺🇸</h2>
+<h3>Boston</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ericwbailey" height="70px" width="70px" align="left" alt="">
+<p><strong>Eric Bailey</strong><br>
+Topics: Accessibility<br>
+<a href="https://twitter.com/ericwbailey">https://twitter.com/ericwbailey</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bahmutov" height="70px" width="70px" align="left" alt="">
+<p><strong>Gleb Bahmutov</strong><br>
+Topics: Computer Science, JavaScript, Reactive Programming<br>
+<a href="https://twitter.com/bahmutov">https://twitter.com/bahmutov</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/leaverou" height="70px" width="70px" align="left" alt="">
+<p><strong>Lea Verou</strong><br>
+Topics: CSS, HTML<br>
+<a href="https://twitter.com/leaverou">https://twitter.com/leaverou</a></p>
+<h3>Buffalo</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aardrian" height="70px" width="70px" align="left" alt="">
+<p><strong>Adrian Roselli</strong><br>
+Topics: Accessibility<br>
+<a href="https://twitter.com/aardrian">https://twitter.com/aardrian</a></p>
+<h3>Carlsbad</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mjackson" height="70px" width="70px" align="left" alt="">
+<p><strong>Michael Jackson</strong><br>
+Topics: React, JavaScript, React Router<br>
+<a href="https://twitter.com/mjackson">https://twitter.com/mjackson</a></p>
+<h3>Cedar Rapids</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/levibostian" height="70px" width="70px" align="left" alt="">
+<p><strong>Levi Bostian</strong><br>
+Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
+<a href="https://twitter.com/levibostian">https://twitter.com/levibostian</a></p>
+<h3>Cincinnati</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gigasquid" height="70px" width="70px" align="left" alt="">
+<p><strong>Carin Meier</strong><br>
+Topics: Clojure, Machine Learning, Programming<br>
+<a href="https://twitter.com/gigasquid">https://twitter.com/gigasquid</a></p>
+<h3>Chapel Hill</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shepazu" height="70px" width="70px" align="left">
+<p><strong>Doug Schepers</strong><br>
+Topics: Data visualization, Accessibility, SVG<br>
+<a href="https://twitter.com/shepazu">https://twitter.com/shepazu</a></p>
+<h3>Chicago</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/KarlLHughes" height="70px" width="70px" align="left">
+<p><strong>Karl Hughes</strong><br>
+Topics: Microservices, PHP, JavaScript, Docker<br>
+<a href="https://twitter.com/KarlLHughes">https://twitter.com/KarlLHughes</a></p>
+<h3>Denver</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mirisuzanne" height="70px" width="70px" align="left" alt="">
+<p><strong>Miriam Suzanne</strong><br>
+Topics: CSS, Sass, Architecture, Design Systems<br>
+<a href="https://twitter.com/mirisuzanne">https://twitter.com/mirisuzanne</a></p>
+<h3>Madison</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cariefisher" height="70px" width="70px" align="left" alt="">
+<p><strong>Carie Fisher</strong><br>
+Topics: Accessibility<br>
+<a href="https://twitter.com/cariefisher">https://twitter.com/cariefisher</a></p>
+<h3>Nashville</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Aimee_Knight" height="70px" width="70px" align="left" alt="">
+<p><strong>Aimee Knight</strong><br>
+Topics: JavaScript, CSS, Angular, Growing Junior Developers<br>
+<a href="https://twitter.com/Aimee_Knight">https://twitter.com/Aimee_Knight</a></p>
+<h3>New Jersey</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ken_wheeler" height="70px" width="70px" align="left" alt="">
+<p><strong>Ken Wheeler</strong><br>
+Topics: React, React Native, ReasonML<br>
+<a href="https://twitter.com/ken_wheeler">https://twitter.com/ken_wheeler</a></p>
+<h3>New Orleans</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/GantLaborde" height="70px" width="70px" align="left" alt="">
+<p><strong>Gant Laborde</strong><br>
+Topics: JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking<br>
+<a href="https://twitter.com/GantLaborde">https://twitter.com/GantLaborde</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thegreengreek" height="70px" width="70px" align="left" alt="">
+<p><strong>Sia Karamalegos</strong><br>
+Topics: React, JavaScript, React Native, Front-End Performance<br>
+<a href="https://twitter.com/thegreengreek">https://twitter.com/thegreengreek</a></p>
+<h3>New York City</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/andrey_sitnik" height="70px" width="70px" align="left" alt="">
+<p><strong>Andrey Sitnik</strong><br>
+Topics: PostCSS, CRDT<br>
+<a href="https://twitter.com/sitnikcode">https://twitter.com/sitnikcode</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/swannodette" height="70px" width="70px" align="left" alt="">
+<p><strong>David Nolen</strong><br>
+Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science<br>
+<a href="https://twitter.com/swannodette">https://twitter.com/swannodette</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/broccolini" height="70px" width="70px" align="left" alt="">
+<p><strong>Diana Mounter</strong><br>
+Topics: Design Systems, CSS, Product Design<br>
+<a href="https://twitter.com/broccolini">https://twitter.com/broccolini</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/left_pad" height="70px" width="70px" align="left" alt="">
+<p><strong>Henry Zhu</strong><br>
+Topics: Open Source, Babel<br>
+<a href="https://twitter.com/left_pad">https://twitter.com/left_pad</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jaredpalmer" height="70px" width="70px" align="left" alt="">
+<p><strong>Jared Palmer</strong><br>
+Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS<br>
+<a href="https://twitter.com/jaredpalmer">https://twitter.com/jaredpalmer</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jensimmons" height="70px" width="70px" align="left" alt="">
+<p><strong>Jen Simmons</strong><br>
+Topics: Design, CSS, HTML, Web<br>
+<a href="https://twitter.com/jensimmons">https://twitter.com/jensimmons</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joe_sepi" height="70px" width="70px" align="left" alt="">
+<p><strong>Joe Sepi</strong><br>
+Topics: Open Source, Community, Node.js, JavaScript<br>
+<a href="https://twitter.com/joe_sepi">https://twitter.com/joe_sepi</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kurtiskemple" height="70px" width="70px" align="left" alt="">
+<p><strong>Kurtis Kemple</strong><br>
+Topics: React, React Native, GraphQL, Universal Components<br>
+<a href="https://twitter.com/kurtiskemple">https://twitter.com/kurtiskemple</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lara_hogan" height="70px" width="70px" align="left" alt="">
+<p><strong>Lara Hogan</strong><br>
+Topics: Design, Performance, Engineering Management, Public Speaking<br>
+<a href="https://twitter.com/lara_hogan">https://twitter.com/lara_hogan</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kosamari" height="70px" width="70px" align="left" alt="">
+<p><strong>Mariko Kosaka</strong><br>
+Topics: HTML, CSS, JavaScript, Web<br>
+<a href="https://twitter.com/kosamari">https://twitter.com/kosamari</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/peggyrayzis" height="70px" width="70px" align="left" alt="">
+<p><strong>Peggy Rayzis</strong><br>
+Topics: React, React Native, GraphQL<br>
+<a href="https://twitter.com/peggyrayzis">https://twitter.com/peggyrayzis</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/swyx" height="70px" width="70px" align="left" alt="">
+<p><strong>Shawn Wang</strong><br>
+Topics: React, Serverless, JAMstack<br>
+<a href="https://twitter.com/swyx">https://twitter.com/swyx</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/una" height="70px" width="70px" align="left" alt="">
+<p><strong>Una Kravets</strong><br>
+Topics: CSS, Web<br>
+<a href="https://twitter.com/una">https://twitter.com/una</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bitandbang" height="70px" width="70px" align="left" alt="">
+<p><strong>Tierney Cyren</strong><br>
+Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community<br>
+<a href="https://twitter.com/bitandbang">https://twitter.com/bitandbang</a></p>
+<h3>Mountain View</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/addyosmani" height="70px" width="70px" align="left" alt="">
+<p><strong>Addy Osmani</strong><br>
+Topics: Chrome DevTools, Performance<br>
+<a href="https://twitter.com/addyosmani">https://twitter.com/addyosmani</a></p>
+<h3>Omaha</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/courtneyheitman" height="70px" width="70px" align="left" alt="">
+<p><strong>Courtney Heitman</strong><br>
+Topics: UX Development, Usability, Accessibility, Scrum, Agile<br>
+<a href="https://twitter.com/courtneyheitman">https://twitter.com/courtneyheitman</a></p>
+<h3>Palo Alto</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/paul_irish" height="70px" width="70px" align="left" alt="">
+<p><strong>Paul Irish</strong><br>
+Topics: Developer Tools<br>
+<a href="https://twitter.com/paul_irish">https://twitter.com/paul_irish</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_chenglou" height="70px" width="70px" align="left" alt="">
+<p><strong>Cheng Lou</strong><br>
+Topics: ReasonML, React, Software Philosophy<br>
+<a href="https://twitter.com/_chenglou">https://twitter.com/_chenglou</a></p>
+<h3>Philadelphia</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lispardi" height="70px" width="70px" align="left" alt="">
+<p><strong>Lis Pardi</strong><br>
+Topics: Web<br>
+<a href="https://twitter.com/lispardi">https://twitter.com/lispardi</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rtfeldman" height="70px" width="70px" align="left" alt="">
+<p><strong>Richard Feldman</strong><br>
+Topics: Elm<br>
+<a href="https://twitter.com/rtfeldman">https://twitter.com/rtfeldman</a></p>
+<h3>Pittsburgh</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brad_frost" height="70px" width="70px" align="left" alt="">
+<p><strong>Brad Frost</strong><br>
+Topics: Web Design, Atomic Design, Web Development<br>
+<a href="https://twitter.com/brad_frost">https://twitter.com/brad_frost</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/linclark" height="70px" width="70px" align="left" alt="">
+<p><strong>Lin Clark</strong><br>
+Topics: React, WebAssembly, Browsers Internals<br>
+<a href="https://twitter.com/linclark">https://twitter.com/linclark</a></p>
+<h3>Portland</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joeseifi" height="70px" width="70px" align="left" alt="">
+<p><strong>Joe Seifi</strong><br>
+Topics: CSS-in-JS, JavaScript, React<br>
+<a href="https://twitter.com/joeseifi">https://twitter.com/joeseifi</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kyleshevlin" height="70px" width="70px" align="left" alt="">
+<p><strong>Kyle Shevlin</strong><br>
+Topics: React, Redux, JavaScript<br>
+<a href="https://twitter.com/kyleshevlin">https://twitter.com/kyleshevlin</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/micahgodbolt" height="70px" width="70px" align="left" alt="">
+<p><strong>Micah Godbolt</strong><br>
+Topics: Frontend Architecture, CSS, Design Systems<br>
+<a href="https://twitter.com/micahgodbolt">https://twitter.com/micahgodbolt</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shanselman" height="70px" width="70px" align="left" alt="">
+<p><strong>Scott Hanselman</strong><br>
+Topics: .NET, Azure<br>
+<a href="https://twitter.com/shanselman">https://twitter.com/shanselman</a></p>
+<img src="https://avatars1.githubusercontent.com/u/1166226?s=460&#x26;v=4" height="70px" width="70px" align="left" alt="">
+<p><strong>Violet Peña</strong><br>
+Topics: React, Socket.IO, Storybook, Accessibility<br>
+<a href="https://github.com/vgpena">github.com/vgpena</a></p>
+<h3>Redwood City</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jessebeach" height="70px" width="70px" align="left" alt="">
+<p><strong>Jesse Beach</strong><br>
+Topics: Accessibility, React<br>
+<a href="https://twitter.com/jessebeach">https://twitter.com/jessebeach</a></p>
+<h3>Salt Lake City</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kentcdodds" height="70px" width="70px" align="left" alt="">
+<p><strong>Kent C. Dodds</strong><br>
+Topics: OSS, React, Testing<br>
+<a href="https://twitter.com/kentcdodds">https://twitter.com/kentcdodds</a></p>
+<h3>San Francisco</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/adammenges" height="70px" width="70px" align="left" alt="">
+<p><strong>Adam Menges</strong><br>
+Topics: Artificial Intelligence, Design, Computer Science<br>
+<a href="https://twitter.com/adammenges">https://twitter.com/adammenges</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/slightlylate" height="70px" width="70px" align="left" alt="">
+<p><strong>Alex Russell</strong><br>
+Topics: Performance, Mobile Web, Progressive Web Apps, Web Standards<br>
+<a href="https://twitter.com/slightlylate">https://twitter.com/slightlylate</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AnjanaVakil" height="70px" width="70px" align="left" alt="">
+<p><strong>Anjana Vakil</strong><br>
+Topics: Programming Language Paradigms, Functional Programming (with JavaScript)<br>
+<a href="https://twitter.com/AnjanaVakil">https://twitter.com/AnjanaVakil</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bethdean" height="70px" width="70px" align="left" alt="">
+<p><strong>Beth Dean</strong><br>
+Topics: Design, Illustration<br>
+<a href="https://twitter.com/bethdean">https://twitter.com/bethdean</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bcherny" height="70px" width="70px" align="left" alt="">
+<p><strong>Boris Cherny</strong><br>
+Topics: TypeScript, React, Computer Science<br>
+<a href="https://twitter.com/bcherny">https://twitter.com/bcherny</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brynn" height="70px" width="70px" align="left" alt="">
+<p><strong>Brynn Evans</strong><br>
+Topics: Design, Management<br>
+<a href="https://twitter.com/brynn">https://twitter.com/brynn</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cordeliadillon" height="70px" width="70px" align="left" alt="">
+<p><strong>Cordelia Dillon</strong><br>
+Topics: Accessibility<br>
+<a href="https://twitter.com/cordeliadillon">https://twitter.com/cordeliadillon</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/standardista" height="70px" width="70px" align="left" alt="">
+<p><strong>Estelle Weyl</strong><br>
+Topics: CSS, Performance, Responsive Web Design<br>
+<a href="https://twitter.com/standardista">https://twitter.com/standardista</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/FrancesCoronel" height="70px" width="70px" align="left" alt="">
+<p><strong>Frances Coronel</strong><br>
+Topics: Progressive Web Apps, TypeScript, Web Design, Open Source<br>
+<a href="https://twitter.com/FrancesCoronel">https://twitter.com/FrancesCoronel</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AGambit95" height="70px" width="70px" align="left" alt="">
+<p><strong>Gregory Shehet</strong><br>
+Topics: Functional Reactive Programming, MobX, CSS in JS, React<br>
+<a href="https://twitter.com/AGambit95">https://twitter.com/AGambit95</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jhusain" height="70px" width="70px" align="left" alt="">
+<p><strong>Jafar Husain</strong><br>
+Topics: JavaScript, ES7, Observables, Reactive Programming, Falcor<br>
+<a href="https://twitter.com/jhusain">https://twitter.com/jhusain</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mybluewristband" height="70px" width="70px" align="left" alt="">
+<p><strong>Jennifer Wong</strong><br>
+Topics: Design Systems<br>
+<a href="https://twitter.com/mybluewristband">https://twitter.com/mybluewristband</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jongold" height="70px" width="70px" align="left" alt="">
+<p><strong>Jon Gold</strong><br>
+Topics: Design, Design Systems, React, Artificial Intelligence<br>
+<a href="https://twitter.com/jongold">https://twitter.com/jongold</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisaychuang" height="70px" width="70px" align="left" alt="">
+<p><strong>Lisa Huang</strong><br>
+Topics: AMP, Offline-First Mobile Apps, React<br>
+<a href="https://twitter.com/lisaychuang">https://twitter.com/lisaychuang</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mike_matas" height="70px" width="70px" align="left" alt="">
+<p><strong>Mike Matas</strong><br>
+Topics: Human Interface Design<br>
+<a href="https://twitter.com/mike_matas">https://twitter.com/mike_matas</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/MinaMarkham" height="70px" width="70px" align="left" alt="">
+<p><strong>Mina Markham</strong><br>
+Topics: CSS Architecture, Sass, Community, Design Systems<br>
+<a href="https://twitter.com/MinaMarkham">https://twitter.com/MinaMarkham</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/notwaldorf" height="70px" width="70px" align="left" alt="">
+<p><strong>Monica Dinculescu</strong><br>
+Topics: Web Components, Polymer, Emoji<br>
+<a href="https://twitter.com/notwaldorf">https://twitter.com/notwaldorf</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gdi2290" height="70px" width="70px" align="left" alt="">
+<p><strong>Patrick Stapleton</strong><br>
+Topics: OSS, Serverless, GraphQL, Vue.js, React, Angular, TypeScript<br>
+<a href="https://twitter.com/gdi2290">https://twitter.com/gdi2290</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/iam_preethi" height="70px" width="70px" align="left" alt="">
+<p><strong>Preethi Kasireddy</strong><br>
+Topics: Machine Learning, Natural Language Processing, React<br>
+<a href="https://twitter.com/iam_preethi">https://twitter.com/iam_preethi</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sarah_edo" height="70px" width="70px" align="left" alt="">
+<p><strong>Sarah Drasner</strong><br>
+Topics: CSS, SVG, Animations, Vue.js, React<br>
+<a href="https://twitter.com/sarah_edo">https://twitter.com/sarah_edo</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sgrove" height="70px" width="70px" align="left" alt="">
+<p><strong>Sean Grove</strong><br>
+Topics: GraphQL, ReasonML, OCaml<br>
+<a href="https://twitter.com/sgrove">https://twitter.com/sgrove</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stefsull" height="70px" width="70px" align="left" alt="">
+<p><strong>Stephanie Rewis</strong><br>
+Topics: Design Systems, CSS<br>
+<a href="https://twitter.com/stefsull">https://twitter.com/stefsull</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ladyleet" height="70px" width="70px" align="left" alt="">
+<p><strong>Tracy Lee</strong><br>
+Topics: Reactive Programming, Angular, Ember.js<br>
+<a href="https://twitter.com/ladyleet">https://twitter.com/ladyleet</a></p>
+<h3>Seattle</h3>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DevWithTheHair" height="70px" width="70px" align="left" alt="">
+<p><strong>Jaime Lopez</strong><br>
+Topics: iOS, Swift, Software Architecture, Development Processes<br>
+<a href="https://twitter.com/DevWithTheHair">https://twitter.com/DevWithTheHair</a></p>
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ShellELittle" height="70px" width="70px" align="left" alt="">
+<p><strong>Shell Little</strong><br>
+Topics: Accessibility<br>
+<a href="https://twitter.com/ShellELittle">https://twitter.com/ShellELittle</a></p>
 <h2>Argentina 🇦🇷</h2>
 <h3>Buenos Aires</h3>
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/evaferreira92" height="70px" width="70px" align="left" alt="">
@@ -1336,34 +1360,4 @@ Topics: Computer Vision, Keras, CNN, R, Data Science path<br>
 <p><strong>Sibelius Seraphini</strong><br>
 Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain<br>
 <a href="https://twitter.com/sseraphini">https://twitter.com/sseraphini</a></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/awesome-speakers/#2021-04-06</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/awesome-speakers/#2021-04-06</guid><pubDate>Tue, 06 Apr 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/awesome-speakers Oct 1st, 2018]]></title><description><![CDATA[<h2>Germany 🇩🇪</h2>
-<h3>Hamburg</h3>
-<img src="https://avatars3.githubusercontent.com/u/1148334?s=460&#x26;v=4" height="70px" width="70px" align="left" alt="">
-<p><strong>Gregor Adams</strong><br>
-Topics: Fractals, CSS, JavaScript, Web Animations<br>
-<a href="https://github.com/pixelass">github.com/pixelass</a></p>
-<img src="https://avatars0.githubusercontent.com/u/4248851?s=460&#x26;v=4" height="70px" width="70px" align="left" alt="">
-<p><strong>Mario Nebl</strong><br>
-Topics: JavaScript, Node, JS Architecture<br>
-<a href="https://twitter.com/marionebl">https://twitter.com/marionebl</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="">
-<p><strong>Martin Kleppe</strong><br>
-Topics: Weird JS<br>
-<a href="https://twitter.com/aemkei">https://twitter.com/aemkei</a></p>
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PalmaSwell" height="70px" width="70px" align="left" alt="">
-<p><strong>Mauricio Palma</strong><br>
-Topics: CSS, JavaScript<br>
-<a href="https://twitter.com/PalmaSwell">https://twitter.com/PalmaSwell</a></p>
-<h2>Greece 🇬🇷</h2>
-<h3>Athens</h3>
-<img src="http://mbrace.io/assets/images/people/npal.jpg" height="70px" width="70px" align="left" alt="">
-<p><strong>Nick Palladinos</strong><br>
-Topics: F#<br>
-<a href="https://twitter.com/NickPalladinos">https://twitter.com/NickPalladinos</a></p>
-<h2>Russia 🇷🇺</h2>
-<h3>St. Petersburg</h3>
-<img src="https://avatars3.githubusercontent.com/u/105274" height="70px" width="70px" align="left" alt="">
-<p><strong>Vadim Makeev</strong><br>
-Topics: HTML, CSS, Web Standards, Accessibility<br>
-<a href="https://twitter.com/pepelsbey_">https://twitter.com/pepelsbey_</a></p>
-]]></description><link>https://www.trackawesomelist.com/karlhorky/awesome-speakers/#2018-10-01</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/awesome-speakers/#2018-10-01</guid><pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/awesome-speakers/#2021-07-09</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/awesome-speakers/#2021-07-09</guid><pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate></item></channel></rss>
