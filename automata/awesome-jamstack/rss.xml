@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[automata/awesome-jamstack Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Jul 2021 00:09:46 GMT</lastBuildDate><item><title><![CDATA[automata/awesome-jamstack Mar 9th, 2021]]></title><description><![CDATA[<h2>CMS</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[automata/awesome-jamstack Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Jul 2021 11:40:34 GMT</lastBuildDate><item><title><![CDATA[automata/awesome-jamstack Jun 15th, 2021]]></title><description><![CDATA[<h2>Static Site Generators</h2>
+<li><a href="https://astro.build">Astro</a> - Build faster websites, while shipping less to almost no Javascript.</li>
+]]></description><link>https://www.trackawesomelist.com/automata/awesome-jamstack/#2021-06-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/automata/awesome-jamstack/#2021-06-15</guid><pubDate>Tue, 15 Jun 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[automata/awesome-jamstack Apr 22nd, 2021]]></title><description><![CDATA[<h2>Platforms</h2>
+<li><a href="https://azure.microsoft.com/services/app-service/static/">Azure Static Web Apps</a> - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.</li>
+]]></description><link>https://www.trackawesomelist.com/automata/awesome-jamstack/#2021-04-22</link><guid isPermaLink="false">https://www.trackawesomelist.com/automata/awesome-jamstack/#2021-04-22</guid><pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[automata/awesome-jamstack Apr 2nd, 2021]]></title><description><![CDATA[<h2>Jamstack Sites Showcase</h2>
+<li><a href="https://bejamas.io/blog/backlinko-case-study/">Backlinko</a> - Built with Next.js, headless WordPress and Netlify.</li>
+<h2>Tutorials / Articles</h2>
+<li><a href="https://bejamas.io/blog/jamstack-ecosystem/">Jamstack Ecosystem</a></li>
+<li><a href="https://bejamas.io/blog/headless-cms/">Headless CMS Options for Your Jamstack Site</a></li>
+]]></description><link>https://www.trackawesomelist.com/automata/awesome-jamstack/#2021-04-02</link><guid isPermaLink="false">https://www.trackawesomelist.com/automata/awesome-jamstack/#2021-04-02</guid><pubDate>Fri, 02 Apr 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[automata/awesome-jamstack Mar 26th, 2021]]></title><description><![CDATA[<h2>Tutorials / Articles</h2>
+<li><a href="https://snipcart.com/blog/jamstack-static-site-comments">Static Site Comments: A Jamstack How-To</a></li>
+]]></description><link>https://www.trackawesomelist.com/automata/awesome-jamstack/#2021-03-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/automata/awesome-jamstack/#2021-03-26</guid><pubDate>Fri, 26 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[automata/awesome-jamstack Mar 9th, 2021]]></title><description><![CDATA[<h2>CMS</h2>
 <li><a href="https://agilitycms.com">Agility CMS</a> - The best of both worlds for developers and content editors.</li>
 <h2>API</h2><h3>Authentication</h3>
 <li><a href="https://jexia.com">Jexia UMS</a> - REST API User management system for your webside with identy provider with JWT + extra functionality.</li>
@@ -88,7 +99,6 @@
 <li><a href="https://medium.com/@UnicornAgency/jamstack-pwa-lets-build-a-polling-app-with-gatsby-js-firebase-and-styled-components-pt-1-78a03a633092">Jamstack PWA — Let’s Build a Polling App. with Gatsby.js, Firebase, and Styled-components Pt. 1</a></li>
 <li><a href="https://blog.lichter.io/posts/going-jamstack-with-netlify-and-nuxt/">Going Jamstack with Netlify and Nuxt</a></li>
 <li><a href="https://snipcart.com/jamstack-ecommerce-podcast">A Broad Discussion on Jamstack &#x26; E-Commerce (Podcast &#x26; Transcript)</a></li>
-<li><a href="https://bejamas.io/blog/headless-cms/">9 Headless CMS Options for Your Jamstack Site</a></li>
 <h2>Podcasts</h2>
 <li><a href="https://www.netlify.com/tags/podcast/">Jamstack Radio</a></li>
 <li><a href="https://thatsmyjamstack.com">That's my Jamstack</a></li>
