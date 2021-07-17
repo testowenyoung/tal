@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ossu/computer-science Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 16 Jul 2021 23:37:25 GMT</lastBuildDate><item><title><![CDATA[ossu/computer-science Jan 18th, 2021]]></title><description><![CDATA[<h1>Community</h1>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ossu/computer-science Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 17 Jul 2021 11:43:59 GMT</lastBuildDate><item><title><![CDATA[ossu/computer-science Jul 17th, 2021]]></title><description><![CDATA[<h2>Final project</h2><h3>Evaluation</h3>
+<li>Submit your project's information to <a href="https://github.com/ossu/computer-science/blob/master/PROJECTS.md">PROJECTS</a> via a pull request.</li>
+<li>Put the OSSU-CS badge in the README of your repository!</li>
+]]></description><link>https://www.trackawesomelist.com/ossu/computer-science/#2021-07-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/ossu/computer-science/#2021-07-17</guid><pubDate>Sat, 17 Jul 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[ossu/computer-science Jan 18th, 2021]]></title><description><![CDATA[<h1>Community</h1>
 <li>We have a discord server! <a href="https://discord.gg/wuytwK5s9h"><img src="https://img.shields.io/discord/744385009028431943.svg?label=&#x26;logo=discord&#x26;logoColor=ffffff&#x26;color=7389D8&#x26;labelColor=6A7EC2" alt="Discord"></a> This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? <a href="https://discord.gg/wuytwK5s9h">Join the OSSU Discord</a></li>
 ]]></description><link>https://www.trackawesomelist.com/ossu/computer-science/#2021-01-18</link><guid isPermaLink="false">https://www.trackawesomelist.com/ossu/computer-science/#2021-01-18</guid><pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[ossu/computer-science Dec 29th, 2020]]></title><description><![CDATA[<h1>Community</h1>
 <li>You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more <a href="https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md">here</a>.</li>
@@ -27,10 +30,7 @@
 <li><strong><a href="https://github.com/hanjiexi">hanjiexi</a></strong>: lead technical maintainer</li>
 <li><strong><a href="https://github.com/waciumawanjohi">waciumawanjohi</a></strong>: lead academic maintainer</li>
 <li><strong><a href="https://github.com/ossu/computer-science/graphs/contributors">Contributors</a></strong></li>
-]]></description><link>https://www.trackawesomelist.com/ossu/computer-science/#2018-10-31</link><guid isPermaLink="false">https://www.trackawesomelist.com/ossu/computer-science/#2018-10-31</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[ossu/computer-science Sep 11th, 2017]]></title><description><![CDATA[<h2>Final project</h2>
-<li>Markdown: <code>[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)</code></li>
-<li>HTML: <code>&#x3C;a href="https://github.com/ossu/computer-science">&#x3C;img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">&#x3C;/a></code></li>
-]]></description><link>https://www.trackawesomelist.com/ossu/computer-science/#2017-09-11</link><guid isPermaLink="false">https://www.trackawesomelist.com/ossu/computer-science/#2017-09-11</guid><pubDate>Mon, 11 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[ossu/computer-science Jul 2nd, 2017]]></title><description><![CDATA[<h2>Congratulations</h2>
+]]></description><link>https://www.trackawesomelist.com/ossu/computer-science/#2018-10-31</link><guid isPermaLink="false">https://www.trackawesomelist.com/ossu/computer-science/#2018-10-31</guid><pubDate>Wed, 31 Oct 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[ossu/computer-science Jul 2nd, 2017]]></title><description><![CDATA[<h2>Congratulations</h2>
 <li>Pay attention to emerging technologies in the world of software development:
 <ul>
 <li>Explore the <strong>actor model</strong> through <a href="http://elixir-lang.org/">Elixir</a>, a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!</li>
@@ -56,7 +56,7 @@
 <li><a href="#advanced-programming">Advanced programming</a></li>
 <li><a href="#advanced-systems">Advanced systems</a></li>
 <li><a href="#advanced-theory">Advanced theory</a></li>
-<li><a href="#advanced-applications">Advanced applications</a></li>
+<li><a href="#advanced-math">Advanced math</a></li>
 </ul>
 </li>
 ]]></description><link>https://www.trackawesomelist.com/ossu/computer-science/#2017-02-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/ossu/computer-science/#2017-02-25</guid><pubDate>Sat, 25 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[ossu/computer-science Feb 19th, 2017]]></title><description><![CDATA[<h1>Curriculum</h1>
