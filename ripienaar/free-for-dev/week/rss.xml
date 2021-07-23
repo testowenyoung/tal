@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 22 Jul 2021 11:41:42 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Jul 12th - Jul 18th, 2021]]></title><description><![CDATA[<h2>DBaaS</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 23 Jul 2021 00:16:08 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Jul 19th - Jul 25th, 2021]]></title><description><![CDATA[<h2>Forms</h2>
+<li><a href="https://herotofu.com/">HeroTofu.com</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 100 submissions per month.</li>
+]]></description><link>https://www.trackawesomelist.com/ripienaar/free-for-dev/week#2021-29</link><guid isPermaLink="false">https://www.trackawesomelist.com/ripienaar/free-for-dev/week#2021-29</guid><pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[ripienaar/free-for-dev Jul 12th - Jul 18th, 2021]]></title><description><![CDATA[<h2>DBaaS</h2>
 <li><a href="https://www.datastax.com/products/datastax-astra/">Astra</a> — Cloud Native Cassandra as a Service with <a href="https://www.datastax.com/products/datastax-astra/pricing">40GB free tier</a></li>
 <h2>Storage and Media Processing</h2>
 <li><a href="https://internxt.com">internxt.com</a> – Internxt Drive is a zero-knowledge file storage service that's based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!</li>
@@ -24,7 +26,6 @@
 <li><a href="https://mailtie.com/">Mailtie.com</a> - Free Email Forwarding for Your Domain. No registration required. Free Forever.</li>
 <h2>Forms</h2>
 <li><a href="https://formsubmit.co/">Formsubmit.co</a> — Easy form endpoints for your HTML forms. Free Forever. No registration required.</li>
-<li><a href="https://herotofu.com/">HeroTofu.com</a> - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own frontend, no server code required. Free plan gives unlimited forms and 50 submissions per month.</li>
 <h2>IDE and Code Editing</h2>
 <li><a href="https://replit.com/">Replit</a> — A cloud coding environment for various program languages.</li>
 <h2>APIs, Data and ML</h2>
