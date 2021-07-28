@@ -1,7 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vaticle/typedb-awesome Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 27 Jul 2021 23:34:09 GMT</lastBuildDate><item><title><![CDATA[vaticle/typedb-awesome Mar 31st, 2021]]></title><description><![CDATA[<h2>Example projects</h2>
-<li><a href="https://github.com/graknlabs/examples"><code>Grakn Examples</code></a></li>
-<li><a href="https://github.com/classbasics/graknDemo"><code>classbasics/graknDemo</code></a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-31</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-31</guid><pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Mar 10th, 2021]]></title><description><![CDATA[<h2>Blog posts</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vaticle/typedb-awesome Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 28 Jul 2021 11:42:04 GMT</lastBuildDate><item><title><![CDATA[vaticle/typedb-awesome Jul 27th, 2021]]></title><description><![CDATA[<h2>Open source projects using TypeDB</h2>
+<li><a href="https://github.com/typedb-osi"><code>TypeDB OSI</code></a> - TypeDB OSI Ecosystem comprises all resources and technologies to be used with TypeDB.</li>
+<li><a href="https://github.com/bayer-science-for-a-better-life/grami"><code>TypeDB Loader</code></a> - Formerly "GraMi", an open-source data migrator for loading data into TypeDB at scale.</li>
+<h2>Conferences</h2>
+<li><a href="https://grakncosmos.com/"><code>Cosmos</code></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLtEF8_xCPklY3P5NLSQb1SyIYLhQssxfY"><code>Orbit</code></a></li>
+<h2>Documentation</h2>
+<li><a href="https://docs.vaticle.com/"><code>Documentation for mainline version</code></a></li>
+<li><a href="https://https://docs.vaticle.com/"><code>Documentation for alpha version</code></a></li>
+<h2>Example projects</h2>
+<li><a href="https://github.com/vaticle/typedb-examples"><code>TypeDB Examples</code></a></li>
+<h2>Blog posts</h2>
+<li><a href="https://dzone.com/articles/knowledge-models-and-causal-diagrams">Knowledge Models and Causal Diagrams</a></li>
+<li><a href="https://dzone.com/articles/building-a-biomedical-knowledge-graph">Building a Biomedical Knowledge Graph</a></li>
+<li><a href="https://dzone.com/articles/how-roche-discovered-novel-potential-gene-targets">How Roche Discovered Novel Potential Gene Targets with TypeDB</a></li>
+<li><a href="https://dzone.com/articles/social-graphs-for-drug-development">Social Graphs for Drug Development</a></li>
+<li><a href="https://dzone.com/articles/modelling-biomedical-data-for-a-drug-discovery-kno-1">Modelling Biomedical Data for a Drug Discovery Knowledge Graph</a></li>
+<li><a href="https://dzone.com/articles/a-clinical-decision-support-system-built-with-a-kn">A Clincial Decision Support System Built with a Knowledge Graph</a></li>
+<li><a href="https://dzone.com/articles/object-recognition-and-spacial-awareness-for-a-spo">Object Recognition and Spatial Awareness for a SPOT Robotics System</a></li>
+<h2>Videos</h2>
+<li><a href="https://www.youtube.com/watch?v=pqcZ9_4-79U">Causal Knowledge Graphs Using TypeDB</a></li>
+<li><a href="https://www.youtube.com/watch?v=0ir12x5FB4s">Ontology-Driven Modelling for Text-Mining Around Technology and Engineering</a></li>
+<li><a href="https://www.youtube.com/watch?v=H-Ln8YUITRw">Using TypeDB for Content Authorisation Across the Enterprise</a></li>
+<li><a href="https://www.youtube.com/watch?v=JTxvJxVNSH4">Comparing Graph Databases to TypeDB</a></li>
+<h2>Community</h2>
+<li><a href="https://forum.vaticle.com"><code>Discuss</code></a></li>
+<li><a href="https://vaticle.com/discord"><code>Discord</code></a></li>
+<li><a href="https://stackoverflow.com/questions/tagged/typedb"><code>Stack Overflow</code></a></li>
+<li><a href="https://www.youtube.com/c/vaticle"><code>YouTube</code></a></li>
+<li><a href="https://blog.vaticle.com"><code>Blog</code></a></li>
+<li><a href="https://www.linkedin.com/company/vaticle"><code>LinkedIn</code></a></li>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-07-27</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-07-27</guid><pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Mar 10th, 2021]]></title><description><![CDATA[<h2>Blog posts</h2>
 <li><a href="https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a">A day described in Grakn</a></li>
 ]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-10</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-10</guid><pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Mar 8th, 2021]]></title><description><![CDATA[<h2>Blog posts</h2>
 <li><a href="https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867">Introducing GraMi — a Data Migration Tool for Grakn</a></li>
@@ -16,28 +44,14 @@
 <li><a href="https://www.youtube.com/watch?v=s6xGQS84qKM">Comparing Semantic Web Technologies To Grakn | RDF, RDFS, OWL, SPARQL SHACL Grakn and Graql</a></li>
 <li><a href="https://www.youtube.com/watch?v=uxZovj2ekIQ">Comparing Property Graph Databases to Grakn</a></li>
 <li><a href="https://www.youtube.com/watch?v=nYDi1_UaFtU&#x26;list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I">How Can We Complete a Knowledge Graph?</a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-08</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-08</guid><pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Mar 7th, 2021]]></title><description><![CDATA[<h2>Conferences</h2>
-<li><a href="https://grakncosmos.com/"><code>Grakn Cosmos</code></a></li>
-<li><a href="https://community.grakn.ai/grakn-orbit-2021"><code>Grakn Orbit</code></a></li>
-<h2>Documentation</h2>
-<li><a href="https://docs.grakn.ai/"><code>Documentation for mainline version</code></a></li>
-<li><a href="https://https://dev.docs.grakn.ai/"><code>Documentation for alpha version</code></a></li>
-<h2>Community</h2>
-<li><a href="https://grakn.ai/community"><code>Community Hub</code></a></li>
-<li><a href="https://discuss.grakn.ai/"><code>Discuss</code></a></li>
-<li><a href="https://grakn.ai/discord"><code>Discord</code></a></li>
-<li><a href="https://stackoverflow.com/questions/tagged/grakn"><code>Stack Overflow</code></a></li>
-<li><a href="https://www.youtube.com/channel/UCtZKw0RFof3x23KqGtW3yDA"><code>YouTube</code></a></li>
-<li><a href="https://blog.grakn.ai/"><code>Blog</code></a></li>
-<li><a href="https://www.linkedin.com/company/graknlabs/mycompany/"><code>LinkedIn</code></a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-07</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-07</guid><pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Feb 1st, 2021]]></title><description><![CDATA[<h2>Open source projects using Grakn</h2>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-08</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-08</guid><pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Feb 1st, 2021]]></title><description><![CDATA[<h2>Open source projects using TypeDB</h2>
 <li><a href="https://github.com/BFergerson/grakn-mythos"><code>Grakn Mythos</code></a> - Grakn-powered application for creating and sharing knowledge graphs.</li>
 ]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-02-01</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-02-01</guid><pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Jan 25th, 2021]]></title><description><![CDATA[<h2>IDE and editors support</h2>
 <li><a href="https://github.com/creatorrr/emacs-graql-mode"><code>emacs-graql-mode</code></a> - Major mode that provides syntax highlighting and basic completion for Graql.</li>
 <li><a href="https://github.com/idealley/graql-language-vscode"><code>graql-language-vscode</code></a> - Graql language for Visual Studio Code.</li>
 <li><a href="https://github.com/BFergerson/JetBrains-Graql-Plugin"><code>JetBrains-Graql-Plugin</code></a> - JetBrains support for the Graql language.</li>
 <li><a href="https://github.com/ShishkinDmitriy/language-graql"><code>language-graql</code></a> - Atom's syntax highlighting for Graql.</li>
-<h2>Open source projects using Grakn</h2>
+<h2>Open source projects using TypeDB</h2>
 <li><a href="https://github.com/sourceplusplus/Assistant"><code>Source++</code></a> - Open-source automated programming assistant with runtime-aware and context-aware functionality.</li>
 <li><a href="https://github.com/RasaHQ/rasa"><code>Rasa</code></a> - Open-source machine learning framework to automate text-and voice-based conversations.</li>
 <h2>Client Drivers (unofficial)</h2>
