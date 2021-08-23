@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[seancoyne/awesome-coldfusion Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 23 Aug 2021 04:58:28 GMT</lastBuildDate><item><title><![CDATA[seancoyne/awesome-coldfusion Jun 4th - Jun 10th, 2018]]></title><description><![CDATA[<h2>Application Frameworks</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[seancoyne/awesome-coldfusion Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 23 Aug 2021 15:32:13 GMT</lastBuildDate><item><title><![CDATA[seancoyne/awesome-coldfusion Aug 23rd - Aug 29th, 2021]]></title><description><![CDATA[<h2>Engines</h2>
+<li><a href="http://lucee.org/">Lucee</a> - Free, Open Source CFML Engine</li>
+]]></description><link>https://www.trackawesomelist.com/seancoyne/awesome-coldfusion/week#2021-34</link><guid isPermaLink="false">https://www.trackawesomelist.com/seancoyne/awesome-coldfusion/week#2021-34</guid><pubDate>Mon, 23 Aug 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[seancoyne/awesome-coldfusion Jun 4th - Jun 10th, 2018]]></title><description><![CDATA[<h2>Application Frameworks</h2>
 <li><a href="https://cfwheels.org">CFWheels</a> - An open source CFML framework inspired by Ruby on Rails.</li>
 <h2>REST</h2>
 <li><a href="https://guides.cfwheels.org/docs/routing">CFWheels RESTful</a> - CFWheels encourages a conventional RESTful and resourceful style of request handling.</li>
@@ -55,14 +57,11 @@
 <li><a href="http://www.uu-2.info/">Unofficial Updater</a> - A utility that helps install ColdFusion hotfixes</li>
 <h2>Resources</h2>
 <li><a href="http://www.gpickin.com/cfrepo/">CFRepo</a> - A repository of ColdFusion installers created by Gavin Pickin</li>
-<h2>Engines</h2>
-<li><a href="http://lucee.org/">Lucee</a> - Free, Open Source CFML Engine, Fork of <a href="http://www.getrailo.org/">Railo</a></li>
 ]]></description><link>https://www.trackawesomelist.com/seancoyne/awesome-coldfusion/week#2015-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/seancoyne/awesome-coldfusion/week#2015-15</guid><pubDate>Mon, 06 Apr 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[seancoyne/awesome-coldfusion Jan 12th - Jan 18th, 2015]]></title><description><![CDATA[<h2>Documentation</h2>
 <li><a href="https://github.com/daccfml/cfscript/blob/master/cfscript.md">CFScript Reference</a> -  CFScript Documentation by Adam Cameron</li>
 ]]></description><link>https://www.trackawesomelist.com/seancoyne/awesome-coldfusion/week#2015-3</link><guid isPermaLink="false">https://www.trackawesomelist.com/seancoyne/awesome-coldfusion/week#2015-3</guid><pubDate>Mon, 12 Jan 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[seancoyne/awesome-coldfusion Jul 14th - Jul 20th, 2014]]></title><description><![CDATA[<h2>References</h2>
 <li><a href="http://trycf.com/">Try ColdFusion</a> - Realtime interactive learning tool for CFML</li>
 <li><a href="http://cflib.org/">CFLib</a> - Common Function Library Project</li>
-<li><a href="http://cflive.net">CF Live</a> - Realtime CFML testing console</li>
 <h2>Documentation</h2>
 <li><a href="http://cfdocs.org/">CFDocs</a> - UltraFast CFML Documentation Reference.</li>
 <li><a href="http://cfquickdocs.com/">CFQuickDocs</a> - ColdFusion documentation</li>
