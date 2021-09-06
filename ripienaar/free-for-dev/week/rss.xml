@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Sep 2021 17:14:17 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Aug 30th - Sep 5th, 2021]]></title><description><![CDATA[<h2>Design and UI</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ripienaar/free-for-dev Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 06 Sep 2021 03:44:12 GMT</lastBuildDate><item><title><![CDATA[ripienaar/free-for-dev Aug 30th - Sep 5th, 2021]]></title><description><![CDATA[<h2>Design and UI</h2>
 <li><a href="https://icon.horse">Icon Horse</a> – Get the highest resolution favicon for any website from our simple API.</li>
 <h2>Analytics, Events and Statistics</h2>
 <li><a href="https://www.molasses.app">Flagsmith</a> - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise</li>
@@ -578,8 +578,6 @@
 <li><a href="https://www.loginradius.com/">LoginRadius</a> — Managed User Authentication service for free. Email registration and 3 social providers.</li>
 <h2>Docker Related</h2>
 <li><a href="https://container-registry.com/">Container Registry Service</a> - Harbor based Container Management Solution. Free tier offers 1 GB storage for private repositories.</li>
-<h2>PaaS</h2>
-<li><a href="https://appfleet.com/">appfleet.com</a> - appfleet is an edge platform that allows its users to deploy containers globally to multiple regions at the same time. It offers a simple to use UI while automating all the complexity like smart routing, clustering, failover, monitoring and so on. It’s free for open source projects and all users automatically get $10 to host whatever they want.</li>
 <h2>Design and UI</h2>
 <li><a href="https://mockupmark.com/create/free">mockupmark.com</a> — Create realistic t-shirt and clothing mockups for social media and E-commerce, 40 free mockups.</li>
 <h2>CMS</h2>
