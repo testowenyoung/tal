@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[agamm/awesome-developer-first Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 25 Sep 2021 18:41:21 GMT</lastBuildDate><item><title><![CDATA[agamm/awesome-developer-first Sep 20th - Sep 26th, 2021]]></title><description><![CDATA[<h2>Authentication &#x26; Identity</h2>
-<li><a href="https://www.osohq.com/">Oso</a> - Authorization framework (RBAC)</li>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[agamm/awesome-developer-first Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Sep 2021 03:49:58 GMT</lastBuildDate><item><title><![CDATA[agamm/awesome-developer-first Sep 20th - Sep 26th, 2021]]></title><description><![CDATA[<h2>Authentication &#x26; Identity</h2>
+<li><a href="https://www.osohq.com/">Oso</a> - Authorization framework (RBAC).</li>
+<h2>Analytics</h2>
+<li><a href="https://pirsch.io/">Pirsch</a> - Privacy-friendly web analytics with a backend integration and API.</li>
+<h2>Media</h2>
+<li><a href="https://pqina.nl/pintura">Pintura</a> - A fully configurable JavaScript image editor SDK.</li>
 <h2>Environment &#x26; Secret Management</h2>
 <li><a href="https://www.ubiqsecurity.com/">Ubiq</a> - Encryption APIs wiht secret management</li>
 ]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2021-38</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/week#2021-38</guid><pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Sep 6th - Sep 12th, 2021]]></title><description><![CDATA[<h2>Databases &#x26; Spreadsheets</h2>
