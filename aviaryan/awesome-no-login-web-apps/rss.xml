@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[aviaryan/awesome-no-login-web-apps Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Oct 2021 16:43:42 GMT</lastBuildDate><item><title><![CDATA[aviaryan/awesome-no-login-web-apps Sep 9th, 2020]]></title><description><![CDATA[<h3>Notepads and Notebooks</h3>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[aviaryan/awesome-no-login-web-apps Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 Oct 2021 04:04:27 GMT</lastBuildDate><item><title><![CDATA[aviaryan/awesome-no-login-web-apps Oct 21st, 2021]]></title><description><![CDATA[<h3>Audio and Video</h3>
+<li><a href="https://lukasbach.github.io/vileo/">Vileo</a> - Record your screen or webcam and download the video from within your browser.</li>
+<h3>Games</h3>
+<li><a href="https://orion.lukasbach.com/">Orion</a> - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.</li>
+<h3>Utilities (uncategorized)</h3>
+<li><a href="https://meditation.koti.cloud/">Meditation Timer</a> - A meditation timer to keep track of your sessions.</li>
+<h3>Graphics, Image and Design</h3>
+<li><a href="https://mancer.app">Mancer</a> - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.</li>
+<h3>Privacy, Security and Cryptography</h3>
+<li><a href="https://cloverleaf.app">Cloverleaf</a> - An open source app to replace your password manager without storing your passwords anywhere.</li>
+<h3>Text based tools</h3>
+<li><a href="https://madelinemiller.dev/apps/emojify/">Emojify</a> - A tool to spice up text, lyrics, or poems by adding emojis.</li>
+]]></description><link>https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2021-10-21</link><guid isPermaLink="false">https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2021-10-21</guid><pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[aviaryan/awesome-no-login-web-apps Sep 9th, 2020]]></title><description><![CDATA[<h3>Notepads and Notebooks</h3>
 <li><a href="https://writexo.com/">WriteXO</a> - Online Notepad with rich-text support, password protection and custom URLs.</li>
 ]]></description><link>https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2020-09-09</link><guid isPermaLink="false">https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2020-09-09</guid><pubDate>Wed, 09 Sep 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[aviaryan/awesome-no-login-web-apps Sep 7th, 2020]]></title><description><![CDATA[<h3>Graphics, Image and Design</h3>
 <li><a href="https://cleanicons.xyz">CleanIcons</a> - Download Font Awesome icon fonts as PNG's.</li>
@@ -22,9 +34,7 @@
 <li><a href="http://https://doonline.cc/video-downloader-converter.html/">dOnline</a> - Download from YouTube, Instagram, Vimeo, SoundCloud, Facebook downloader.</li>
 ]]></description><link>https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2020-09-07</link><guid isPermaLink="false">https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2020-09-07</guid><pubDate>Mon, 07 Sep 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[aviaryan/awesome-no-login-web-apps Mar 4th, 2020]]></title><description><![CDATA[<h3>Communication</h3>
 <li><a href="https://whereby.com/">Whereby</a> - Video conference online. Create any room like <code>whereby.com/some-room</code> and starting chatting.</li>
-]]></description><link>https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2020-03-04</link><guid isPermaLink="false">https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2020-03-04</guid><pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[aviaryan/awesome-no-login-web-apps Nov 7th, 2019]]></title><description><![CDATA[<h3>Text based tools</h3>
-<li><a href="https://matthewmiller.dev/experiments/emojify/">Emojify</a> - A tool to spice up text, lyrics, or poems by adding emojis.</li>
-<h4>Some pointers</h4>
+]]></description><link>https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2020-03-04</link><guid isPermaLink="false">https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/#2020-03-04</guid><pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[aviaryan/awesome-no-login-web-apps Nov 7th, 2019]]></title><description><![CDATA[<h4>Some pointers</h4>
 <li>Most of the apps mentioned here do provide some kind of a user account feature to save history and progress. But as already stated before, a user account is not necessary to use the main features of these apps.</li>
 <h3>Privacy, Security and Cryptography</h3>
 <li><a href="http://bugmenot.com/">BugMeNot</a> - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.</li>
