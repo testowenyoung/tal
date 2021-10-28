@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vaticle/typedb-awesome Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Oct 2021 03:34:21 GMT</lastBuildDate><item><title><![CDATA[vaticle/typedb-awesome Jul 27th, 2021]]></title><description><![CDATA[<h2>Open source projects using TypeDB</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vaticle/typedb-awesome Daily Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Oct 2021 18:16:39 GMT</lastBuildDate><item><title><![CDATA[vaticle/typedb-awesome Oct 27th, 2021]]></title><description><![CDATA[<h2>Client Drivers (official)</h2>
+<li><a href="https://github.com/vaticle/typedb-client-java"><code>client-java</code></a></li>
+<li><a href="https://github.com/vaticle/typedb-client-nodejs"><code>client-nodejs</code></a></li>
+<li><a href="https://github.com/vaticle/typedb-client-python"><code>client-python</code></a></li>
+<h2>IDE and editors support</h2>
+<li><a href="https://github.com/typedb-osi/typeql-plugin-emacs"><code>typeql-plugin-emacs</code></a> - Major mode that provides syntax highlighting and basic completion for TypeQL.</li>
+<li><a href="https://github.com/typedb-osi/typeql-plugin-vscode"><code>typeql-plugin-vscode</code></a> - Visual Studio Code support for TypeQL.</li>
+<li><a href="https://github.com/typedb-osi/typeql-plugin-jetbrains"><code>typeql-plugin-jetbrains</code></a> - JetBrains support for TypeQL.</li>
+<li><a href="https://github.com/typedb-osi/typeql-plugin-atom"><code>typeql-plugin-atom</code></a> - Atom's syntax highlighting for TypeQL.</li>
+<h2>Client Drivers (community)</h2>
+<li><a href="https://github.com/Humans-of-Julia/TypeDBClient.jl"><code>TypeDBClient.jl</code></a></li>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-10-27</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-10-27</guid><pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Jul 27th, 2021]]></title><description><![CDATA[<h2>Open source projects using TypeDB</h2>
 <li><a href="https://github.com/typedb-osi"><code>TypeDB OSI</code></a> - TypeDB OSI Ecosystem comprises all resources and technologies to be used with TypeDB.</li>
 <li><a href="https://github.com/bayer-science-for-a-better-life/grami"><code>TypeDB Loader</code></a> - Formerly "GraMi", an open-source data migrator for loading data into TypeDB at scale.</li>
 <h2>Conferences</h2>
@@ -46,21 +57,10 @@
 <li><a href="https://www.youtube.com/watch?v=nYDi1_UaFtU&#x26;list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I">How Can We Complete a Knowledge Graph?</a></li>
 ]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-08</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-03-08</guid><pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Feb 1st, 2021]]></title><description><![CDATA[<h2>Open source projects using TypeDB</h2>
 <li><a href="https://github.com/BFergerson/grakn-mythos"><code>Grakn Mythos</code></a> - Grakn-powered application for creating and sharing knowledge graphs.</li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-02-01</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-02-01</guid><pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Jan 25th, 2021]]></title><description><![CDATA[<h2>IDE and editors support</h2>
-<li><a href="https://github.com/creatorrr/emacs-graql-mode"><code>emacs-graql-mode</code></a> - Major mode that provides syntax highlighting and basic completion for Graql.</li>
-<li><a href="https://github.com/idealley/graql-language-vscode"><code>graql-language-vscode</code></a> - Graql language for Visual Studio Code.</li>
-<li><a href="https://github.com/BFergerson/JetBrains-Graql-Plugin"><code>JetBrains-Graql-Plugin</code></a> - JetBrains support for the Graql language.</li>
-<li><a href="https://github.com/ShishkinDmitriy/language-graql"><code>language-graql</code></a> - Atom's syntax highlighting for Graql.</li>
-<h2>Open source projects using TypeDB</h2>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-02-01</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-02-01</guid><pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Jan 25th, 2021]]></title><description><![CDATA[<h2>Open source projects using TypeDB</h2>
 <li><a href="https://github.com/sourceplusplus/Assistant"><code>Source++</code></a> - Open-source automated programming assistant with runtime-aware and context-aware functionality.</li>
 <li><a href="https://github.com/RasaHQ/rasa"><code>Rasa</code></a> - Open-source machine learning framework to automate text-and voice-based conversations.</li>
-<h2>Client Drivers (unofficial)</h2>
-<li><a href="https://github.com/Humans-of-Julia/GraknClient.jl"><code>GraknClient.jl</code></a></li>
-]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-01-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-01-25</guid><pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Dec 14th, 2020]]></title><description><![CDATA[<h2>Client Drivers (official)</h2>
-<li><a href="http://github.com/graknlabs/client-java"><code>client-java</code></a></li>
-<li><a href="http://github.com/graknlabs/client-nodejs"><code>client-nodejs</code></a></li>
-<li><a href="http://github.com/graknlabs/client-python"><code>client-python</code></a></li>
-<h2>Client Drivers (unofficial)</h2>
+]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-01-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2021-01-25</guid><pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[vaticle/typedb-awesome Dec 14th, 2020]]></title><description><![CDATA[<h2>Client Drivers (community)</h2>
 <li><a href="https://github.com/taxfix/grakn_elixir"><code>client-elixir</code></a></li>
 <li><a href="https://github.com/WalternativE/Grakn.Net"><code>Grakn.Net</code></a></li>
 ]]></description><link>https://www.trackawesomelist.com/vaticle/typedb-awesome/#2020-12-14</link><guid isPermaLink="false">https://www.trackawesomelist.com/vaticle/typedb-awesome/#2020-12-14</guid><pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate></item></channel></rss>
