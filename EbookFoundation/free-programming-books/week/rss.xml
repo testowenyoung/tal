@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[EbookFoundation/free-programming-books Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 30 Oct 2021 05:14:07 GMT</lastBuildDate><item><title><![CDATA[EbookFoundation/free-programming-books Oct 25th - Oct 31st, 2021]]></title><description><![CDATA[<h3>Dart</h3>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[EbookFoundation/free-programming-books Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 30 Oct 2021 15:47:25 GMT</lastBuildDate><item><title><![CDATA[EbookFoundation/free-programming-books Oct 25th - Oct 31st, 2021]]></title><description><![CDATA[<h3>Python</h3>
+<li><a href="https://leanpub.com/insidethepythonvirtualmachine">Inside The Python Virtual Machine</a> - Obi Ike-Nwosu (HTML, PDF, EPUB, Kindle) <em>(Leanpub account or valid email requested)</em></li>
+<li><a href="https://numpy.org/doc/stable/numpy-ref.pdf">Official NumPy Reference</a> - The NumPy Community (PDF)</li>
+<li><a href="https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf">Learn to Program Using Python</a> - Cody Jackson (PDF) <em>(🗃️ archived)</em></li>
+<li><a href="https://web.archive.org/web/20210411065902/https://www.slitherintopython.com/">Slither into Python: An introduction to Python for beginners</a> (3.7) <em>(🗃️ archived)</em></li>
+<h4>Java Reporting</h4>
+<li><a href="https://leanpub.com/itext_pdfabc">The ABC of PDF with iText: PDF Syntax essentials</a> - Bruno Lowagie  <em>(Leanpub account or valid email requested)</em></li>
+<h3>Dart</h3>
 <li><a href="https://www.programming-books.io/essential/dart/">Essential Dart</a> - Krzysztof Kowalczyk and StackOverflow Contributors</li>
 <li><a href="https://riptutorial.com/Download/dart.pdf">Learning Dart</a> - Compiled from StackOverflow documentation (PDF)</li>
 <h3>PHP</h3>
@@ -26,10 +33,6 @@
 <li><a href="https://www.practical-go-lessons.com">Practical Go Lessons</a> - Maximilien Andile</li>
 <li><a href="https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly">Go Succinctly</a> - Mark Lewin (PDF, EPUB, Kindle)</li>
 <li><a href="https://www.syncfusion.com/succinctly-free-ebooks/go-web-development">Go Web Development Succinctly</a> - Mark Lewin (PDF, EPUB, Kindle)</li>
-<h3>Python</h3>
-<li><a href="https://numpy.org/doc/stable/numpy-ref.pdf">Official NumPy Reference</a> - The NumPy Community (PDF)</li>
-<li><a href="https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf">Learn to Program Using Python</a> - Cody Jackson (PDF) <em>(🗃️ archived)</em></li>
-<li><a href="https://web.archive.org/web/20210411065902/https://www.slitherintopython.com/">Slither into Python: An introduction to Python for beginners</a> (3.7) <em>(🗃️ archived)</em></li>
 <h3>F Sharp</h3>
 <li><a href="https://web.archive.org/web/20201023042804/https://www.oreilly.com/programming/free/files/analyzing-visualizing-data-f-sharp.pdf">Analyzing and Visualizing Data with F#</a> - Tomas Petricek (PDF) <em>(🗃️ archived)</em></li>
 <h3>Git</h3>
@@ -762,7 +765,7 @@
 <li><a href="https://rafalab.github.io/dsbook/">Data Analysis and Prediction Algorithms with R</a> - Rafael A. Irizarry</li>
 <h3>Vim</h3>
 <li><a href="https://github.com/iggredible/Learn-Vim">Learn Vim (the Smart Way)</a><a data-role="trackawesomelist-badge" href="https://github.com/iggredible/Learn-Vim" style="text-decoration:none;top: -2px;position: relative;margin-left:4px;margin-right:4px;font-weight:400;"><span style="color: #fff;font-size: 11px;font-family: Verdana, Geneva, DejaVu Sans,sans-serif;"><span style="padding:4px 4px 4px 6px;background: #555;border-top-left-radius: 4px;border-bottom-left-radius: 4px;">stars</span><span style="padding: 4px 6px 4px 4px;background: #007ec6;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">7k</span></span></a><!--TRACK_AWESOME_REPO_ITEM_START____{"type":"repo","stargazerCount":7016,"repo":"iggredible/Learn-Vim"}____TRACK_AWESOME_REPO_ITEM_END--> (HTML) (🚧 <em>in process</em>)</li>
-<li><a href="https://github.com/mhinz/vim-galore#readme">VIM-GALORE - All things Vim!</a><a data-role="trackawesomelist-badge" href="https://github.com/mhinz/vim-galore#readme" style="text-decoration:none;top: -2px;position: relative;margin-left:4px;margin-right:4px;font-weight:400;"><span style="color: #fff;font-size: 11px;font-family: Verdana, Geneva, DejaVu Sans,sans-serif;"><span style="padding:4px 4px 4px 6px;background: #555;border-top-left-radius: 4px;border-bottom-left-radius: 4px;">stars</span><span style="padding: 4px 6px 4px 4px;background: #007ec6;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">12.5k</span></span></a><!--TRACK_AWESOME_REPO_ITEM_START____{"type":"repo","stargazerCount":12457,"repo":"mhinz/vim-galore"}____TRACK_AWESOME_REPO_ITEM_END--> (HTML)</li>
+<li><a href="https://github.com/mhinz/vim-galore#readme">VIM-GALORE - All things Vim!</a><a data-role="trackawesomelist-badge" href="https://github.com/mhinz/vim-galore#readme" style="text-decoration:none;top: -2px;position: relative;margin-left:4px;margin-right:4px;font-weight:400;"><span style="color: #fff;font-size: 11px;font-family: Verdana, Geneva, DejaVu Sans,sans-serif;"><span style="padding:4px 4px 4px 6px;background: #555;border-top-left-radius: 4px;border-bottom-left-radius: 4px;">stars</span><span style="padding: 4px 6px 4px 4px;background: #007ec6;border-top-right-radius: 4px;border-bottom-right-radius: 4px;">12.5k</span></span></a><!--TRACK_AWESOME_REPO_ITEM_START____{"type":"repo","stargazerCount":12459,"repo":"mhinz/vim-galore"}____TRACK_AWESOME_REPO_ITEM_END--> (HTML)</li>
 ]]></description><link>https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week#2020-42</link><guid isPermaLink="false">https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week#2020-42</guid><pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[EbookFoundation/free-programming-books Oct 5th - Oct 11th, 2020]]></title><description><![CDATA[<h3>C Sharp</h3>
 <li><a href="https://www.filipekberg.se">C# Smorgasbord</a> - Filip Ekberg (HTML) <a href="https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/">(PDF, EPUB, MOBI)</a> (2018)</li>
 <li><a href="https://learnxinyminutes.com/docs/csharp/">Learn C# in Y Minutes</a></li>
@@ -1378,8 +1381,6 @@
 <li><a href="https://leanpub.com/progitreedited/read">Pro Git Reedited</a> - Jon Forrest</li>
 <h3>Go</h3>
 <li><a href="https://leanpub.com/gocrypto/read">Practical Cryptography With Go</a> - Kyle Isom</li>
-<h3>Java</h3>
-<li><a href="https://leanpub.com/itext_pdfabc">The ABC of PDF with iText: PDF Syntax essentials</a> - Bruno Lowagie  <em>(Leanpub account or valid email requested)</em></li>
 <h4>Redux</h4>
 <li><a href="https://leanpub.com/redux-book">The Complete Redux Book</a> - Boris Dinkevich and Ilya Gelman  <em>(Leanpub account or valid email requested)</em></li>
 <h3>Lisp</h3>
@@ -1612,7 +1613,7 @@
 <li><a href="https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases">IoT in five days- V1.1</a> (PDF, EPUB)</li>
 ]]></description><link>https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week#2016-31</link><guid isPermaLink="false">https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week#2016-31</guid><pubDate>Mon, 01 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[EbookFoundation/free-programming-books Jul 4th - Jul 10th, 2016]]></title><description><![CDATA[<h3>PostgreSQL</h3>
 <li><a href="http://www.faqs.org/docs/ppbook/book1.htm">Practical PostgreSQL</a></li>
-<h4>JasperReports</h4>
+<h4>Java Reporting</h4>
 <li><a href="http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf">The JasperReports Ultimate Guide, Third Edition</a> (PDF)</li>
 ]]></description><link>https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week#2016-27</link><guid isPermaLink="false">https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week#2016-27</guid><pubDate>Mon, 04 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[EbookFoundation/free-programming-books Jun 27th - Jul 3rd, 2016]]></title><description><![CDATA[<h3>C Sharp</h3>
 <li><a href="http://www.introtorx.com">Introduction to Rx</a></li>
@@ -2450,7 +2451,7 @@
 <li><a href="#java">Java</a>
 <ul>
 <li><a href="#codename-one">Codename One</a></li>
-<li><a href="#jasperreports">JasperReports</a></li>
+<li><a href="#java-reporting">Java Reporting</a></li>
 <li><a href="#spring">Spring</a></li>
 <li><a href="#spring-boot">Spring Boot</a></li>
 <li><a href="#spring-data">Spring Data</a></li>
