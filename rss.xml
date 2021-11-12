@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Track Awesome List Daily Updates]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 12 Nov 2021 06:55:56 GMT</lastBuildDate><item><title><![CDATA[Nov 12th, 2021]]></title><description><![CDATA[<a href="https://www.trackawesomelist.com/hangtwenty/dive-into-machine-learning/"><h2>1. hangtwenty/dive-into-machine-learning</h2></a><h2>Risks</h2><h4>Ask for Peer Review</h4>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Track Awesome List Daily Updates]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 12 Nov 2021 16:47:02 GMT</lastBuildDate><item><title><![CDATA[Nov 12th, 2021]]></title><description><![CDATA[<a href="https://www.trackawesomelist.com/hangtwenty/dive-into-machine-learning/"><h2>1. hangtwenty/dive-into-machine-learning</h2></a><h2>Risks</h2><h4>Ask for Peer Review</h4>
 <li><a href="https://www.reddit.com/r/learnmachinelearning/">/r/LearnMachineLearning</a></li>
 <li><a href="https://stats.stackexchange.com/">Cross-Validated: stats.stackexchange.com</a></li>
 <h2>Deep Learning</h2><h3>Easier sharing of deep learning models and demos</h3>
@@ -563,7 +563,6 @@
 <li><a href="https://www.youtube.com/c/TomiMesterData36comDataScienceForBeginners">Data36 - Data Science for Beginners by Tomi Mester</a></li>
 <h2>Books</h2>
 <li><a href="https://www.manning.com/books/designing-cloud-data-platforms">Designing Cloud Data Platforms</a> - Early access</li>
-<li><a href="http://ai.stanford.edu/~nilsson/QAI/qai.pdf">The Quest for Artificial Intelligence: A History of Ideas and Achievements</a> - Free Download</li>
 <br/><a href="https://www.trackawesomelist.com/erictleung/awesome-nosql-guides/"><h2>7. erictleung/awesome-nosql-guides</h2></a><h2>Data Structures and Modeling</h2>
 <li><a href="https://docs.mongodb.com/manual/data-modeling/">Data Models For MongoDB</a> - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.</li>
 <li><a href="https://www.dataversity.net/how-to-design-schema-for-your-nosql-database/#">How To Design Schema For Your NoSQL Database?</a> - Despite popular belief that NoSQL are schema-less, this article outlines how NoSQL databases follow "query driven design" and considerations for this flexibility in schema.</li>
@@ -584,32 +583,4 @@
 <li><a href="https://github.com/tldr-pages/tldr/labels/help%20wanted">tldr-pages</a> <em>(label: help wanted)</em> <br> Collaborative cheatsheets for console commands.</li>
 <h2>C</h2>
 <li><a href="https://github.com/neovim/neovim/labels/good-first-issue">Neovim</a> <em>(label: good-first-issue)</em> <br> Vim-fork focused on extensibility and agility.</li>
-<br/><a href="https://www.trackawesomelist.com/edm00se/awesome-board-games/"><h2>11. edm00se/awesome-board-games</h2></a><h2>Party</h2>
-<h3><a href="https://board-games-galore.fandom.com/wiki/Battleship">Battleship</a></h3>
-<blockquote>
-<p>In this two-person game of strategy, players secretly arrange their ships on a lettered and numbered 10x10 grid and then try to locate and destroy their opponent’s fleet. There are two grids for each player. One grid is used for placing your own vessels and tracking hits made against you, while the second grid is for marking the hits targeted at your opponent. Take turns firing shots by calling out one of the grid’s plot points. If a hit doesn’t strike a ship, it’s considered a miss and pegged with white pieces. If a hit makes contact with a ship, then that strike gets pegged with red. The number of hits each kind of vessel can sustain before it sinks is varied. After some initial exploratory firing, you will likely start to figure out the location of your opponent’s ships and begin to deal the fatal blows. It’s a battle on the high seas!</p>
-</blockquote>
-<p><img src="https://cf.geekdo-images.com/dUh-sb2V8CyDjBDvwzf-qg__itemrep/img/_U6cCRlORa_Ex4emUsVXE77bCbo=/fit-in/246x300/filters:strip_icc()/pic1293566.jpg" alt="Battleship image"></p>
-<table>
-<thead>
-<tr>
-<th align="right">Players</th>
-<th align="right">Min. Age</th>
-<th align="right">Time</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="right">2</td>
-<td align="right">8+</td>
-<td align="right">30m around</td>
-</tr>
-</tbody>
-</table>
-<br/><a href="https://www.trackawesomelist.com/meirwah/awesome-incident-response/"><h2>12. meirwah/awesome-incident-response</h2></a><h2>IR Tools Collection</h2><h3>OSX Evidence Collection</h3>
-<li><a href="https://themittenmac.com/the-esf-playground/">The ESF Playground</a> - A tool to view the events in Apple Endpoint Security Framework (ESF) in real time.</li>
-<br/><a href="https://www.trackawesomelist.com/TheJambo/awesome-testing/"><h2>13. TheJambo/awesome-testing</h2></a><h2>Books</h2>
-<li><a href="https://www.manning.com/books/chaos-engineering">Chaos Engineering</a> - A book that teaches you to design and execute controlled experiments that uncover hidden problems.</li>
-<li><a href="https://www.manning.com/books/the-art-of-unit-testing-third-edition">The Art of Unit Testing, Third Edition</a> - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.</li>
-<li><a href="https://www.manning.com/books/testing-web-apis">Testing Web APIs</a> - Guarantee the quality and consistency of your web APIs by implementing an automated testing process.</li>
 ]]></description><link>https://www.trackawesomelist.com/2021/10/29</link><guid isPermaLink="false">https://www.trackawesomelist.com/2021/10/29</guid><pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate></item></channel></rss>
