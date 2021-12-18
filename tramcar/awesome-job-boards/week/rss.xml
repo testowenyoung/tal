@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tramcar/awesome-job-boards Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 17 Dec 2021 17:17:59 GMT</lastBuildDate><item><title><![CDATA[tramcar/awesome-job-boards Oct 25th - Oct 31st, 2021]]></title><description><![CDATA[<h2>Tech</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tramcar/awesome-job-boards Weekly Updates RSS Feed]]></title><description><![CDATA[Track your favorite github awesome repo, not just star it.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Dec 2021 05:26:05 GMT</lastBuildDate><item><title><![CDATA[tramcar/awesome-job-boards Dec 13th - Dec 19th, 2021]]></title><description><![CDATA[<h2>Programming</h2><h3>Rust</h3>
+<li><a href="https://rustjobs.dev">Rust Jobs</a></li>
+<h2>Remote</h2>
+<li><a href="https://dynamitejobs.com/">Dynamite Jobs</a> - Jobs from remote-first companies</li>
+<h2>Remote</h2><h3>Aggregator</h3>
+<li><a href="https://remoteok.com/">remote | OK</a></li>
+]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2021-50</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2021-50</guid><pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Oct 25th - Oct 31st, 2021]]></title><description><![CDATA[<h2>Tech</h2>
 <li><a href="https://goodjobs.careers/">GOODJOBS</a> - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity</li>
 <h2>Metaverse</h2>
 <li><a href="https://www.themetaversejobs.com/">Metaverse Jobs</a> - Job board for Metaverse jobs</li>
 <li><a href="https://www.hire.ar/">Hire.AR</a> - Job board for Augmented Reality jobs</li>
 <h2>Programming</h2><h3>Aggregator</h3>
 <li><a href="https://findwork.dev/">findwork.dev</a></li>
-<h2>Remote</h2>
-<li><a href="https://www.dynamitejobs.com/">Dynamite Jobs</a> - Jobs from remote-first companies</li>
 ]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2021-43</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2021-43</guid><pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Oct 18th - Oct 24th, 2021]]></title><description><![CDATA[<h2>Programming</h2><h3>Functional</h3>
 <li><a href="https://functionaljobs.dev/">FunctionalJobs.dev</a> - Highly active job board for functional programming enthusiasts</li>
 <h2>Programming</h2><h3>Kotlin</h3>
@@ -138,9 +142,7 @@
 <li><a href="https://www.welovegolang.com/">we love golang</a></li>
 ]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2017-11</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2017-11</guid><pubDate>Mon, 13 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Dec 5th - Dec 11th, 2016]]></title><description><![CDATA[<h2>Programming</h2><h3>JavaScript</h3>
 <li><a href="https://vuejobs.com/">Vue.js Jobs</a></li>
-]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2016-49</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2016-49</guid><pubDate>Mon, 05 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Sep 12th - Sep 18th, 2016]]></title><description><![CDATA[<h2>Programming</h2><h3>JavaScript</h3>
-<li><a href="https://angular.work/">Angular Work</a></li>
-<h2>Design</h2>
+]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2016-49</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2016-49</guid><pubDate>Mon, 05 Dec 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Sep 12th - Sep 18th, 2016]]></title><description><![CDATA[<h2>Design</h2>
 <li><a href="https://www.behance.net/joblist">Behance</a></li>
 <li><a href="https://dribbble.com/jobs">Jobs for Designers</a></li>
 <li><a href="https://www.uxjobsboard.com">UX Jobs Board</a></li>
@@ -152,8 +154,6 @@
 <li><a href="https://www.weworkmeteor.com/">We Work Meteor</a></li>
 ]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2016-13</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2016-13</guid><pubDate>Mon, 28 Mar 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Sep 7th - Sep 13th, 2015]]></title><description><![CDATA[<h2>Programming</h2><h3>Rust</h3>
 <li><a href="http://rust-jobs.com/">Rust Programming Language Jobs</a></li>
-<h2>Remote</h2><h3>Aggregator</h3>
-<li><a href="https://remoteok.io/">remote | OK</a></li>
 ]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2015-37</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/week#2015-37</guid><pubDate>Mon, 07 Sep 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Aug 31st - Sep 6th, 2015]]></title><description><![CDATA[<h2>Big Data</h2>
 <li><a href="https://datajobs.com/">DataJobs.com</a></li>
 <h2>Programming</h2><h3>Perl</h3>
