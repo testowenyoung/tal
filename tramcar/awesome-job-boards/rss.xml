@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tramcar/awesome-job-boards Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 04 Jan 2022 17:51:47 GMT</lastBuildDate><item><title><![CDATA[tramcar/awesome-job-boards Dec 21st, 2021]]></title><description><![CDATA[<h2>Programming</h2><h3>JavaScript</h3>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[tramcar/awesome-job-boards Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 05:55:57 GMT</lastBuildDate><item><title><![CDATA[tramcar/awesome-job-boards Jan 4th, 2022]]></title><description><![CDATA[<h2>Remote</h2><h3>Aggregator</h3>
+<li><a href="https://theremotework.co/">TheRemoteWork</a></li>
+<h2>Blockchain</h2>
+<li><a href="https://blockchain.works-hub.com/jobs">Blockchain Works</a> - Discover <strong>the best</strong> Blockchain opportunities and articles with <strong>Blockchain Works</strong></li>
+<h2>Programming</h2><h3>Functional</h3>
+<li><a href="https://functional.works-hub.com/jobs">Functional Works</a> - Discover local and remote functional programming opportunities</li>
+<h2>Programming</h2><h3>Go</h3>
+<li><a href="https://golang.works-hub.com/jobs">Golang Works</a> - Local and remote Golang opportunities, articles and open-source.</li>
+<h2>Programming</h2><h3>JavaScript</h3>
+<li><a href="https://javascript.works-hub.com/jobs">Javascript Works</a> - Local and remote JavaScript opportunities, articles and open-source.</li>
+]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2022-01-04</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2022-01-04</guid><pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Dec 21st, 2021]]></title><description><![CDATA[<h2>Programming</h2><h3>JavaScript</h3>
 <li><a href="https://reactjsjob.com">React Jobs</a></li>
 ]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-12-21</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-12-21</guid><pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Dec 17th, 2021]]></title><description><![CDATA[<h2>Programming</h2><h3>Rust</h3>
 <li><a href="https://rustjobs.dev">Rust Jobs</a></li>
@@ -21,28 +31,18 @@
 <li><a href="https://scalajobs.dev">Scala Jobs</a></li>
 <h2>Programming</h2><h3>TypeScript</h3>
 <li><a href="https://typescriptjobs.dev">TypeScript Jobs</a></li>
-]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-21</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-21</guid><pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Oct 19th, 2021]]></title><description><![CDATA[<h2>Remote</h2><h3>Aggregator</h3>
-<li><a href="https://careervault.io/">Career Vault</a> - Thousands of remote jobs scraped from 900+ companies every few hours</li>
-]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-19</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-19</guid><pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Oct 17th, 2021]]></title><description><![CDATA[<h2>Writing</h2>
+]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-21</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-21</guid><pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Oct 17th, 2021]]></title><description><![CDATA[<h2>Writing</h2>
 <li><a href="https://workingincontent.com/">WorkingInContent.com</a> - Jobs in Content Strategy, Content Design, UX Writing and more</li>
 <li><a href="https://jobs.writethedocs.org/">Write the Docs Job Board</a> - Jobs for people who care about documentation</li>
 <h2>Big Data</h2>
 <li><a href="https://www.deeplearningjobs.com/">Deep Learning Jobs</a> - Jobs in Deep Learning</li>
 <h2>Remote</h2><h3>Aggregator</h3>
 <li><a href="https://4dayweek.io/">4 day week</a> - Software jobs with a better work-life balance</li>
-<h2>Programming</h2><h3>JavaScript</h3>
-<li><a href="https://javascript.works-hub.com/">Javascript Works</a> - Local and remote JavaScript opportunities, articles and open-source.</li>
 <h2>Tech</h2><h3>Canada</h3>
 <li><a href="https://www1.communitech.ca/jobs">Work in Tech</a> - Explore opportunities in Waterloo Region and beyond</li>
 <h2>Programming</h2><h3>Go</h3>
 <li><a href="https://forum.golangbridge.org/c/jobs/8">Golang Forum Jobs</a></li>
-]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-17</guid><pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards May 3rd, 2021]]></title><description><![CDATA[<h2>Programming</h2><h3>Go</h3>
-<li><a href="https://golang.works-hub.com/">Golang Works</a> - Local and remote Golang opportunities, articles and open-source.</li>
-]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-05-03</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-05-03</guid><pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Mar 17th, 2021]]></title><description><![CDATA[<h2>Programming</h2><h3>Functional</h3>
-<li><a href="https://functional.works-hub.com/">Functional Works</a> - Discover local and remote functional programming opportunities</li>
-]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-03-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-03-17</guid><pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Mar 3rd, 2021]]></title><description><![CDATA[<h2>Blockchain</h2>
-<li><a href="https://blockchain.works-hub.com/">Blockchain Works</a> - Discover <strong>the best</strong> Blockchain opportunities and articles with <strong>Blockchain Works</strong></li>
-<h2>DevOps</h2>
+]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-10-17</guid><pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Mar 3rd, 2021]]></title><description><![CDATA[<h2>DevOps</h2>
 <li><a href="https://kube.careers">Kube Careers</a> — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.</li>
 ]]></description><link>https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-03-03</link><guid isPermaLink="false">https://www.trackawesomelist.com/tramcar/awesome-job-boards/#2021-03-03</guid><pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[tramcar/awesome-job-boards Dec 14th, 2020]]></title><description><![CDATA[<h2>Remote</h2>
 <li><a href="https://justremote.co/remote-jobs">Just Remote</a></li>
