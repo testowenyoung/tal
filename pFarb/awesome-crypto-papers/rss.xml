@@ -1,11 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[pFarb/awesome-crypto-papers Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 08 Jan 2022 05:42:01 GMT</lastBuildDate><item><title><![CDATA[pFarb/awesome-crypto-papers Nov 22nd, 2020]]></title><description><![CDATA[<h2>The list</h2><h3>Online crypto challenges</h3>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[pFarb/awesome-crypto-papers Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 08 Jan 2022 17:46:51 GMT</lastBuildDate><item><title><![CDATA[pFarb/awesome-crypto-papers Jan 6th, 2022]]></title><description><![CDATA[<h2>The list</h2><h4>Public key cryptography: General and DLP</h4>
+<li><a href="https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf">How to Share a Secret</a> - A safe method for sharing secrets.</li>
+]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/#2022-01-06</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/#2022-01-06</guid><pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Jan 5th, 2022]]></title><description><![CDATA[<h2>The list</h2><h4>Cryptanalysis</h4>
+<li><a href="http://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf">Differential Cryptanalysis of Salsa20/8</a> - A great example of stream cipher cryptanalysis, by Yukiyasu Tsunoo et al.</li>
+<li><a href="https://eprint.iacr.org/2008/263">Slide Attacks on a Class of Hash Functions</a> - Applying slide attacks (typical cryptanalysis technique for block ciphers) to hash functions, M. Gorski et al.</li>
+<li><a href="http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04">Cryptanalysis of block ciphers and protocols</a> - By Elad Pinhas Barkan.</li>
+<li><a href="http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf">Intro to Linear &#x26; Differential Cryptanalysis</a> - A beginner-friendly paper explaining and demonstrating techniques for linear and differential cryptanalysis.</li>
+<h2>The list</h2><h3>Books</h3>
+<li><a href="https://crypto.stanford.edu/~dabo/cryptobook/">A Graduate Course in Applied Cryptography</a> - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptanalysis and cryptography-related security.</li>
+<li><a href="https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf">Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers</a> - Broad overview of design and cryptanalysis of various ciphers and hash functions, by Bart Van Rompay.</li>
+]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/#2022-01-05</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/#2022-01-05</guid><pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Nov 22nd, 2020]]></title><description><![CDATA[<h2>The list</h2><h3>Online crypto challenges</h3>
 <li><a href="https://cryptohack.org/">CryptoHack</a></li>
 ]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/#2020-11-22</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/#2020-11-22</guid><pubDate>Sun, 22 Nov 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Aug 11th, 2020]]></title><description><![CDATA[<h2>The list</h2><h4>General cryptographic interest</h4>
 <li><a href="https://cryptojedi.org/papers/coolnacl-20120725.pdf">The security impact of a new cryptographic library</a> - Introductory paper on NaCl, discussing important aspects of implementing cryptography and using it as a larger building block in security systems, by Daniel J. Bernstein, Tanja Lange, Peter Schwabe.</li>
 <h2>The list</h2><h4>Secret key cryptography</h4>
 <li><a href="https://www.iacr.org/archive/fse2015/85400168/85400168.pdf">GCM Security Bounds Reconsidered</a> - An analysis and algorithm for nonce generation for AES GCM with higher counter-collision probability, by Yuichi Niwa, Keisuke Ohashi, Kazuhiko Minematsu, Tetsu Iwata.</li>
 <li><a href="https://eprint.iacr.org/2019/806.pdf">Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes</a> - An overview of existing searchable encryption schemes, and analysis of scheme built on AES-GCM, blind index and bloom filter by Eugene Pilyankevich, Dmytro Kornieiev, Artem Storozhuk.</li>
-<h2>The list</h2><h4>Cryptoanalysis</h4>
+<h2>The list</h2><h4>Cryptanalysis</h4>
 <li><a href="https://iacr.org/archive/eurocrypt2005/34940019/34940019.pdf">How to Break MD5 and Other Hash Functions</a> - A 2005 paper about modular differential collision attack on MD5, MD4 and other hash functions, by Xiaoyun Wang and Hongbo Yu.</li>
 <li><a href="https://www.iacr.org/archive/fse2012/75490447/75490447.pdf">New attacks on Keccak-224 and Keccak-256</a> - A 2012 paper about using the combination of differential and algebraic techniques for collision attacks on SHA-3, by Itai Dinur, Orr Dunkelman, Adi Shamir.</li>
 <li><a href="https://www.iacr.org/archive/fse2011/67330297/67330297.pdf">A Single-Key Attack on the Full GOST Block Cipher</a> - An attack ("Reflection-Meet-inthe-Middle Attack") on GOST block cipher that allows to recover key with 2^225 computations and 2^32 known plaintexts, by Takanori Isobe.</li>
@@ -16,7 +26,7 @@
 ]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/#2020-08-11</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/#2020-08-11</guid><pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Aug 10th, 2020]]></title><description><![CDATA[<h2>The list</h2><h4>Secret key cryptography</h4>
 <li><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&#x26;rep=rep1&#x26;type=pdf">The Galois/Counter Mode of Operation (GCM)</a> - Original paper introducing GCM, by by David A. McGrew and John Viega.</li>
 <li><a href="https://eprint.iacr.org/2004/193.pdf">The Security and Performance of the Galois/Counter Mode (GCM) of Operation</a> - Design, analysis and security of GCM, and, more specifically, AES GCM mode, by David A. McGrew and John Viega.</li>
-<h2>The list</h2><h4>Cryptoanalysis</h4>
+<h2>The list</h2><h4>Cryptanalysis</h4>
 <li><a href="https://eprint.iacr.org/2019/1492.pdf">Too much crypto</a> - Analysis of number of rounds for symmetric cryptography primitives, and suggestions to do fewer rounds, by Jean-Philippe Aumasson.</li>
 <h2>The list</h2><h3>Online crypto challenges</h3>
 <li><a href="https://www.mysterytwisterc3.org/en/">MTC3</a> - xipher contest with more than 200 challenges of different levels, a moderated forum, and a hall-of-fame.</li>
@@ -67,12 +77,9 @@
 <li><a href="https://cr.yp.to/snuffle/salsafamily-20071225.pdf">Salsa20 family of stream ciphers</a> - Broad explanation of Salsa20 security cipher by Daniel J. Bernstein.</li>
 <li><a href="https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1">AES submission document on Rijndael</a> - Original Rijndael proposal by Joan Daemen and Vincent Rijmen.</li>
 <li><a href="http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf">Ongoing Research Areas in Symmetric Cryptography</a> - Overview of ongoing research in secret key crypto and hashes by ECRYPT Network of Excellence in Cryptology.</li>
-<h2>The list</h2><h4>Cryptoanalysis</h4>
-<li><a href="http://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf">Differential Cryptanalysis of Salsa20/8</a> - A great example of stream cipher cryptoanalysis, by Yukiyasu Tsunoo et al.</li>
-<li><a href="https://eprint.iacr.org/2008/263">Slide Attacks on a Class of Hash Functions</a> - Applying slide attacks (typical cryptoanalysis technique for block ciphers) to hash functions, M. Gorski et al.</li>
+<h2>The list</h2><h4>Cryptanalysis</h4>
 <li><a href="https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html">Self-Study Course in Block Cipher Cryptanalysis</a> - Attempt to organize the existing literature of block-cipher cryptanalysis in a way that students can use to learn cryptanalytic techniques and ways to break new algorithms, by Bruce Schneier.</li>
 <li><a href="http://crypto.junod.info/phdthesis.pdf">Statistical Cryptanalysis of Block Ciphers</a> - By Pascal Junod.</li>
-<li><a href="http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04">Cryptoanalysis of block ciphers and protocols</a> - By Elad Pinhas Barkan.</li>
 <h2>The list</h2><h4>Public key cryptography: General and DLP</h4>
 <li><a href="https://www-ee.stanford.edu/~hellman/publications/24.pdf">New Directions in Cryptography</a> - Seminal paper by Diffie and Hellman, introducing public key cryptography and key exchange/agreement protocol.</li>
 <li><a href="https://tools.ietf.org/html/rfc2631">RFC 2631: Diffie-Hellman Key Agreement</a> - An explanation of the Diffie-Hellman methon in more engineering terms.</li>
@@ -99,8 +106,6 @@
 <h2>The list</h2><h4>Math</h4>
 <li><a href="https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf">PRIMES is in P</a> - Unconditional deterministic polynomial-time algorithm that determines whether an input number is prime or composite.</li>
 <h2>The list</h2><h3>Books</h3>
-<li><a href="https://crypto.stanford.edu/~dabo/cryptobook/">A Graduate Course in Applied Cryptography</a> - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptoanalysis and cryptography-related security.</li>
-<li><a href="https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf">Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers</a> - Broad overview of design and cryptoanalysis of various ciphers and hash functions, by Bart Van Rompay.</li>
 <li><a href="https://www.cryptool.org/en/ctp-documentation/ctbook">CrypTool book</a> - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.</li>
 <li><a href="http://cacr.uwaterloo.ca/hac/">Handbook of Applied Cryptography</a> - By Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone. Good classical introduction into cryptography and ciphers.</li>
 <li><a href="http://web.engr.oregonstate.edu/~rosulekm/crypto/">The joy of Cryptography</a> - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.</li>
@@ -117,7 +122,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Birthday_problem">Birthday problem</a> - The best simple explanation of math behind <a href="https://en.wikipedia.org/wiki/Birthday_attack">birthday attack</a>.</li>
 <h2>The list</h2><h4>Public key cryptography: General and DLP</h4>
 <li><a href="http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf">On the Security of Public Key Protocols </a> - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.</li>
-<li><a href="https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf">How to Share a Secret</a> - A safe method for sharing secrets.</li>
 <h2>The list</h2><h4>Public key cryptography: Elliptic-curve crypto</h4>
 <li><a href="http://blog.oleganza.com/post/162861219668/eli5-how-digital-signatures-actually-work">Explain me like I'm 5: How digital signatures actually work</a> - EdDSA explained with ease and elegance.</li>
 <h2>The list</h2><h4>Zero Knowledge Proofs</h4>
