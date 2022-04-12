@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[agamm/awesome-developer-first Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Apr 2022 15:44:15 GMT</lastBuildDate><item><title><![CDATA[agamm/awesome-developer-first Mar 31st, 2022]]></title><description><![CDATA[<h2>Infrastructure as Code</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[agamm/awesome-developer-first Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 12 Apr 2022 05:52:44 GMT</lastBuildDate><item><title><![CDATA[agamm/awesome-developer-first Apr 11th, 2022]]></title><description><![CDATA[<h2>Reports Generation</h2>
+<li><a href="https://pdfblade.com/">PDFBlade</a> - HTML to PDF API usage based pricing.</li>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/#2022-04-11</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/#2022-04-11</guid><pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Mar 31st, 2022]]></title><description><![CDATA[<h2>Infrastructure as Code</h2>
 <li><a href="https://www.hashicorp.com/products/terraform">Terraform</a> - DSL, open-source and free (paid solution adds team management, policy-as-code...).</li>
 <li><a href="https://www.pulumi.com/">Pulumi</a> -  Developer-first IaC with Python, TypeScript, Go and more languages...</li>
 ]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/#2022-03-31</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/#2022-03-31</guid><pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Mar 17th, 2022]]></title><description><![CDATA[<h2>Localization</h2>
@@ -49,7 +51,6 @@
 ]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/#2021-09-29</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/#2021-09-29</guid><pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Sep 27th, 2021]]></title><description><![CDATA[<h2>Media</h2>
 <li><a href="https://apitemplate.io/">APITemplate.io</a> - APIs to generate images and PDFs from reusable templates.</li>
 <h2>Reports Generation</h2>
-<li><a href="https://pdfblade.com/#pricing">PDFBlade</a> - HTML to PDF API usage based pricing.</li>
 <li><a href="https://carbone.io/">Carbone</a> - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.</li>
 ]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/#2021-09-27</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/#2021-09-27</guid><pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Sep 25th, 2021]]></title><description><![CDATA[<h2>Authentication &#x26; Identity</h2>
 <li><a href="https://www.osohq.com/">Oso</a> - Authorization framework (RBAC).</li>
@@ -126,7 +127,6 @@
 <h2>Discussions</h2>
 <li><a href="https://commento.io/">Commento</a> - Privacy centric embeddable comment system.</li>
 <li><a href="https://muut.io/">MuutIo</a> - Tools to create a community-driven app.</li>
-<li><a href="https://www.turntonetworks.com/">TurnTo</a> - Ratings, community Q&#x26;A, reviews, and comments as a service.</li>
 <h2>Mail</h2>
 <li><a href="https://www.mailgun.com/">Mailgun</a> - Send, track, and receive emails.</li>
 <li><a href="https://formspree.io/">FormSpree</a> - Receive form submissions by email.</li>
@@ -134,7 +134,6 @@
 <li><a href="https://cloudinary.com/">Cloudinary</a> - Optimize, create, manage, and deliver images and videos.</li>
 <li><a href="https://mux.com/">Mux</a> - APIs to upload, manage, and stream video.</li>
 <h2>Natural Language Processing</h2>
-<li><a href="https://wit.ai">Wit.ai</a> - Voice/text chatbot framework by Facebook.</li>
 <li><a href="https://cloud.google.com/dialogflow">DialogFlow</a> - Voice/text chatbot framework by Google.</li>
 <h2>Repo</h2>
 <li><a href="https://cloudsmith.com/">cloudsmith</a> - Cloud-native private package management.</li>
@@ -175,9 +174,7 @@
 <li><a href="https://www.websolr.com/">Websolr</a> - Open-source and hosted search with Solr.</li>
 <h2>Testing</h2>
 <li><a href="https://percy.io/">Percy</a> - Continuous visual testing.</li>
-]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/#2020-12-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/#2020-12-12</guid><pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Nov 30th, 2020]]></title><description><![CDATA[<h2>Discussions</h2>
-<li><a href="https://gitter.im">Gitter</a> - Chat and networking platform for developers.</li>
-<h2>CMS (headless)</h2>
+]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/#2020-12-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/#2020-12-12</guid><pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Nov 30th, 2020]]></title><description><![CDATA[<h2>CMS (headless)</h2>
 <li><a href="https://ghost.org/">Ghost</a> - Blog platform, can be used as headless CMS (ex. <a href="https://ghost.org/docs/api/v3/hexo/">with Hexo</a>).</li>
 <h2>Testing</h2>
 <li><a href="https://www.chromatic.com/">Chromatic</a> - Visual UI testing for storybook.</li>
@@ -205,7 +202,6 @@
 ]]></description><link>https://www.trackawesomelist.com/agamm/awesome-developer-first/#2020-09-28</link><guid isPermaLink="false">https://www.trackawesomelist.com/agamm/awesome-developer-first/#2020-09-28</guid><pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[agamm/awesome-developer-first Sep 26th, 2020]]></title><description><![CDATA[<h2>Analytics</h2>
 <li><a href="https://baremetrics.com/">Baremetrics</a> - Subscription analytics for Stripe.</li>
 <h2>CMS (headless)</h2>
-<li><a href="https://tipe.io/">Tipe</a> - Open source headless CMS.</li>
 <li><a href="https://www.elegantcms.io/">ElegantCMS</a> - Headless CMS builder.</li>
 <h2>Media</h2>
 <li><a href="https://imagekit.io/">ImageKit</a> - Automate image optimization, transformation, and delivery.</li>
