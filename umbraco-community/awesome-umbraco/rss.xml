@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[umbraco-community/awesome-umbraco Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 May 2022 04:08:00 GMT</lastBuildDate><item><title><![CDATA[umbraco-community/awesome-umbraco Jan 24th, 2022]]></title><description><![CDATA[<h2>Developer tools</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[umbraco-community/awesome-umbraco Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 May 2022 17:48:13 GMT</lastBuildDate><item><title><![CDATA[umbraco-community/awesome-umbraco Jan 24th, 2022]]></title><description><![CDATA[<h2>Developer tools</h2>
 <li><a href="https://our.umbraco.com/packages/developer-tools/datefolders/">DateFolders</a> - Creates Datefolders (year/month(/day)) for the specified doctype for Umbraco</li>
 <li><a href="https://our.umbraco.com/packages/developer-tools/alphabetfolders/">AlphabetFolders</a> - Creates AlphabetFolders for the specified doctype for Umbraco</li>
 ]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2022-01-24</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2022-01-24</guid><pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Dec 3rd, 2021]]></title><description><![CDATA[<h2>Backoffice extensions</h2>
@@ -50,10 +50,7 @@
 <li><a href="https://umbraco.com/products/umbraco-forms/">Umbraco Forms*</a> - The new Contour, use this to add forms to your site. <strong>(Developed by Umbraco HQ)</strong></li>
 <h2>Developer tools</h2>
 <li><a href="https://our.umbraco.org/projects/developer-tools/usync/">uSync</a> - Syncing tool for reading and writing the database elements to disk.</li>
-]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2019-01-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2019-01-15</guid><pubDate>Tue, 15 Jan 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Oct 29th, 2018]]></title><description><![CDATA[<h3>Contents</h3>
-<li><a href="#official">Official</a></li>
-<li><a href="#community">Community</a></li>
-<h2>Official</h2>
+]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2019-01-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2019-01-15</guid><pubDate>Tue, 15 Jan 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Oct 29th, 2018]]></title><description><![CDATA[<h2>Official</h2>
 <li><a href="https://umbraco.com">Umbraco website</a></li>
 <li><a href="https://our.umbraco.com/documentation/">Documentation</a></li>
 <li><a href="https://www.meetup.com/pro/umbraco">Meetups</a></li>
@@ -61,27 +58,10 @@
 <li><a href="https://our.umbraco.com/packages/backoffice-extensions/plumber-workflow-for-umbraco/">Plumber</a> - adds a heap of useful bits and pieces to Umbraco, to allow multi-staged workflow approval.</li>
 <h2>Developer tools</h2>
 <li><a href="https://soetemansoftware.nl/cmsimport">CMSImport*</a> - import content or members from any datasource into Umbraco.</li>
-]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2018-10-29</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2018-10-29</guid><pubDate>Mon, 29 Oct 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Oct 25th, 2017]]></title><description><![CDATA[<h3>Contents</h3>
-<li><a href="#ecommerce--crm">eCommerce &#x26; CRM</a></li>
-]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-10-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-10-25</guid><pubDate>Wed, 25 Oct 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Aug 23rd, 2017]]></title><description><![CDATA[<h2>Backoffice extensions</h2><h3>Property Editors</h3>
+]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2018-10-29</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2018-10-29</guid><pubDate>Mon, 29 Oct 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Aug 23rd, 2017]]></title><description><![CDATA[<h2>Backoffice extensions</h2><h3>Property Editors</h3>
 <li><a href="https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/">uEditorNotes</a> - Provides a way to display instructional messages for content editors, at the point of content entry.</li>
 ]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-08-23</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-08-23</guid><pubDate>Wed, 23 Aug 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Apr 13th, 2017]]></title><description><![CDATA[<h2>Backoffice extensions</h2><h3>Property Editors</h3>
 <li><a href="https://our.umbraco.org/projects/backoffice-extensions/switcher/">Switcher</a> - A simple property editor that works as an alternative to the core true/false datatype.</li>
 ]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-04-13</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-04-13</guid><pubDate>Thu, 13 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Apr 12th, 2017]]></title><description><![CDATA[<h2>Code Libraries</h2>
 <li><a href="https://our.umbraco.org/projects/developer-tools/skybrudumbracogriddata/">Skybrud.Umbraco.GridData</a> - a package for making the Umbraco grid strongly typed.</li>
-]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-04-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-04-12</guid><pubDate>Wed, 12 Apr 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Jun 15th, 2015]]></title><description><![CDATA[<h3>Contents</h3>
-<li><a href="#code-libraries">Code Libraries</a></li>
-]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2015-06-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2015-06-15</guid><pubDate>Mon, 15 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[umbraco-community/awesome-umbraco Mar 4th, 2015]]></title><description><![CDATA[<h3>Contents</h3>
-<li><a href="#backoffice-extensions">Backoffice extensions</a>
-<ul>
-<li><a href="#form-builders">Form Builders</a></li>
-<li><a href="#property-editors">Property Editors</a></li>
-</ul>
-</li>
-<li><a href="#developer-tools">Developer tools</a>
-<ul>
-<li><a href="#deployment">Deployment</a></li>
-</ul>
-</li>
-<li><a href="#starter-kits">Starter Kits</a></li>
-]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2015-03-04</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2015-03-04</guid><pubDate>Wed, 04 Mar 2015 00:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-04-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/umbraco-community/awesome-umbraco/#2017-04-12</guid><pubDate>Wed, 12 Apr 2017 00:00:00 GMT</pubDate></item></channel></rss>
