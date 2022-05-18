@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[uraimo/awesome-software-patreons Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 17 May 2022 16:46:18 GMT</lastBuildDate><item><title><![CDATA[uraimo/awesome-software-patreons May 15th, 2022]]></title><description><![CDATA[<h2>Open Source Projects</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[uraimo/awesome-software-patreons Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 18 May 2022 04:04:10 GMT</lastBuildDate><item><title><![CDATA[uraimo/awesome-software-patreons May 17th, 2022]]></title><description><![CDATA[<h2>Open Source Projects</h2><h3>Open Source Art</h3>
+<li><a href="https://www.patreon.com/prokoudine">Alexandre Prokoudine</a>, <a href="https://liberapay.com/prokoudine">#2</a> - GIMP contributor, editor of Libre Graphics World online magazine.</li>
+<li><a href="https://www.patreon.com/andreaferrero">Andrea Ferrero</a> - Developer of PhotoFlow image editor, maintains various Appimage packages.</li>
+<li><a href="https://www.patreon.com/duduf">Duduf</a> - Tools for animations and motion pictures production.</li>
+<li><a href="https://www.patreon.com/clipsey">Inochi2D</a> -  Opensource editor and libraries for realtime 2D puppet animation and rendering, e.g. VTubers.</li>
+<li><a href="https://www.patreon.com/marcjeanmougin">Marc Jeanmougin</a> - Inkscape contributor.</li>
+<li><a href="https://www.patreon.com/morevna">Morevna Project</a> - Various contributions to open source animation tools and animated shorts sources released under CC.</li>
+<li><a href="https://www.patreon.com/pippin">Øyvind Kolås</a>, <a href="https://liberapay.com/pippin/">#2</a> - Lead developer of babl &#x26; GEGL libraries used in the graphics editor GIMP.</li>
+<li><a href="https://www.patreon.com/tavmjong">Tavmjong Bah</a> - Working on Inkscape vector graphics editor.</li>
+<li><a href="https://www.patreon.com/zemarmot">ZeMarmot</a>, <a href="https://www.tipeee.com/zemarmot">#2</a>, <a href="https://liberapay.com/ZeMarmot/">#3</a> - 2D animation film project to be released under CC. GIMP contributions from Jehan Pagès, art and direction by Aryeom Han.</li>
+<h2>Open Source Projects</h2><h3>Hardware related</h3>
+<li><a href="https://liberapay.com/alyssa/">Alyssa Rosenzweig</a> - FOSS graphics driver work (Panfrost, Asahi) and contributions to several other projects.</li>
+<li><a href="https://www.patreon.com/evbmw">Damien Maguire</a> - Electric vehicle projects.</li>
+<li><a href="https://www.patreon.com/espruino">Espruino</a> - JavaScript interpreter for microcontrollers.</li>
+<li><a href="https://www.patreon.com/frankbuss">Frank Buss</a> - FPGA and other hardware projects.</li>
+<li><a href="https://github.com/sponsors/gitclear">GitClear</a> - Improved Linux support for touchpads.</li>
+<li><a href="https://www.patreon.com/marcan">Hector Martin "marcan"</a>, <a href="https://github.com/sponsors/marcan">#2</a> - Asahi, Linux support for Apple Silicon Macs.</li>
+<li><a href="https://www.patreon.com/scanlime">Micah Elizabeth Scott</a> - Videos and hardware.</li>
+<li><a href="https://www.patreon.com/nefarius">Nefarius Software Solutions</a> - Windows drivers for the Sony DualShock controller and others.</li>
+<li><a href="https://www.patreon.com/gadgetoid">Pinout.xyz</a> - Pinout diagrams for various microcontrollers.</li>
+<li><a href="https://www.patreon.com/prof_abrasive">Professor Abrasive</a> - Retro gaming.</li>
+<li><a href="https://www.patreon.com/pablodp606">Pablo Dobarro</a> - Sculpting improvements for Blender.</li>
+<h2>People Doing Open Source Work</h2>
+<li><a href="https://github.com/sponsors/luke-jr">Luke Dashjr</a> - Author of bfgminer and other substantial contributions to Bitcoin.</li>
+]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2022-05-17</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2022-05-17</guid><pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons May 15th, 2022]]></title><description><![CDATA[<h2>Open Source Projects</h2>
 <li><a href="https://opencollective.com/logseq">LogSeq</a> - Knowledge management</li>
 <li><a href="https://www.patreon.com/memcode">Memcode</a> - Platform for flashcards</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2022-05-15</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2022-05-15</guid><pubDate>Sun, 15 May 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Oct 29th, 2021]]></title><description><![CDATA[<h2>Open Source Projects</h2>
@@ -8,9 +32,6 @@
 <h2>Open Source Projects</h2><h3>Games</h3>
 <li><a href="https://www.patreon.com/citraemu">Citra</a> - Nintendo 3DS emulator.</li>
 <li><a href="https://www.patreon.com/ryujinx">Ryujinx</a> - Nintendo Switch emulator.</li>
-<h2>Hardware related</h2>
-<li><a href="https://github.com/sponsors/gitclear">GitClear</a> - Improved Linux support for touchpads.</li>
-<li><a href="https://www.patreon.com/marcan">Hector Martin "marcan"</a>, <a href="https://github.com/sponsors/marcan">#2</a> - Linux support for Apple Silicon Macs.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2021-10-29</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2021-10-29</guid><pubDate>Fri, 29 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Oct 18th, 2021]]></title><description><![CDATA[<h2>Open Source Projects</h2>
 <li><a href="https://opencollective.com/open-chemistry">Open Chemistry</a> - Umbrella of multiple open source chemistry projects including Avogadro, cclib, DeepChem, MSDK, Open Babel, RDKit, and 3DMol.js.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2021-10-18</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2021-10-18</guid><pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Jul 2nd, 2021]]></title><description><![CDATA[<h2>Open Source Projects</h2><h3>Games</h3>
@@ -119,14 +140,12 @@
 <li><a href="https://www.patreon.com/dansup">PixelFed</a>, <a href="https://opencollective.com/pixelfed">#2</a>, <a href="https://liberapay.com/pixelfed">#3</a>, <a href="https://github.com/sponsors/dansup">#4</a> - Federated image sharing powered by the ActivityPub protocol.</li>
 <h2>People Doing Open Source Work</h2>
 <li><a href="https://github.com/users/onmyway133/sponsorship">Khoa Pham</a> - A multitude of libraries, applications and articles about iOS/Cocoa,</li>
-<li><a href="https://github.com/sponsors/luke-jr">Luke Dashjr</a> - Author of the legendary bfgminer and other substantial contributions to Bitcoin.</li>
 <li><a href="https://github.com/sponsors/pedrommcarrasco">Pedro Carrasco</a> - Various iOS libraries and projects.</li>
 <li><a href="https://github.com/sponsors/megastep">Stéphane Peter</a> - AudioKit contributor, Makeself and other libraries and projects.</li>
 <li><a href="https://github.com/sponsors/TimOliver">Tim Oliver</a> - Multitude of iOS libraries and various contribution to the iOS ecosystem.</li>
 <li><a href="https://github.com/sponsors/dimitri">Dimitri Fontaine</a> - Various contributions to the PostgreSQL ecosystem (pgloader, pg_auto_failover), Emacs libraries (el-get), author.</li>
 <li><a href="https://github.com/sponsors/felipecsl">Felipe Lima</a> - Various projects and libraries like OkReplay, AirMapView, AsymmetricGridView, GifImageView, Wombat.</li>
 <li><a href="https://github.com/sponsors/voku">Lars Moelleken</a> - Various PHP libraries and OSS contributions.</li>
-<li><a href="https://www.patreon.com/nefarius">Nefarius Software Solutions</a> - Windows drivers for the Sony DualShock controller and others.</li>
 <li><a href="https://github.com/sponsors/pirate">Nick Sweeting</a> - ArchiveBox and OSS contributions but also articles and documentation.</li>
 <li><a href="https://paypal.me/mowgliiapps">Sanjay Madan</a>, <a href="https://cash.me/$Mowglii">#2</a> - Mowglii apps, author of Itsycal and Snk.</li>
 <h2>Open Source Projects</h2><h3>Libraries</h3>
@@ -154,8 +173,6 @@
 <li><a href="https://www.patreon.com/azagaya">Laigter</a> - Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-09-21</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-09-21</guid><pubDate>Sat, 21 Sep 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Sep 13th, 2019]]></title><description><![CDATA[<h2>Open Source Projects</h2><h3>Operating Systems</h3>
 <li><a href="https://www.patreon.com/slackwarelinux">Slackware Linux</a> - Linux distribution.</li>
-<h2>People Doing Open Source Work</h2>
-<li><a href="https://www.patreon.com/pablodp606">Pablo Dobarro</a> - Sculpting improvements for Blender.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-09-13</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-09-13</guid><pubDate>Fri, 13 Sep 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Jul 14th, 2019]]></title><description><![CDATA[<h2>Open Source Projects</h2><h3>Operating Systems</h3>
 <li><a href="https://www.patreon.com/elementary">Elementary OS</a> - Ubuntu variant.</li>
 <li><a href="https://www.patreon.com/freedos">FreeDOS</a> - MS-DOS compatible operating system.</li>
@@ -172,7 +189,6 @@
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-05-19</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-05-19</guid><pubDate>Sun, 19 May 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons May 18th, 2019]]></title><description><![CDATA[<h2>People Doing Open Source Work</h2>
 <li><a href="https://liberapay.com/nijel/">Michal Čihař</a> - Contributor to Weblate and phpMyAdmin.</li>
 <li><a href="https://www.patreon.com/dtaht">Dave Täht</a> - Working on improving the Internet.</li>
-<li><a href="https://www.patreon.com/pippin">Øyvind Kolås</a>, <a href="https://liberapay.com/pippin/">#2</a> - Lead developer of babl &#x26; GEGL libraries used in the graphics editor GIMP.</li>
 <h2>Open Source Projects</h2>
 <li><a href="https://www.patreon.com/akiraux">Akira</a>, <a href="https://liberapay.com/AkiraUX/">#2</a> - Linux application for UI and UX design.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-05-18</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-05-18</guid><pubDate>Sat, 18 May 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Apr 11th, 2019]]></title><description><![CDATA[<h2>Other kinds of content</h2><h3>Videos</h3>
@@ -190,7 +206,6 @@
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-02-22</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-02-22</guid><pubDate>Fri, 22 Feb 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Feb 20th, 2019]]></title><description><![CDATA[<h2>People Doing Open Source Work</h2>
 <li><a href="https://www.patreon.com/mxcl">Max Howell</a> - Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-02-20</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-02-20</guid><pubDate>Wed, 20 Feb 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Feb 8th, 2019]]></title><description><![CDATA[<h2>People Doing Open Source Work</h2>
-<li><a href="https://www.patreon.com/andreaferrero">Andrea Ferrero</a> - Developer of PhotoFlow image editor, maintains various Appimage packages.</li>
 <li><a href="https://www.patreon.com/rurban">Reini Urban</a> - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-02-08</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-02-08</guid><pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Feb 4th, 2019]]></title><description><![CDATA[<h2>Open Source Projects</h2>
 <li><a href="https://www.patreon.com/spbnick">DIGImend</a> - Improving Linux support for (non-Wacom) graphics tablets.</li>
@@ -207,7 +222,6 @@
 <h2>Open Source Projects</h2><h3>Operating Systems</h3>
 <li><a href="https://www.patreon.com/ubports">Ubuntu Touch</a>, <a href="https://liberapay.com/UBports">#2</a> - Touch-friendly mobile version of Ubuntu.</li>
 <h2>People Doing Open Source Work</h2>
-<li><a href="https://www.patreon.com/prokoudine">Alexandre Prokoudine</a>, <a href="https://liberapay.com/prokoudine">#2</a> - GIMP contributor, editor of Libre Graphics World online magazine.</li>
 <li><a href="https://liberapay.com/ngraham">Nate Graham</a> - KDE contributor.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-29</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-29</guid><pubDate>Tue, 29 Jan 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Jan 25th, 2019]]></title><description><![CDATA[<h2>Other kinds of content</h2><h3>Podcasts</h3>
 <li><a href="https://www.patreon.com/destinationlinux">Destination Linux</a> - Linux discussion and news related podcast.</li>
@@ -215,8 +229,6 @@
 <h2>Other kinds of content</h2><h3>Videos</h3>
 <li><a href="https://www.patreon.com/codingtrain">The Coding Train</a> - Programming tutorials.</li>
 <li><a href="https://www.patreon.com/ThreatWire">ThreatWire</a> - Hak5 security show.</li>
-<h2>People Doing Open Source Work</h2>
-<li><a href="https://liberapay.com/alyssa/">Alyssa Rosenzweig</a> - FOSS graphics driver work (Panfrost) and contributions to several other projects.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-25</guid><pubDate>Fri, 25 Jan 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Jan 22nd, 2019]]></title><description><![CDATA[<h2>Open Source Projects</h2>
 <li><a href="https://www.patreon.com/albertlauncher">Albert launcher</a> - Keyboard launcher written in C++/Qt.</li>
 <li><a href="https://www.patreon.com/librepcb">LibrePCB</a> - Software to develop printed circuit boards.</li>
@@ -240,7 +252,6 @@
 <li><a href="https://opencollective.com/phalcon">Phalcon</a> - Web framework delivered as a C extension for PHP.</li>
 <h2>People Doing Open Source Work</h2>
 <li><a href="https://www.patreon.com/luceos">Daniël Klabbers</a> - Contributor to Flarum and other PHP projects.</li>
-<li><a href="https://www.patreon.com/tavmjong">Tavmjong Bah</a> - Working on Inkscape vector graphics editor.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-21</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-21</guid><pubDate>Mon, 21 Jan 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Jan 20th, 2019]]></title><description><![CDATA[<h2>People Doing Open Source Work</h2>
 <li><a href="https://www.patreon.com/esr">Eric S. Raymond</a> - Nethack, GPSd, author of "The Cathedral and the Bazaar".</li>
 <li><a href="https://www.patreon.com/sircmpwn">Drew DeVault</a>, <a href="https://drewdevault.com/donate/">#2</a>, <a href="https://liberapay.com/SirCmpwn">#3</a> - sway, wlroots, sr.ht, scdoc, aerc, and more.</li>
@@ -253,9 +264,6 @@
 <li><a href="https://fund.blender.org/">Blender</a> - 3D creation suite.</li>
 <h2>Other kinds of content</h2><h3>Articles and Tutorials</h3>
 <li><a href="https://www.patreon.com/distrowatch">DistroWatch</a> - Reviews and tutorials for Linux/BSD.</li>
-<h2>Open Source Art</h2>
-<li><a href="https://www.patreon.com/zemarmot">ZeMarmot</a>, <a href="https://www.tipeee.com/zemarmot">#2</a>, <a href="https://liberapay.com/ZeMarmot/">#3</a> - 2D animation film project to be released under CC. GIMP contributions from Jehan Pagès, art and direction by Aryeom Han.</li>
-<li><a href="https://www.patreon.com/morevna">Morevna Project</a> - Various contributions to open source animation tools and animated shorts sources released under CC.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-20</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-20</guid><pubDate>Sun, 20 Jan 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Jan 16th, 2019]]></title><description><![CDATA[<h2>Open Source Projects</h2>
 <li><a href="https://www.patreon.com/kovidgoyal">Calibre</a> - E-books manager.</li>
 <li><a href="https://www.patreon.com/deluge_cas">Deluge</a> - BitTorrent client.</li>
@@ -292,7 +300,6 @@
 <li><a href="https://www.patreon.com/joeyh">Joey Hess</a> - git-annex, keysafe, other Linux software.</li>
 <li><a href="https://www.patreon.com/foonathan">Jonathan Müller</a> - Various C++ libraries, tools, articles.</li>
 <li><a href="https://www.patreon.com/kozec">Kozec</a> - Syncthing-GTK and SC-Controller.</li>
-<li><a href="https://www.patreon.com/marcjeanmougin">Marc Jeanmougin</a> - Inkscape contributor.</li>
 <li><a href="https://www.patreon.com/nmaier">Nils Maier</a> - Download Them All! Firefox and Chrome extension.</li>
 <li><a href="https://www.patreon.com/oerdnj">Ondřej Surý</a> - Debian packager.</li>
 <li><a href="https://www.patreon.com/objective_see">Patrick Wardle</a> - Owner of Objective-See, various macOS security tools and articles.</li>
@@ -308,11 +315,6 @@
 <h2>Other kinds of content</h2><h3>Podcasts</h3>
 <li><a href="https://www.patreon.com/CppCast">CPP Cast</a> - Podcast for C++ developers.</li>
 <li><a href="https://www.patreon.com/thedebuglog">The Debug Log</a> - Game development.</li>
-<h2>Hardware related</h2>
-<li><a href="https://www.patreon.com/evbmw">Damien Maguire</a> - Electric vehicle projects.</li>
-<li><a href="https://www.patreon.com/frankbuss">Frank Buss</a> - FPGA and other hardware projects.</li>
-<li><a href="https://www.patreon.com/scanlime">Micah Elizabeth Scott</a> - Videos and hardware.</li>
-<li><a href="https://www.patreon.com/prof_abrasive">Professor Abrasive</a> - Retro gaming.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-16</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2019-01-16</guid><pubDate>Wed, 16 Jan 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[uraimo/awesome-software-patreons Oct 4th, 2018]]></title><description><![CDATA[<h2>Open Source Projects</h2>
 <li><a href="https://www.patreon.com/mattgodbolt">Compiler Explorer</a> - Online decompiler and compiler explorer.</li>
 <li><a href="https://www.patreon.com/dekkoproject">Dekko Project</a> - Ubuntu email client.</li>
@@ -324,7 +326,6 @@
 <li><a href="https://www.patreon.com/citybound">Citybound</a> - City building game.</li>
 <li><a href="https://www.patreon.com/Nekotekina">Rpcs3</a> - PS3 emulator.</li>
 <h2>People Doing Open Source Work</h2>
-<li><a href="https://www.patreon.com/duduf">Duduf</a> - Tools for animations and motion pictures production.</li>
 <li><a href="https://www.patreon.com/egoist/overview">Egoist</a> - Various JavaScript libraries and tools.</li>
 <li><a href="https://www.patreon.com/frenck">Franck Nijhof</a> - Creates Home Assistant add-ons and helps out on the main project.</li>
 <h2>Other kinds of content</h2><h3>Articles and Tutorials</h3>
@@ -338,7 +339,4 @@
 <h2>Other kinds of content</h2><h3>Podcasts</h3>
 <li><a href="https://www.patreon.com/LateNightLinux">Late Night Linux</a> - Linux and news.</li>
 <li><a href="https://www.patreon.com/mtjc">More Than Just Code</a> - Podcast for iOS developers.</li>
-<h2>Hardware related</h2>
-<li><a href="https://www.patreon.com/espruino">Espruino</a> - JavaScript interpreter for microcontrollers.</li>
-<li><a href="https://www.patreon.com/gadgetoid">Pinout.xyz</a> - Pinout diagrams for various microcontrollers.</li>
 ]]></description><link>https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2018-10-04</link><guid isPermaLink="false">https://www.trackawesomelist.com/uraimo/awesome-software-patreons/#2018-10-04</guid><pubDate>Thu, 04 Oct 2018 00:00:00 GMT</pubDate></item></channel></rss>
