@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[karlhorky/learn-to-program Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 24 Jun 2022 20:07:58 GMT</lastBuildDate><item><title><![CDATA[karlhorky/learn-to-program Jan 22nd, 2020]]></title><description><![CDATA[<h2>Beginner</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[karlhorky/learn-to-program Daily Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Jun 2022 20:43:33 GMT</lastBuildDate><item><title><![CDATA[karlhorky/learn-to-program Jun 26th, 2022]]></title><description><![CDATA[<h2>Intermediate</h2>
+<h4>LinkedIn Learning: <a href="https://www.linkedin.com/learning/topics/web-development">Web Development</a>, <a href="https://www.linkedin.com/learning/topics/web-design">Web Design</a></h4>
+<p><strong>Paid</strong> platform for video courses on web development and design<br>
+<em>(HTML, CSS, JavaScript, web development, web design)</em></p>
+]]></description><link>https://www.trackawesomelist.com/karlhorky/learn-to-program/#2022-06-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/karlhorky/learn-to-program/#2022-06-26</guid><pubDate>Sun, 26 Jun 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[karlhorky/learn-to-program Jan 22nd, 2020]]></title><description><![CDATA[<h2>Beginner</h2>
 <h4><a href="https://teamtreehouse.com/">Treehouse</a></h4>
 <p><strong>Paid</strong> platform for courses how to build websites &#x26; apps<br>
 <em>(Web Design, Front End Web Development, Rails, iOS, Android, PHP)</em></p>
@@ -58,9 +62,6 @@
 <h4><a href="https://www.railstutorial.org/book">Michael Hartl's Ruby on Rails Tutorial</a></h4>
 <p><strong>Free</strong> online book covering all stages of creating a Ruby on Rails application<br>
 <em>(HTML, CSS, JavaScript, Ruby, Rails)</em></p>
-<h4>Lynda.com <a href="https://www.lynda.com/Developer-training-tutorials/50-0.html">Developer</a>, <a href="https://www.lynda.com/Web-training-tutorials/88-0.html">Web</a>, <a href="https://www.lynda.com/IT-training-tutorials/2057-0.html">IT</a></h4>
-<p><strong>Freemium</strong> platform for video courses on web development and intermediate programming<br>
-<em>(HTML, CSS, JavaScript, programming fundamentals, system administration, ...)</em></p>
 <h4><a href="https://exercism.io/">exercism.io</a></h4>
 <p><strong>Free</strong> crowdsourced mentorship platform of programming exercises and code reviews<br>
 <em>(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)</em></p>
