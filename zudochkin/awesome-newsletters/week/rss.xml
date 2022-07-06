@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[zudochkin/awesome-newsletters Weekly Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 30 Jun 2022 20:43:36 GMT</lastBuildDate><item><title><![CDATA[zudochkin/awesome-newsletters Jun 20th - Jun 26th, 2022]]></title><description><![CDATA[<h2>Frontend</h2><h4>React</h4>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[zudochkin/awesome-newsletters Weekly Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Jul 2022 12:32:06 GMT</lastBuildDate><item><title><![CDATA[zudochkin/awesome-newsletters Jun 27th - Jul 3rd, 2022]]></title><description><![CDATA[<h2>Frontend</h2><h4>EmberJS</h4>
+<li><a href="https://embertimes.substack.com/">The Ember Times</a>. Updates from the Ember.js Learning Team.</li>
+<h2>Blockchain / Cryptocurrencies</h2>
+<li><a href="https://inside.com/cryptocurrency">Inside Cryptocurrency</a>. Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.</li>
+]]></description><link>https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2022-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2022-26</guid><pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[zudochkin/awesome-newsletters Jun 20th - Jun 26th, 2022]]></title><description><![CDATA[<h2>Frontend</h2><h4>React</h4>
 <li><a href="https://thisweekinreact.com">This Week In React</a>. Weekly newsletter for experienced React and React-Native developers.</li>
 <li><a href="https://reactnewsletter.com/">React Newsletter</a>. The free, weekly newsletter of the best React.js news and articles.</li>
 <li><a href="https://reactnativenewsletter.com/">React Native Newsletter</a>. Free occasional summary of React Native news, articles, issues &#x26; pull requests, libraries and apps.</li>
@@ -66,8 +70,6 @@
 <h2>Frontend</h2><h3>JavaScript</h3>
 <li><a href="https://weekly.bestofjs.org/">Best of JavaScript</a>. Weekly rankings about the most popular open-source projects related to Node.js and the web platform.</li>
 <li><a href="https://javascriptkicks.com/">JavaScript Kicks</a>. Curated list of the top-rated articles from the community of JavaScript developers sent weekly.</li>
-<h2>Frontend</h2><h4>EmberJS</h4>
-<li><a href="https://the-emberjs-times.ongoodbits.com/">The Ember Times</a>. Updates from the Ember.js Learning Team.</li>
 <h2>Mobile</h2>
 <li><a href="https://androidweekly.net/">Android Weekly</a>. Free newsletter that helps you to stay cutting-edge with your Android Development.</li>
 <h2>Miscellaneous</h2>
@@ -120,9 +122,7 @@
 <li><a href="https://www.schneier.com/crypto-gram/">Crypto-Gram</a>. A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.</li>
 <li><a href="https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&#x26;id=a2457dc8ad">this week in security</a>. a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.</li>
 <li><a href="https://nuzzel.com/InfoSecSherpa">InfoSecSherpa</a>. A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.</li>
-]]></description><link>https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-50</link><guid isPermaLink="false">https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-50</guid><pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[zudochkin/awesome-newsletters Nov 4th - Nov 10th, 2019]]></title><description><![CDATA[<h2>Business/Finance</h2>
-<li><a href="https://inspectcompany.com/newsletter">InspectCompany Weekly</a>. Company news and analysis in less than 5 minutes per week.</li>
-]]></description><link>https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-45</link><guid isPermaLink="false">https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-45</guid><pubDate>Mon, 04 Nov 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[zudochkin/awesome-newsletters Sep 23rd - Sep 29th, 2019]]></title><description><![CDATA[<h2>Programming</h2><h3>Common Section</h3>
+]]></description><link>https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-50</link><guid isPermaLink="false">https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-50</guid><pubDate>Mon, 09 Dec 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[zudochkin/awesome-newsletters Sep 23rd - Sep 29th, 2019]]></title><description><![CDATA[<h2>Programming</h2><h3>Common Section</h3>
 <li><a href="https://morningcupofcoding.com">Morning Cup of Coding</a>. A daily newsletter featuring long-form technical articles of all fields of programming.</li>
 <h2>Programming</h2><h3>Swift</h3>
 <li><a href="https://www.swiftbysundell.com/newsletter/">The Swift by Sundell</a>. Introducing the Swift by Sundell monthly newsletter!</li>
@@ -140,7 +140,6 @@
 <li><a href="https://mailchi.mp/f59beeac6b9b/devupdates">Dev Updates</a>. A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.</li>
 ]]></description><link>https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-34</link><guid isPermaLink="false">https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-34</guid><pubDate>Mon, 19 Aug 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[zudochkin/awesome-newsletters Aug 12th - Aug 18th, 2019]]></title><description><![CDATA[<h2>Blockchain / Cryptocurrencies</h2>
 <li><a href="https://www.buildblockchain.tech/newsletter">Build Blockchain</a>. Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.</li>
-<li><a href="https://inside.com/bitcoin">Inside Bitcoin</a>. Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.</li>
 <li><a href="https://cryptoweekly.co/">Crypto Weekly</a>. The best cryptocurrency news and insights delivered to your inbox every week.</li>
 ]]></description><link>https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-33</link><guid isPermaLink="false">https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week#2019-33</guid><pubDate>Mon, 12 Aug 2019 00:00:00 GMT</pubDate></item><item><title><![CDATA[zudochkin/awesome-newsletters Jul 29th - Aug 4th, 2019]]></title><description><![CDATA[<h2>Programming</h2><h3>Node.js</h3>
 <li><a href="https://www.npmjs.com/npm-weekly">npm Weekly</a>. What we’re working on, thinking about, and talking about NPM</li>
@@ -294,7 +293,6 @@
 <h2>OS</h2>
 <li><a href="https://macmost.com/macmost-weekly-newsletter">MacMost</a>. Latest MacMost tutorials, tips and news right in your inbox every week.</li>
 <h2>Editors</h2><h3>Vim</h3>
-<li><a href="http://www.vimweekly.com/">Vim Weekly</a>. Every monday, we send 5 tips that can help boost your vim productivity you can think of it as one tip per day!</li>
 <li><a href="https://masteringvim.com/">Mastering Vim Quickly</a>. Best Vim stuff, once a week.</li>
 <h2>Databases</h2>
 <li><a href="https://dbweekly.com/">DB Weekly</a>. A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.</li>
