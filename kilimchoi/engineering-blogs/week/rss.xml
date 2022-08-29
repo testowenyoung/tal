@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[kilimchoi/engineering-blogs Weekly Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 15 Aug 2022 15:37:18 GMT</lastBuildDate><item><title><![CDATA[kilimchoi/engineering-blogs Jun 28th - Jul 4th, 2021]]></title><description><![CDATA[<h4>C companies</h4>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[kilimchoi/engineering-blogs Weekly Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 29 Aug 2022 07:41:33 GMT</lastBuildDate><item><title><![CDATA[kilimchoi/engineering-blogs Jul 25th - Jul 31st, 2022]]></title><description><![CDATA[<h4>G companies</h4>
+<li>GoDaddy <a href="https://godaddy.github.io/engineering/">https://godaddy.github.io/engineering/</a></li>
+<h4>S companies</h4>
+<li>Shopify <a href="https://shopify.engineering/">https://shopify.engineering/</a></li>
+<h4>R companies</h4>
+<li>Reddit <a href="https://www.reddit.com/r/RedditEng/">https://www.reddit.com/r/RedditEng/</a></li>
+]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2022-30</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2022-30</guid><pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Jun 28th - Jul 4th, 2021]]></title><description><![CDATA[<h4>C companies</h4>
 <li>Credit Karma <a href="https://engineering.creditkarma.com/">https://engineering.creditkarma.com/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2021-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2021-26</guid><pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Apr 27th - May 3rd, 2020]]></title><description><![CDATA[<h4>F companies</h4>
 <li>Facebook AI Research <a href="https://engineering.fb.com/category/ai-research/">https://engineering.fb.com/category/ai-research/</a></li>
@@ -25,11 +31,10 @@
 <li>REA Group <a href="https://www.rea-group.com/category/tech/">https://www.rea-group.com/category/tech/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2020-2</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2020-2</guid><pubDate>Mon, 06 Jan 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Dec 30th - Jan 5th, 2019]]></title><description><![CDATA[<h4>R technologies</h4>
 <li>React <a href="https://reactjs.org/blog/">https://reactjs.org/blog/</a></li>
-<h4>M companies</h4>
-<li>Myntra Data Science <a href="https://medium.com/myntra-engineering/tagged/data-science">https://medium.com/myntra-engineering/tagged/data-science</a></li>
-<li>Mixmax <a href="https://engineering.mixmax.com/">https://engineering.mixmax.com/</a></li>
 <h4>N individuals</h4>
 <li>Nic Raboy <a href="https://www.thepolyglotdeveloper.com/blog/">https://www.thepolyglotdeveloper.com/blog/</a></li>
+<h4>M companies</h4>
+<li>Mixmax <a href="https://engineering.mixmax.com/">https://engineering.mixmax.com/</a></li>
 <h4>C companies</h4>
 <li>CloudBees <a href="https://www.previous.cloudbees.com/blog">https://www.previous.cloudbees.com/blog</a></li>
 <li>Criteo <a href="https://medium.com/criteo-labs">https://medium.com/criteo-labs</a></li>
@@ -82,8 +87,6 @@
 <li>Latacora <a href="https://latacora.singles/">https://latacora.singles/</a></li>
 <h4>J companies</h4>
 <li>Jet Technology <a href="https://tech.jet.com/">https://tech.jet.com/</a></li>
-<h4>C companies</h4>
-<li>CleverTap <a href="https://clevertap.com/blog/tag/engineering/">https://clevertap.com/blog/tag/engineering/</a></li>
 <h4>E companies</h4>
 <li>Evernote <a href="https://evernote.com/blog/">https://evernote.com/blog/</a></li>
 <h4>P companies</h4>
@@ -160,17 +163,11 @@
 <li>Graphcool <a href="https://blog.graph.cool/">https://blog.graph.cool/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2018-1</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2018-1</guid><pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Dec 18th - Dec 24th, 2017]]></title><description><![CDATA[<h4>K technologies</h4>
 <li>Kotlin <a href="https://blog.jetbrains.com/kotlin/">https://blog.jetbrains.com/kotlin/</a></li>
-<h4>A companies</h4>
-<li>Affinity <a href="https://build.affinity.co/">https://build.affinity.co/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-51</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-51</guid><pubDate>Mon, 18 Dec 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Nov 27th - Dec 3rd, 2017]]></title><description><![CDATA[<h4>N companies</h4>
 <li>Nvidia <a href="https://blogs.nvidia.com/">https://blogs.nvidia.com/</a></li>
 <h4>P individuals</h4>
 <li>Paweł Chudzik <a href="https://blog.pchudzik.com/">https://blog.pchudzik.com/</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-48</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-48</guid><pubDate>Mon, 27 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Nov 13th - Nov 19th, 2017]]></title><description><![CDATA[<h4>I companies</h4>
-<li>Intuit <a href="https://quickbooks-engineering.intuit.com/">https://quickbooks-engineering.intuit.com/</a></li>
-<h4>A companies</h4>
-<li>Addepar <a href="https://medium.com/build-addepar">https://medium.com/build-addepar</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-46</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-46</guid><pubDate>Mon, 13 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Oct 23rd - Oct 29th, 2017]]></title><description><![CDATA[<h4>G companies</h4>
+]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-48</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-48</guid><pubDate>Mon, 27 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Oct 23rd - Oct 29th, 2017]]></title><description><![CDATA[<h4>G companies</h4>
 <li>Geoblink <a href="https://tech.geoblink.com">https://tech.geoblink.com</a></li>
 <li>GIPHY <a href="https://engineering.giphy.com/">https://engineering.giphy.com/</a></li>
 <h4>Z companies</h4>
@@ -219,8 +216,6 @@
 <li>Radim Řehůřek <a href="https://radimrehurek.com/blog/">https://radimrehurek.com/blog/</a></li>
 <h4>S individuals</h4>
 <li>Srinivas Tamada <a href="https://www.9lessons.info/">https://www.9lessons.info/</a></li>
-<h4>P companies</h4>
-<li>Pusher <a href="https://making.pusher.com/">https://making.pusher.com/</a></li>
 <h4>J companies</h4>
 <li>Jobandtalent <a href="https://jobandtalent.engineering/">https://jobandtalent.engineering/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-39</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-39</guid><pubDate>Mon, 25 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Sep 18th - Sep 24th, 2017]]></title><description><![CDATA[<h4>S companies</h4>
@@ -235,17 +230,11 @@
 <li>Rudolf Olah <a href="https://neverfriday.com/blog/">https://neverfriday.com/blog/</a></li>
 <h4>U companies</h4>
 <li>Universe <a href="https://engineering.universe.com">https://engineering.universe.com</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-36</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-36</guid><pubDate>Mon, 04 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Aug 21st - Aug 27th, 2017]]></title><description><![CDATA[<h4>C companies</h4>
-<li>Code Better <a href="http://codebetter.com/">http://codebetter.com/</a></li>
-<h4>A companies</h4>
-<li>AirPair <a href="https://www.airpair.com/software-experts">https://www.airpair.com/software-experts</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-34</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-34</guid><pubDate>Mon, 21 Aug 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Aug 14th - Aug 20th, 2017]]></title><description><![CDATA[<h4>A companies</h4>
+]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-36</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-36</guid><pubDate>Mon, 04 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Aug 14th - Aug 20th, 2017]]></title><description><![CDATA[<h4>A companies</h4>
 <li>Airbnb <a href="https://medium.com/airbnb-engineering">https://medium.com/airbnb-engineering</a></li>
 <li>Appnexus <a href="https://techblog.appnexus.com/">https://techblog.appnexus.com/</a></li>
 <h4>B companies</h4>
 <li>Binary Studio <a href="https://binary-studio.com/blog/">https://binary-studio.com/blog/</a></li>
-<h4>C companies</h4>
-<li>Collective Idea <a href="https://collectiveidea.com/blog">https://collectiveidea.com/blog</a></li>
 <h4>D companies</h4>
 <li>Data Artisans <a href="https://data-artisans.com/blog/">https://data-artisans.com/blog/</a></li>
 <li>Deliveroo <a href="https://deliveroo.engineering/">https://deliveroo.engineering/</a></li>
@@ -266,7 +255,6 @@
 <h4>S companies</h4>
 <li>Sharethis <a href="https://www.sharethis.com/category/engineering/">https://www.sharethis.com/category/engineering/</a></li>
 <li>Sift Science <a href="https://blog.siftscience.com/?category=Engineering">https://blog.siftscience.com/?category=Engineering</a></li>
-<li>Songkick <a href="https://devblog.songkick.com/">https://devblog.songkick.com/</a></li>
 <li>Stride <a href="https://blog.stridenyc.com/">https://blog.stridenyc.com/</a></li>
 <h4>T companies</h4>
 <li>Teamwork <a href="https://engineroom.teamwork.com/">https://engineroom.teamwork.com/</a></li>
@@ -295,8 +283,6 @@
 <li>Todd Motto <a href="https://toddmotto.com/">https://toddmotto.com/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-29</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-29</guid><pubDate>Mon, 17 Jul 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Jun 26th - Jul 2nd, 2017]]></title><description><![CDATA[<h4>D companies</h4>
 <li>Drivy <a href="https://drivy.engineering/">https://drivy.engineering/</a></li>
-<h4>S companies</h4>
-<li>SmartRecruiters <a href="https://up.smartrecruiters.com">https://up.smartrecruiters.com</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-26</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-26</guid><pubDate>Mon, 26 Jun 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Jun 19th - Jun 25th, 2017]]></title><description><![CDATA[<h4>C companies</h4>
 <li>Chef <a href="https://blog.chef.io">https://blog.chef.io</a></li>
 <h4>O companies</h4>
@@ -329,13 +315,9 @@
 <li>React Native <a href="http://facebook.github.io/react-native/blog/">http://facebook.github.io/react-native/blog/</a></li>
 <h4>P companies</h4>
 <li>PicCollage <a href="https://tech.pic-collage.com/">https://tech.pic-collage.com/</a></li>
-<h4>M companies</h4>
-<li>Myntra <a href="https://medium.com/myntra-engineering">https://medium.com/myntra-engineering</a></li>
 <h4>D individuals</h4>
 <li>Domenico Luciani <a href="https://domenicoluciani.com">https://domenicoluciani.com</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-12</guid><pubDate>Mon, 20 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Mar 13th - Mar 19th, 2017]]></title><description><![CDATA[<h4>A companies</h4>
-<li>Airtame <a href="https://airtame.engineering">https://airtame.engineering</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-11</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-11</guid><pubDate>Mon, 13 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Mar 6th - Mar 12th, 2017]]></title><description><![CDATA[<h4>D companies</h4>
+]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-12</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2017-12</guid><pubDate>Mon, 20 Mar 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Mar 6th - Mar 12th, 2017]]></title><description><![CDATA[<h4>D companies</h4>
 <li>Deezer <a href="https://deezer.io/">https://deezer.io/</a></li>
 <h4>S individuals</h4>
 <li>Sakib Sami <a href="https://www.sakib.ninja">https://www.sakib.ninja</a></li>
@@ -359,8 +341,6 @@
 <li>Avenue Code <a href="http://blog.avenuecode.com/">http://blog.avenuecode.com/</a></li>
 <h4>I companies</h4>
 <li>IBM developerWorks <a href="https://developer.ibm.com/dwblog/">https://developer.ibm.com/dwblog/</a></li>
-<h4>X companies</h4>
-<li>Xmartlabs <a href="https://blog.xmartlabs.com/">https://blog.xmartlabs.com/</a></li>
 <h4>C companies</h4>
 <li>Capgemini <a href="https://capgemini.github.io/">https://capgemini.github.io/</a></li>
 <h4>H companies</h4>
@@ -408,8 +388,6 @@
 <li>Joel Spolsky <a href="https://www.joelonsoftware.com/">https://www.joelonsoftware.com/</a></li>
 <li>Jeremy Kun <a href="https://jeremykun.com/">https://jeremykun.com/</a></li>
 <li>Jeff Atwood <a href="https://blog.codinghorror.com/">https://blog.codinghorror.com/</a></li>
-<h4>G companies</h4>
-<li>Good Eggs <a href="https://team.goodeggs.com">https://team.goodeggs.com</a></li>
 <h4>R technologies</h4>
 <li>Rust <a href="https://blog.rust-lang.org/">https://blog.rust-lang.org/</a></li>
 <h4>C technologies</h4>
@@ -439,8 +417,6 @@
 <li>Eric Lippert <a href="https://ericlippert.com/">https://ericlippert.com/</a></li>
 <h4>B individuals</h4>
 <li>Barry Warsaw <a href="https://www.wefearchange.org/">https://www.wefearchange.org/</a></li>
-<h4>A individuals</h4>
-<li>Adrian Colyer <a href="https://blog.acolyer.org/">https://blog.acolyer.org/</a></li>
 <h4>Z companies</h4>
 <li>Zulily <a href="https://engineering.zulily.com/">https://engineering.zulily.com/</a></li>
 <h4>Y companies</h4>
@@ -451,7 +427,6 @@
 <li>VersionEye <a href="https://blog.versioneye.com/">https://blog.versioneye.com/</a></li>
 <h4>T companies</h4>
 <li>Tumblr <a href="https://engineering.tumblr.com/">https://engineering.tumblr.com/</a></li>
-<li>Ticketmaster <a href="https://tech.ticketmaster.com/">https://tech.ticketmaster.com/</a></li>
 <h4>R companies</h4>
 <li>Riot Games <a href="https://engineering.riotgames.com/">https://engineering.riotgames.com/</a></li>
 <li>Raizlabs <a href="https://www.raizlabs.com/dev/">https://www.raizlabs.com/dev/</a></li>
@@ -489,8 +464,6 @@
 <li>Pluralsight <a href="https://www.pluralsight.com/guides">https://www.pluralsight.com/guides</a></li>
 <h4>Z companies</h4>
 <li>Zillow <a href="https://www.zillow.com/engineering/">https://www.zillow.com/engineering/</a></li>
-<h4>A individuals</h4>
-<li>Abhinaba Basu <a href="https://blogs.msdn.com/b/abhinaba/">https://blogs.msdn.com/b/abhinaba/</a></li>
 <h4>C individuals</h4>
 <li>Carlos Becker <a href="https://carlosbecker.com">https://carlosbecker.com</a></li>
 <li>Codrops <a href="https://tympanus.net/codrops/">https://tympanus.net/codrops/</a></li>
@@ -521,10 +494,6 @@
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-47</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-47</guid><pubDate>Mon, 21 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Nov 14th - Nov 20th, 2016]]></title><description><![CDATA[<h4>E companies</h4>
 <li>Elastic <a href="https://www.elastic.co/blog/category/engineering">https://www.elastic.co/blog/category/engineering</a></li>
 <li>Erlang Solutions <a href="https://www.erlang-solutions.com/blog.html">https://www.erlang-solutions.com/blog.html</a></li>
-<h4>I companies</h4>
-<li>InVision <a href="http://engineering.invisionapp.com/">http://engineering.invisionapp.com/</a></li>
-<h4>M companies</h4>
-<li>MongoDB <a href="https://engineering.mongodb.com/">https://engineering.mongodb.com/</a></li>
 <h4>L companies</h4>
 <li>Lyft <a href="https://eng.lyft.com/">https://eng.lyft.com/</a></li>
 <h4>S companies</h4>
@@ -536,8 +505,6 @@
 <li>Miro Cupak <a href="https://mirocupak.com/">https://mirocupak.com/</a></li>
 <h4>R companies</h4>
 <li>RoseHosting <a href="https://www.rosehosting.com/blog/">https://www.rosehosting.com/blog/</a></li>
-<h4>T companies</h4>
-<li>Trello <a href="https://tech.trello.com/">https://tech.trello.com/</a></li>
 <h4>Y companies</h4>
 <li>Yammer <a href="https://medium.com/yammer-engineering">https://medium.com/yammer-engineering</a></li>
 <h4># companies</h4>
@@ -559,12 +526,8 @@
 <li>Marek Majkowski <a href="https://idea.popcount.org/">https://idea.popcount.org/</a></li>
 <h4>J individuals</h4>
 <li>Julia Evans <a href="https://jvns.ca/">https://jvns.ca/</a></li>
-<h4>P companies</h4>
-<li>Periscope Data <a href="https://www.periscopedata.com/blog">https://www.periscopedata.com/blog</a></li>
 <h4>B companies</h4>
 <li>Backtrace <a href="https://backtrace.io/blog/">https://backtrace.io/blog/</a></li>
-<h4>A companies</h4>
-<li>Airbrake <a href="https://airbrake.io/blog/">https://airbrake.io/blog/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-42</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-42</guid><pubDate>Mon, 17 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Oct 10th - Oct 16th, 2016]]></title><description><![CDATA[<h4>L companies</h4>
 <li>LendingHome <a href="https://tech.lendinghome.com/">https://tech.lendinghome.com/</a></li>
 <h4>I individuals</h4>
@@ -591,9 +554,7 @@
 <li>ZeeMee <a href="https://zeemee.engineering/">https://zeemee.engineering/</a></li>
 <h4>A individuals</h4>
 <li>Ariejan de Vroom <a href="https://ariejan.net/">https://ariejan.net/</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-34</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-34</guid><pubDate>Mon, 22 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Aug 15th - Aug 21st, 2016]]></title><description><![CDATA[<h4># companies</h4>
-<li>500px <a href="https://developers.500px.com/">https://developers.500px.com/</a></li>
-<h4>I individuals</h4>
+]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-34</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-34</guid><pubDate>Mon, 22 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Aug 15th - Aug 21st, 2016]]></title><description><![CDATA[<h4>I individuals</h4>
 <li>Ian Sommerville <a href="http://iansommerville.com/systems-software-and-technology/">http://iansommerville.com/systems-software-and-technology/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-33</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-33</guid><pubDate>Mon, 15 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Aug 8th - Aug 14th, 2016]]></title><description><![CDATA[<h4>U companies</h4>
 <li>Upday <a href="https://upday.github.io/">https://upday.github.io/</a></li>
@@ -612,8 +573,6 @@
 <li>Microsoft Python Engineering <a href="https://blogs.msdn.microsoft.com/pythonengineering/">https://blogs.msdn.microsoft.com/pythonengineering/</a></li>
 <h4>N technologies</h4>
 <li>.NET <a href="https://blogs.msdn.microsoft.com/dotnet/">https://blogs.msdn.microsoft.com/dotnet/</a></li>
-<h4>A individuals</h4>
-<li>Alex Rogozhnikov <a href="https://arogozhnikov.github.io/">https://arogozhnikov.github.io/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-30</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-30</guid><pubDate>Mon, 25 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Jul 18th - Jul 24th, 2016]]></title><description><![CDATA[<h4>A individuals</h4>
 <li>Ariya Hidayat <a href="https://ariya.io/">https://ariya.io/</a></li>
 <h4>C individuals</h4>
@@ -643,7 +602,6 @@
 <li>Atomic Object <a href="https://spin.atomicobject.com/">https://spin.atomicobject.com/</a></li>
 <h4>B companies</h4>
 <li>BlackRock <a href="http://rockthecode.io/">http://rockthecode.io/</a></li>
-<li>Buzzfeed <a href="https://www.buzzfeed.com/techblog">https://www.buzzfeed.com/techblog</a></li>
 <h4>K companies</h4>
 <li>Kinvolk <a href="https://kinvolk.io/blog/">https://kinvolk.io/blog/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-23</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-23</guid><pubDate>Mon, 06 Jun 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs May 30th - Jun 5th, 2016]]></title><description><![CDATA[<h4>P companies</h4>
@@ -723,7 +681,6 @@
 <h4>Q companies</h4>
 <li>Quora <a href="https://engineering.quora.com/">https://engineering.quora.com/</a></li>
 <h4>S companies</h4>
-<li>Shopify <a href="https://engineering.shopify.com">https://engineering.shopify.com</a></li>
 <li>Stitch Fix <a href="http://multithreaded.stitchfix.com/blog/">http://multithreaded.stitchfix.com/blog/</a></li>
 <li>Sky Betting &#x26; Gaming <a href="http://engineering.skybettingandgaming.com/">http://engineering.skybettingandgaming.com/</a></li>
 <h4>T companies</h4>
@@ -759,8 +716,6 @@
 <li>Go <a href="https://blog.golang.org/">https://blog.golang.org/</a></li>
 <h4>R companies</h4>
 <li>Realm.io <a href="https://realm.io/news/">https://realm.io/news/</a></li>
-<h4>A technologies</h4>
-<li>Atom.io <a href="http://blog.atom.io/">http://blog.atom.io/</a></li>
 <h4>I companies</h4>
 <li>Intercom <a href="https://engineering.intercom.io/">https://engineering.intercom.io/</a></li>
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-5</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-5</guid><pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Jan 25th - Jan 31st, 2016]]></title><description><![CDATA[<h4>M individuals</h4>
@@ -775,9 +730,7 @@
 <li>Raymond Chen <a href="https://blogs.msdn.microsoft.com/oldnewthing/">https://blogs.msdn.microsoft.com/oldnewthing/</a></li>
 <h4>S companies</h4>
 <li>SlideShare <a href="https://engineering.linkedin.com/blog/topic/slideshare">https://engineering.linkedin.com/blog/topic/slideshare</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-3</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-3</guid><pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Jan 11th - Jan 17th, 2016]]></title><description><![CDATA[<h4>A individuals</h4>
-<li>Adam Bard <a href="https://adambard.com/blog/">https://adambard.com/blog/</a></li>
-<h4>G individuals</h4>
+]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-3</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-3</guid><pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Jan 11th - Jan 17th, 2016]]></title><description><![CDATA[<h4>G individuals</h4>
 <li>Gleb Bahmutov <a href="https://glebbahmutov.com/blog/">https://glebbahmutov.com/blog/</a></li>
 <h4>S individuals</h4>
 <li>Simon Reimler <a href="https://devdactic.com/devblog/">https://devdactic.com/devblog/</a></li>
@@ -786,9 +739,7 @@
 <li>Secret Escapes <a href="http://tech.secretescapes.com/">http://tech.secretescapes.com/</a></li>
 <h4>T companies</h4>
 <li>Teespring <a href="http://teespring.engineering/">http://teespring.engineering/</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-1</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-1</guid><pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Dec 28th - Jan 3rd, 2015]]></title><description><![CDATA[<h4>W companies</h4>
-<li>Wolox <a href="https://medium.com/@WoloxEngineering/">https://medium.com/@WoloxEngineering/</a></li>
-<h4>P individuals</h4>
+]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-1</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2016-1</guid><pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Dec 28th - Jan 3rd, 2015]]></title><description><![CDATA[<h4>P individuals</h4>
 <li>Pamela Fox <a href="http://blog.pamelafox.org/">http://blog.pamelafox.org/</a></li>
 <h4>R individuals</h4>
 <li>Robin Wilson <a href="http://blog.rtwilson.com/">http://blog.rtwilson.com/</a></li>
@@ -833,14 +784,10 @@
 <h4>R companies</h4>
 <li>Redino <a href="http://redino.net/blog/">http://redino.net/blog/</a></li>
 <li>RisingStack <a href="https://blog.risingstack.com/">https://blog.risingstack.com/</a></li>
-<h4>S companies</h4>
-<li>Stormpath <a href="https://stormpath.com/blog/">https://stormpath.com/blog/</a></li>
 <h4>T companies</h4>
 <li>ThoughtWorks <a href="https://www.thoughtworks.com/insights">https://www.thoughtworks.com/insights</a></li>
 <h4>Z companies</h4>
 <li>Zynga <a href="https://www.zynga.com/blogs/engineering">https://www.zynga.com/blogs/engineering</a></li>
-<h4>A individuals</h4>
-<li>Adam Tuliper <a href="http://www.adamtuliper.com/">http://www.adamtuliper.com/</a></li>
 <h4>D individuals</h4>
 <li>David Walsh <a href="https://davidwalsh.name/">https://davidwalsh.name/</a></li>
 <h4>E individuals</h4>
@@ -862,9 +809,7 @@
 <li>Robert Elder Software <a href="http://blog.robertelder.org/">http://blog.robertelder.org/</a></li>
 <h4>N individuals</h4>
 <li>Nelson Elhage <a href="https://blog.nelhage.com/">https://blog.nelhage.com/</a></li>
-]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2015-44</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2015-44</guid><pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Oct 19th - Oct 25th, 2015]]></title><description><![CDATA[<h4>A individuals</h4>
-<li>Andrew Brampton <a href="https://blog.bramp.net/">https://blog.bramp.net/</a></li>
-<h4>J individuals</h4>
+]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2015-44</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2015-44</guid><pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Oct 19th - Oct 25th, 2015]]></title><description><![CDATA[<h4>J individuals</h4>
 <li>Jamis Buck <a href="http://weblog.jamisbuck.org/">http://weblog.jamisbuck.org/</a></li>
 <li>James Hague <a href="http://prog21.dadgum.com/">http://prog21.dadgum.com/</a></li>
 <h4>W individuals</h4>
@@ -935,8 +880,6 @@
 <li>Wingify <a href="http://engineering.wingify.com/">http://engineering.wingify.com/</a></li>
 <h4>T individuals</h4>
 <li>That Thing In Swift <a href="https://thatthinginswift.com/">https://thatthinginswift.com/</a></li>
-<h4>O companies</h4>
-<li>OpenTable UK <a href="http://tech.opentable.co.uk/">http://tech.opentable.co.uk/</a></li>
 <h4>J individuals</h4>
 <li>Jessie Frazelle <a href="https://blog.jessfraz.com/">https://blog.jessfraz.com/</a></li>
 <h4>T companies</h4>
@@ -984,10 +927,8 @@
 <li>Guido van Rossum <a href="http://neopythonic.blogspot.com/">http://neopythonic.blogspot.com/</a></li>
 <h4>A individuals</h4>
 <li>Armin Ronacher <a href="http://lucumr.pocoo.org/">http://lucumr.pocoo.org/</a></li>
-<li>Allison Kaptur <a href="http://akaptur.com/">http://akaptur.com/</a></li>
 <li>Alex Russell <a href="https://infrequently.org/">https://infrequently.org/</a></li>
 <li>Anders Aarvik <a href="http://aarvik.dk/">http://aarvik.dk/</a></li>
-<li>Adam Leventhal <a href="http://dtrace.org/blogs/ahl/">http://dtrace.org/blogs/ahl/</a></li>
 <h4>L individuals</h4>
 <li>Lea Verou <a href="http://lea.verou.me/">http://lea.verou.me/</a></li>
 <li>Life Plus Linux <a href="http://lifepluslinux.blogspot.in/">http://lifepluslinux.blogspot.in/</a></li>
@@ -1027,7 +968,6 @@
 <li>Oona Räisänen <a href="http://www.windytan.com/">http://www.windytan.com/</a></li>
 <h4>C individuals</h4>
 <li>Chris Wellons <a href="http://nullprogram.com/">http://nullprogram.com/</a></li>
-<li>Cocoa Is My Girlfriend <a href="http://www.cimgf.com/">http://www.cimgf.com/</a></li>
 <h4>Z companies</h4>
 <li>Zumba <a href="http://tech.zumba.com/">http://tech.zumba.com/</a></li>
 <li>Zalando <a href="https://tech.zalando.com/blog/">https://tech.zalando.com/blog/</a></li>
@@ -1036,8 +976,6 @@
 <h4>T companies</h4>
 <li>theScore <a href="http://techblog.thescore.com/">http://techblog.thescore.com/</a></li>
 <li>TaskRabbit <a href="http://tech.taskrabbit.com/">http://tech.taskrabbit.com/</a></li>
-<h4>I companies</h4>
-<li>Intent HQ <a href="http://engineering.intenthq.com/">http://engineering.intenthq.com/</a></li>
 <h4>M companies</h4>
 <li>Mandrill <a href="http://blog.mandrill.com/">http://blog.mandrill.com/</a></li>
 <h4>N companies</h4>
@@ -1058,20 +996,14 @@
 ]]></description><link>https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2015-25</link><guid isPermaLink="false">https://www.trackawesomelist.com/kilimchoi/engineering-blogs/week#2015-25</guid><pubDate>Mon, 15 Jun 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[kilimchoi/engineering-blogs Jun 8th - Jun 14th, 2015]]></title><description><![CDATA[<h4>N individuals</h4>
 <li>Nicolas Liochon <a href="http://blog.thislongrun.com/">http://blog.thislongrun.com/</a></li>
 <li>NSHipster <a href="http://nshipster.com/">http://nshipster.com/</a></li>
-<h4>O companies</h4>
-<li>OpenTable <a href="http://tech.opentable.com/">http://tech.opentable.com/</a></li>
-<li>Oyster <a href="http://tech.oyster.com/">http://tech.oyster.com/</a></li>
 <h4>M companies</h4>
 <li>MemSQL <a href="http://blog.memsql.com/content/engineering/">http://blog.memsql.com/content/engineering/</a></li>
 <li>Medallia <a href="http://engineering.medallia.com/blog/">http://engineering.medallia.com/blog/</a></li>
-<li>Monsanto <a href="http://engineering.monsanto.com/">http://engineering.monsanto.com/</a></li>
 <h4>F companies</h4>
 <li>Flickr <a href="http://code.flickr.net/">http://code.flickr.net/</a></li>
-<li>Funding Circle <a href="https://engineering.fundingcircle.com/">https://engineering.fundingcircle.com/</a></li>
 <li>Facebook <a href="https://code.facebook.com/posts/">https://code.facebook.com/posts/</a></li>
 <li>Fiftythree <a href="http://making.fiftythree.com/">http://making.fiftythree.com/</a></li>
 <li>Finn.no <a href="http://tech.finn.no/">http://tech.finn.no/</a></li>
-<li>Flipboard <a href="http://engineering.flipboard.com/">http://engineering.flipboard.com/</a></li>
 <h4>T companies</h4>
 <li>Thumbtack <a href="https://www.thumbtack.com/engineering/">https://www.thumbtack.com/engineering/</a></li>
 <li>Twitter <a href="https://blog.twitter.com/engineering">https://blog.twitter.com/engineering</a></li>
@@ -1080,7 +1012,6 @@
 <li>Takipi <a href="http://blog.takipi.com/">http://blog.takipi.com/</a></li>
 <h4>B companies</h4>
 <li>BlaBlaCar <a href="http://blablatech.com/blog/">http://blablatech.com/blog/</a></li>
-<li>Bitly <a href="http://word.bitly.com/">http://word.bitly.com/</a></li>
 <h4>G companies</h4>
 <li>GitHub Old <a href="https://github.com/blog/category/engineering">https://github.com/blog/category/engineering</a></li>
 <li>Galois <a href="https://galois.com/blog/">https://galois.com/blog/</a></li>
@@ -1097,13 +1028,6 @@
 <h4>R individuals</h4>
 <li>Reginald Braithwaite <a href="http://raganwald.com/#essays">http://raganwald.com/#essays</a></li>
 <li>Robert C. Martin <a href="http://blog.cleancoder.com/">http://blog.cleancoder.com/</a></li>
-<h4>S companies</h4>
-<li>Shape Security <a href="http://engineering.shapesecurity.com/">http://engineering.shapesecurity.com/</a></li>
-<li>Salesforce <a href="https://developer.salesforce.com/blogs/engineering/">https://developer.salesforce.com/blogs/engineering/</a></li>
-<li>Simple <a href="https://www.simple.com/engineering">https://www.simple.com/engineering</a></li>
-<li>Soundcloud <a href="https://developers.soundcloud.com/blog/">https://developers.soundcloud.com/blog/</a></li>
-<li>Spotify <a href="https://labs.spotify.com/">https://labs.spotify.com/</a></li>
-<li>Square <a href="https://corner.squareup.com/">https://corner.squareup.com/</a></li>
 <h4>P individuals</h4>
 <li>Peteris Krumins <a href="http://www.catonmat.net/blog/">http://www.catonmat.net/blog/</a></li>
 <li>Peter Norvig <a href="http://norvig.com/">http://norvig.com/</a></li>
@@ -1135,7 +1059,6 @@
 <li>Artsy <a href="http://artsy.github.io/">http://artsy.github.io/</a></li>
 <li>AdRoll <a href="http://tech.adroll.com/blog/">http://tech.adroll.com/blog/</a></li>
 <h4>D companies</h4>
-<li>DeferPanic <a href="https://deferpanic.com/blog/">https://deferpanic.com/blog/</a></li>
 <li>Dropbox <a href="https://blogs.dropbox.com/tech/">https://blogs.dropbox.com/tech/</a></li>
 <h4>E companies</h4>
 <li>Etsy <a href="https://codeascraft.com/">https://codeascraft.com/</a></li>
@@ -1152,6 +1075,12 @@
 <li>Prezi <a href="https://medium.com/prezi-engineering">https://medium.com/prezi-engineering</a></li>
 <h4>R companies</h4>
 <li>Rightscale <a href="http://eng.rightscale.com/">http://eng.rightscale.com/</a></li>
+<h4>S companies</h4>
+<li>Salesforce <a href="https://developer.salesforce.com/blogs/engineering/">https://developer.salesforce.com/blogs/engineering/</a></li>
+<li>Simple <a href="https://www.simple.com/engineering">https://www.simple.com/engineering</a></li>
+<li>Soundcloud <a href="https://developers.soundcloud.com/blog/">https://developers.soundcloud.com/blog/</a></li>
+<li>Spotify <a href="https://labs.spotify.com/">https://labs.spotify.com/</a></li>
+<li>Square <a href="https://corner.squareup.com/">https://corner.squareup.com/</a></li>
 <h4>M individuals</h4>
 <li>Marco Pivetta <a href="http://ocramius.github.io/">http://ocramius.github.io/</a></li>
 <li>Matt Cutts <a href="https://www.mattcutts.com/blog/">https://www.mattcutts.com/blog/</a></li>
