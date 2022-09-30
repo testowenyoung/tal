@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[pFarb/awesome-crypto-papers Weekly Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 21 Sep 2022 16:07:23 GMT</lastBuildDate><item><title><![CDATA[pFarb/awesome-crypto-papers Jan 10th - Jan 16th, 2022]]></title><description><![CDATA[<h2>The list</h2><h4>Zero Knowledge Proofs</h4>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[pFarb/awesome-crypto-papers Weekly Updates RSS Feed]]></title><description><![CDATA[Track daily updates of more than 500 awesome projects, including selfhosted, rust, javascript, swift, python, react, vue,  free for dev, flutter, go etc.]]></description><link>https://www.trackawesomelist.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 30 Sep 2022 17:28:43 GMT</lastBuildDate><item><title><![CDATA[pFarb/awesome-crypto-papers Sep 26th - Oct 2nd, 2022]]></title><description><![CDATA[<h2>The list</h2><h4>Brief introductions</h4>
+<li><a href="http://web.archive.org/web/20201112040412/http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf">Communication Theory of Secrecy Systems</a> - Fundamental cryptography paper by Claude Shannon.</li>
+<h2>The list</h2><h4>Secret key cryptography</h4>
+<li><a href="https://web.archive.org/web/20220209130448/https://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf">Ongoing Research Areas in Symmetric Cryptography</a> - Overview of ongoing research in secret key crypto and hashes by ECRYPT Network of Excellence in Cryptology.</li>
+<h2>The list</h2><h4>Cryptanalysis</h4>
+<li><a href="https://web.archive.org/web/20220710225943/https://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf">Differential Cryptanalysis of Salsa20/8</a> - A great example of stream cipher cryptanalysis, by Yukiyasu Tsunoo et al.</li>
+<h2>The list</h2><h4>Post-quantum cryptography</h4>
+<li><a href="https://web.archive.org/web/20210510200628/https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf">Post-quantum cryptography</a> - Introduction to post-quantum cryptography.</li>
+<h2>The list</h2><h3>Books</h3>
+<li><a href="https://web.archive.org/web/20220209130435/https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf">Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers</a> - Broad overview of design and cryptanalysis of various ciphers and hash functions, by Bart Van Rompay.</li>
+]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2022-39</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2022-39</guid><pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Jan 10th - Jan 16th, 2022]]></title><description><![CDATA[<h2>The list</h2><h4>Zero Knowledge Proofs</h4>
 <li><a href="https://cseweb.ucsd.edu/~mihir/papers/pok.pdf">Proofs of knowledge</a> - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.</li>
 <li><a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.9048&#x26;rep=rep1&#x26;type=pdf">How to Prove a Theorem So No One Else Can Claim It</a> - By Manuel Blum.</li>
 <li><a href="https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf">Knowledge complexity of interactive proof systems</a> - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.</li>
@@ -8,13 +18,11 @@
 ]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2022-2</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2022-2</guid><pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Jan 3rd - Jan 9th, 2022]]></title><description><![CDATA[<h2>The list</h2><h4>Public key cryptography: General and DLP</h4>
 <li><a href="https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf">How to Share a Secret</a> - A safe method for sharing secrets.</li>
 <h2>The list</h2><h4>Cryptanalysis</h4>
-<li><a href="http://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf">Differential Cryptanalysis of Salsa20/8</a> - A great example of stream cipher cryptanalysis, by Yukiyasu Tsunoo et al.</li>
 <li><a href="https://eprint.iacr.org/2008/263">Slide Attacks on a Class of Hash Functions</a> - Applying slide attacks (typical cryptanalysis technique for block ciphers) to hash functions, M. Gorski et al.</li>
 <li><a href="http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04">Cryptanalysis of block ciphers and protocols</a> - By Elad Pinhas Barkan.</li>
 <li><a href="http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf">Intro to Linear &#x26; Differential Cryptanalysis</a> - A beginner-friendly paper explaining and demonstrating techniques for linear and differential cryptanalysis.</li>
 <h2>The list</h2><h3>Books</h3>
 <li><a href="https://crypto.stanford.edu/~dabo/cryptobook/">A Graduate Course in Applied Cryptography</a> - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptanalysis and cryptography-related security.</li>
-<li><a href="https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf">Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers</a> - Broad overview of design and cryptanalysis of various ciphers and hash functions, by Bart Van Rompay.</li>
 ]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2022-1</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2022-1</guid><pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Nov 16th - Nov 22nd, 2020]]></title><description><![CDATA[<h2>The list</h2><h3>Online crypto challenges</h3>
 <li><a href="https://cryptohack.org/">CryptoHack</a></li>
 ]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2020-47</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2020-47</guid><pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Aug 10th - Aug 16th, 2020]]></title><description><![CDATA[<h2>The list</h2><h4>General cryptographic interest</h4>
@@ -38,8 +46,6 @@
 <li><a href="https://id0-rsa.pub/">id0-rsa crypto challenges</a>.</li>
 ]]></description><link>https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2020-33</link><guid isPermaLink="false">https://www.trackawesomelist.com/pFarb/awesome-crypto-papers/week#2020-33</guid><pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate></item><item><title><![CDATA[pFarb/awesome-crypto-papers Jul 23rd - Jul 29th, 2018]]></title><description><![CDATA[<h2>The list</h2><h4>Simple: cryptography for non-engineers</h4>
 <li><a href="https://www.cs.princeton.edu/~felten/encryption_primer.pdf">Nuts and Bolts of Encryption: A Primer for Policymakers</a>.</li>
-<h2>The list</h2><h4>Brief introductions</h4>
-<li><a href="http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf">Communication Theory of Secrecy Systems</a> - Fundamental cryptography paper by Claude Shannon.</li>
 <h2>The list</h2><h4>Public key cryptography: General and DLP</h4>
 <li><a href="http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf">Twenty Years of Attacks on the RSA Cryptosystem</a> - Great inquiry into attacking RSA and it's internals, by Dan Boneh.</li>
 <h2>The list</h2><h4>Public key cryptography: Elliptic-curve crypto</h4>
@@ -53,7 +59,6 @@
 <li><a href="https://www.hindawi.com/journals/tswj/2014/560484/">A Survey of Noninteractive Zero Knowledge Proof System and Its Applications</a>.</li>
 <h2>The list</h2><h4>Post-quantum cryptography</h4>
 <li><a href="https://eprint.iacr.org/2017/314.pdf">Post-quantum cryptography - dealing with the fallout of physics success</a> - Brief observation of mathematical tasks that can be used to build cryptosystems secure against attacks by post-quantum computers.</li>
-<li><a href="https://www.researchgate.net/profile/Nicolas_Sendrier/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf">Post-quantum cryptography</a> - Introduction to post-quantum cryptography.</li>
 <li><a href="https://cr.yp.to/papers/pqrsa-20170419.pdf">Post-quantum RSA</a> - Daniel Bernshtein's insight how to save RSA in post-quantum period.</li>
 <h2>The list</h2><h3>Lectures and educational courses</h3>
 <li><a href="https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf">A Course in Cryptography</a> - Lecture notes by Rafael Pass, Abhi Shelat.</li>
@@ -81,7 +86,6 @@
 <li><a href="http://cs.tau.ac.il/~tromer/papers/cache.pdf">Cache Attacks and Countermeasures: the Case of AES</a> - Side channel attacks on AES, another view, by Dag Arne Osvik, Adi Shamir and Eran Tromer.</li>
 <li><a href="https://cr.yp.to/snuffle/salsafamily-20071225.pdf">Salsa20 family of stream ciphers</a> - Broad explanation of Salsa20 security cipher by Daniel J. Bernstein.</li>
 <li><a href="https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1">AES submission document on Rijndael</a> - Original Rijndael proposal by Joan Daemen and Vincent Rijmen.</li>
-<li><a href="http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf">Ongoing Research Areas in Symmetric Cryptography</a> - Overview of ongoing research in secret key crypto and hashes by ECRYPT Network of Excellence in Cryptology.</li>
 <h2>The list</h2><h4>Cryptanalysis</h4>
 <li><a href="https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html">Self-Study Course in Block Cipher Cryptanalysis</a> - Attempt to organize the existing literature of block-cipher cryptanalysis in a way that students can use to learn cryptanalytic techniques and ways to break new algorithms, by Bruce Schneier.</li>
 <li><a href="http://crypto.junod.info/phdthesis.pdf">Statistical Cryptanalysis of Block Ciphers</a> - By Pascal Junod.</li>
